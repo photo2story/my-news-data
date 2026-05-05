@@ -3,40 +3,51 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>SOC News — my-news-data</title>
+    <title>SOC News Center — my-news-data</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div class="container">
+    <div class="container animate-fade-in">
       <header class="header">
-        <h1>SOC News</h1>
-        <p class="subtitle">엔지니어링·SOC 뉴스 클리핑 (GitHub Pages 정적 뷰어)</p>
+        <h1>🏗️ SOC News Center</h1>
+        <p>토목 엔지니어링 및 SOC 인프라 주요 뉴스 자동수집 대시보드</p>
       </header>
 
-      <div class="controls">
-        <label>
-          <span>기간</span>
-          <select id="dateFilter">
-            <option value="all">전체</option>
-            <option value="today">당일(24h)</option>
+      <div class="controls-bar">
+        <div class="filter-group">
+          <span class="filter-icon" aria-hidden="true">⏱</span>
+          <span class="filter-label">기간 필터</span>
+          <select id="dateFilter" class="select-box">
+            <option value="today">당일 (24시간)</option>
             <option value="3days">최근 3일</option>
-            <option value="1week">최근 1주</option>
+            <option value="1week">최근 1주일</option>
             <option value="1month">최근 1개월</option>
+            <option value="all" selected>전체</option>
           </select>
-        </label>
-        <label>
-          <span>표시</span>
-          <select id="limit">
-            <option value="30">30개</option>
-            <option value="50">50개</option>
-            <option value="100">100개</option>
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label">표시 개수</span>
+          <select id="limit" class="select-box">
+            <option value="10">10개씩 보기</option>
+            <option value="30" selected>30개씩 보기</option>
+            <option value="50">50개씩 보기</option>
+            <option value="100">100개씩 보기</option>
           </select>
-        </label>
-        <button type="button" id="reload" class="btn-secondary">새로고침</button>
+        </div>
+
+        <div class="action-buttons">
+          <button type="button" id="btnTelegram" class="btn btn-telegram">📤 텔레그램 전송</button>
+          <button type="button" id="btnDiscord" class="btn btn-discord">📤 디스코드 전송</button>
+          <button type="button" id="reload" class="btn btn-refresh">새로고침</button>
+        </div>
       </div>
 
-      <p id="status" class="status" aria-live="polite">불러오는 중…</p>
-      <div id="empty" class="empty-state hidden">표시할 뉴스가 없습니다.</div>
+      <p id="status" class="status-line" aria-live="polite">불러오는 중…</p>
+      <div id="empty" class="empty-state hidden"><p>해당 조건에 맞는 수집된 뉴스가 없습니다.</p></div>
       <main id="root"></main>
     </div>
     <script src="./app.js" defer></script>

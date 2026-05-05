@@ -27,7 +27,10 @@
 
   async function loadManifest() {
     const res = await fetch(BASE + "data/manifest.json", { cache: "no-store" });
-    if (!res.ok) throw new Error("manifest.json 을 불러올 수 없습니다. (데이터 동기화 워크플로가 한 번 실행되었는지 확인하세요.)");
+    if (!res.ok)
+      throw new Error(
+        "manifest.json 을 불러올 수 없습니다. (데이터 동기화 워크플로가 한 번 실행되었는지 확인하세요.)",
+      );
     return res.json();
   }
 
@@ -83,18 +86,17 @@
 
     for (const dateKey of keys) {
       const section = document.createElement("section");
-      section.className = "date-group";
+      section.className = "date-group animate-fade-in";
 
       const h2 = document.createElement("h2");
       h2.className = "date-header";
       const items = groups[dateKey];
       h2.innerHTML =
-        '<span class="date-title">' +
+        '<span aria-hidden="true">📅</span> <span>' +
         dateKey +
         '</span> <span class="date-count">(' +
         items.length +
         "건)</span>";
-      section.appendChild(h2);
 
       const grid = document.createElement("div");
       grid.className = "news-grid";
@@ -109,6 +111,7 @@
         tag.className = "news-tag";
         tag.textContent = item.filter || "soc";
         const src = document.createElement("span");
+        src.className = "news-source";
         src.textContent = (item.source || "").toUpperCase();
         meta.appendChild(tag);
         meta.appendChild(src);
@@ -122,7 +125,7 @@
         link.href = item.link;
         link.target = "_blank";
         link.rel = "noopener noreferrer";
-        link.textContent = "기사 원문 보기 →";
+        link.textContent = "기사 원문 보기";
 
         card.appendChild(meta);
         card.appendChild(title);
@@ -130,12 +133,19 @@
         grid.appendChild(card);
       }
 
+      section.appendChild(h2);
       section.appendChild(grid);
       root.appendChild(section);
     }
   }
 
   let cacheItems = [];
+
+  function getFilteredCount() {
+    const dateFilter = $("dateFilter").value;
+    const limit = parseInt($("limit").value, 10) || 30;
+    return applyFilter(cacheItems, dateFilter, limit).length;
+  }
 
   async function refresh() {
     const status = $("status");
@@ -164,9 +174,25 @@
     render(groups);
   }
 
+  function shareTelegram() {
+    const n = getFilteredCount();
+    const text = encodeURIComponent("📰 오늘 수집된 SOC 뉴스 요약\n\n총 " + n + "건이 수집되었습니다.");
+    window.open("https://t.me/share/url?url=" + encodeURIComponent(window.location.href) + "&text=" + text, "_blank");
+  }
+
+  function shareDiscord() {
+    const n = getFilteredCount();
+    window.alert("디스코드 전송 기능은 백엔드 웹훅(Webhook) 연동 후 활성화됩니다. 현재는 링크가 복사됩니다!");
+    navigator.clipboard.writeText(
+      "📰 오늘 수집된 SOC 뉴스 요약 (" + n + "건) - " + window.location.href,
+    );
+  }
+
   $("dateFilter").addEventListener("change", applyAndRender);
   $("limit").addEventListener("change", applyAndRender);
   $("reload").addEventListener("click", refresh);
+  $("btnTelegram").addEventListener("click", shareTelegram);
+  $("btnDiscord").addEventListener("click", shareDiscord);
 
   refresh();
 })();
