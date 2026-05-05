@@ -185,15 +185,6 @@ a {
   transform: translateY(-2px);
 }
 
-.btn-discord {
-  background: #5865f2;
-  color: white;
-}
-.btn-discord:hover {
-  background: #4752c4;
-  transform: translateY(-2px);
-}
-
 .btn-refresh {
   background: rgba(59, 130, 246, 0.2);
   color: #60a5fa;

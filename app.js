@@ -263,14 +263,6 @@
     window.open("https://t.me/share/url?url=" + encodeURIComponent(window.location.href) + "&text=" + text, "_blank");
   }
 
-  function shareDiscord() {
-    const n = getFilteredCount();
-    window.alert("디스코드 전송 기능은 백엔드 웹훅(Webhook) 연동 후 활성화됩니다. 현재는 링크가 복사됩니다!");
-    navigator.clipboard.writeText(
-      "📰 오늘 수집된 SOC 뉴스 요약 (" + n + "건) - " + window.location.href,
-    );
-  }
-
   $("dateFilter").addEventListener("change", () => {
     currentPage = 1;
     applyAndRender();
@@ -281,7 +273,6 @@
   });
   $("reload").addEventListener("click", refresh);
   $("btnTelegram").addEventListener("click", shareTelegram);
-  $("btnDiscord").addEventListener("click", shareDiscord);
 
   refresh();
 })();
