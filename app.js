@@ -105,6 +105,19 @@
         const card = document.createElement("article");
         card.className = "news-card";
 
+        const topRow = document.createElement("div");
+        topRow.className = "news-top-row";
+        const spacer = document.createElement("span");
+        spacer.className = "news-top-spacer";
+        const link = document.createElement("a");
+        link.className = "news-link news-link-top";
+        link.href = item.link;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = "원문";
+        topRow.appendChild(spacer);
+        topRow.appendChild(link);
+
         const meta = document.createElement("div");
         meta.className = "news-meta";
         const tag = document.createElement("span");
@@ -120,16 +133,9 @@
         title.className = "news-title";
         title.textContent = item.title;
 
-        const link = document.createElement("a");
-        link.className = "news-link";
-        link.href = item.link;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.textContent = "기사 원문 보기";
-
+        card.appendChild(topRow);
         card.appendChild(meta);
         card.appendChild(title);
-        card.appendChild(link);
         grid.appendChild(card);
       }
 
