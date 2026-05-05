@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SOC News — my-news-data</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1>SOC News</h1>
+        <p class="subtitle">엔지니어링·SOC 뉴스 클리핑 (GitHub Pages 정적 뷰어)</p>
+      </header>
+
+      <div class="controls">
+        <label>
+          <span>기간</span>
+          <select id="dateFilter">
+            <option value="all">전체</option>
+            <option value="today">당일(24h)</option>
+            <option value="3days">최근 3일</option>
+            <option value="1week">최근 1주</option>
+            <option value="1month">최근 1개월</option>
+          </select>
+        </label>
+        <label>
+          <span>표시</span>
+          <select id="limit">
+            <option value="30">30개</option>
+            <option value="50">50개</option>
+            <option value="100">100개</option>
+          </select>
+        </label>
+        <button type="button" id="reload" class="btn-secondary">새로고침</button>
+      </div>
+
+      <p id="status" class="status" aria-live="polite">불러오는 중…</p>
+      <div id="empty" class="empty-state hidden">표시할 뉴스가 없습니다.</div>
+      <main id="root"></main>
+    </div>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

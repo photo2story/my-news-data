@@ -1,0 +1,45 @@
+[
+  {
+    "id": "925894a2c0b888f8bc1d02b7f4dea141",
+    "source": "dnews",
+    "title": "아스콘 대란…도로 유지보수 공사 멈췄다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605031635334060431&section=S1N0",
+    "publishedAt": "2026-05-03T07:35:34.000Z",
+    "content": "최근 한달간 아스콘값 20~30%↑울산 등 정비공사 발주 중단 잇따라지역건설업계 물량가뭄에 울상포트홀 보수 지연, 시만안전 위협[대한경제=김승수 ...",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-05-03T07:35:34.000Z"
+  },
+  {
+    "id": "3e96e8bad4fd0a9f57084ae01a491406",
+    "source": "dnews",
+    "title": "특정공법 심의 ‘깜깜이’ 운영이 불신 자초",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605031216197110411&section=S1N0",
+    "publishedAt": "2026-05-03T03:16:21.000Z",
+    "content": "도공은 심의결과 10일간 홈페이지 공지후 내려[대한경제=권혁용 기자]한국도로공사는 지난 3월10일 경북 김천 본사에서 호남고속도로(김제-삼례간) ...",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-05-03T03:16:21.000Z"
+  },
+  {
+    "id": "36030341b19119c217eebb79213b6c31",
+    "source": "engdaily",
+    "title": "이천 부발역세권, 북단지구 도시개발사업 승인",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22204",
+    "publishedAt": "2026-05-03T03:00:03.000Z",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-05-03T03:00:03.000Z"
+  },
+  {
+    "id": "be75613988b2040847b89e030c1d9753",
+    "source": "dnews",
+    "title": "비수도권 최초 광역급행철도 CTX, 연말 주인찾기 나선다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605031051571710407&section=S1N0",
+    "publishedAt": "2026-05-03T01:51:57.000Z",
+    "content": "'CTX' 12월 제3자 제안공고대전~세종~충북 64.4km2028년 첫삽, 2034년 개통[대한경제=이재현 기자]비수도권 최초의 광역급행철도(GTX급)인 ‘충청권 광역급...",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-05-03T01:51:57.000Z"
+  }
+]
