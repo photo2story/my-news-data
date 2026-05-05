@@ -1,135 +1,5 @@
 [
   {
-    "id": "d1c46d2ff17fd1f333d62b1ac60b3e6a",
-    "source": "engdaily",
-    "title": "지하철 8호선 연장사업, KDI 현장 실사",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22196",
-    "publishedAt": "2026-04-30T19:15:00.000Z",
-    "summary": null,
-    "filter": "지하철",
-    "createdAt": "2026-04-30T19:15:00.000Z"
-  },
-  {
-    "id": "def58610e780a8cdd5461341f08cb1fc",
-    "source": "engdaily",
-    "title": "용인 고기교, 재가설 및 확장사업 개시",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22197",
-    "publishedAt": "2026-04-30T19:10:00.000Z",
-    "summary": null,
-    "filter": "재가설",
-    "createdAt": "2026-04-30T19:10:00.000Z"
-  },
-  {
-    "id": "ade16de0cb4ab0099ea066006d27d333",
-    "source": "engdaily",
-    "title": "공항철도, 대만 가오슝 메트로와 기술 교류 추진",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22199",
-    "publishedAt": "2026-04-30T19:05:00.000Z",
-    "summary": null,
-    "filter": "공항",
-    "createdAt": "2026-04-30T19:05:00.000Z"
-  },
-  {
-    "id": "8f64f71d4a6f8bf003f657460acb94eb",
-    "source": "engdaily",
-    "title": "서울시, 총 16조원 강북 SOC 재원 기금 마련",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22178",
-    "publishedAt": "2026-04-30T19:00:00.000Z",
-    "summary": null,
-    "filter": "SOC",
-    "createdAt": "2026-04-30T19:00:00.000Z"
-  },
-  {
-    "id": "94c95d2e444e53659e087b443ab50cb9",
-    "source": "engdaily",
-    "title": "“BIM 의무화한다더니”…당초 로드맵과 온도차",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22176",
-    "publishedAt": "2026-04-30T18:55:00.000Z",
-    "summary": null,
-    "filter": "BIM",
-    "createdAt": "2026-04-30T18:55:00.000Z"
-  },
-  {
-    "id": "54680e96defc261cfa1f113cbb4603de",
-    "source": "engdaily",
-    "title": "현대ENG, 미국 태양광 발전사업 PF 금융약정 체결 완료",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22184",
-    "publishedAt": "2026-04-30T18:50:00.000Z",
-    "summary": null,
-    "filter": "태양광",
-    "createdAt": "2026-04-30T18:50:00.000Z"
-  },
-  {
-    "id": "63853d71345fa62dc0619593e75832a1",
-    "source": "engdaily",
-    "title": "김윤덕 국토부 장관 “5대 국토계획 상반기 내 발표”",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22185",
-    "publishedAt": "2026-04-30T18:45:00.000Z",
-    "summary": null,
-    "filter": "국토부",
-    "createdAt": "2026-04-30T18:45:00.000Z"
-  },
-  {
-    "id": "58661d17502f42bac86287b0214727ca",
-    "source": "engdaily",
-    "title": "동탄 도시철도 1단계, 수의계약 가닥",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22202",
-    "publishedAt": "2026-04-30T18:40:00.000Z",
-    "summary": null,
-    "filter": "수의계약",
-    "createdAt": "2026-04-30T18:40:00.000Z"
-  },
-  {
-    "id": "3753b6d808f7968ceada9a0982d929f4",
-    "source": "engdaily",
-    "title": "인천해수청, 건설엔지니어링 평가 시행",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22191",
-    "publishedAt": "2026-04-30T18:35:00.000Z",
-    "summary": null,
-    "filter": "건설엔지니어링",
-    "createdAt": "2026-04-30T18:35:00.000Z"
-  },
-  {
-    "id": "a2378a35e22a418671601fbdc8a5988d",
-    "source": "engdaily",
-    "title": "\"지반침하 진단\"…도심 굴착공사장 100곳 특별점검",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22179",
-    "publishedAt": "2026-04-30T18:30:00.000Z",
-    "summary": null,
-    "filter": "지반침하",
-    "createdAt": "2026-04-30T18:30:00.000Z"
-  },
-  {
-    "id": "c24ed294572e1e06927e51f495a92276",
-    "source": "engdaily",
-    "title": "“정체 심각, 포천~철원 고속도로 건설 필요하다”",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22182",
-    "publishedAt": "2026-04-30T18:25:00.000Z",
-    "summary": null,
-    "filter": "고속도로",
-    "createdAt": "2026-04-30T18:25:00.000Z"
-  },
-  {
-    "id": "c6a40ed663eec18f9700515575fa2833",
-    "source": "engdaily",
-    "title": "\"지선 앞두고 정치인까지\" 5호선 연장, 지자체 충돌",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22177",
-    "publishedAt": "2026-04-30T18:20:00.000Z",
-    "summary": null,
-    "filter": "5호선",
-    "createdAt": "2026-04-30T18:20:00.000Z"
-  },
-  {
-    "id": "6890e61c79e92180a2dcfdc10086e8f0",
-    "source": "engdaily",
-    "title": "인천항만공사, 인천항 토목시설물 보수·보강 추진",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22180",
-    "publishedAt": "2026-04-30T18:15:00.000Z",
-    "summary": null,
-    "filter": "토목",
-    "createdAt": "2026-04-30T18:15:00.000Z"
-  },
-  {
     "id": "faa2b34e09a5ce338c8312e1bc27263b",
     "source": "engdaily",
     "title": "새만금 국가산단, 개발·실시계획 변경·고시",
@@ -180,6 +50,16 @@
     "createdAt": "2026-04-30T06:34:00.000Z"
   },
   {
+    "id": "58661d17502f42bac86287b0214727ca",
+    "source": "engdaily",
+    "title": "동탄 도시철도 1단계, 수의계약 가닥",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22202",
+    "publishedAt": "2026-04-30T05:25:00.000Z",
+    "summary": null,
+    "filter": "수의계약",
+    "createdAt": "2026-04-30T05:25:00.000Z"
+  },
+  {
     "id": "18fa53755734f37b5208170d5b4ebff1",
     "source": "engdaily",
     "title": "가덕도신공항건설공단, 여객터미널 설계에 시민 참여",
@@ -188,16 +68,6 @@
     "summary": null,
     "filter": "공항",
     "createdAt": "2026-04-30T05:06:00.000Z"
-  },
-  {
-    "id": "e87239175d864199de4c2f09908f5017",
-    "source": "engdaily",
-    "title": "조달청, 건설엔지니어링 PQ 전산화 추진",
-    "link": "https://www.engdaily.com/news/articleView.html?idxno=22161",
-    "publishedAt": "2026-04-30T03:00:02.000Z",
-    "summary": null,
-    "filter": "건설엔지니어링",
-    "createdAt": "2026-04-30T03:00:02.000Z"
   },
   {
     "id": "fe1d4c868783c2ba84ad83276f67479d",
@@ -298,6 +168,36 @@
     "createdAt": "2026-04-30T02:23:00.000Z"
   },
   {
+    "id": "ade16de0cb4ab0099ea066006d27d333",
+    "source": "engdaily",
+    "title": "공항철도, 대만 가오슝 메트로와 기술 교류 추진",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22199",
+    "publishedAt": "2026-04-30T02:02:00.000Z",
+    "summary": null,
+    "filter": "공항",
+    "createdAt": "2026-04-30T02:02:00.000Z"
+  },
+  {
+    "id": "def58610e780a8cdd5461341f08cb1fc",
+    "source": "engdaily",
+    "title": "용인 고기교, 재가설 및 확장사업 개시",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22197",
+    "publishedAt": "2026-04-30T01:35:00.000Z",
+    "summary": null,
+    "filter": "재가설",
+    "createdAt": "2026-04-30T01:35:00.000Z"
+  },
+  {
+    "id": "d1c46d2ff17fd1f333d62b1ac60b3e6a",
+    "source": "engdaily",
+    "title": "지하철 8호선 연장사업, KDI 현장 실사",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22196",
+    "publishedAt": "2026-04-30T01:13:00.000Z",
+    "summary": null,
+    "filter": "지하철",
+    "createdAt": "2026-04-30T01:13:00.000Z"
+  },
+  {
     "id": "d426738ced2615fd6d2c64ba7971a2cc",
     "source": "engdaily",
     "title": "새만금개발청, 뉴웨이브 4기 출범",
@@ -306,6 +206,16 @@
     "summary": null,
     "filter": "새만금",
     "createdAt": "2026-04-30T01:05:00.000Z"
+  },
+  {
+    "id": "3753b6d808f7968ceada9a0982d929f4",
+    "source": "engdaily",
+    "title": "인천해수청, 건설엔지니어링 평가 시행",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22191",
+    "publishedAt": "2026-04-30T00:25:00.000Z",
+    "summary": null,
+    "filter": "건설엔지니어링",
+    "createdAt": "2026-04-30T00:25:00.000Z"
   },
   {
     "id": "6c76993d8309ac464818cd0484d2ce57",

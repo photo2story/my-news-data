@@ -29,6 +29,12 @@
     ].join("");
   }
 
+  function itemDateKey(item) {
+    const iso = item.publishedAt || item.createdAt;
+    if (iso) return toDateKey(parseISO(iso));
+    return item.fileDateKey || "";
+  }
+
   function formatDateHeader(iso) {
     const d = parseISO(iso);
     return new Intl.DateTimeFormat("ko-KR", {
@@ -74,7 +80,7 @@
 
     let filtered = items;
     if (cutoffKey) {
-      filtered = items.filter((item) => (item.fileDateKey || toDateKey(parseISO(item.createdAt))) >= cutoffKey);
+      filtered = items.filter((item) => itemDateKey(item) >= cutoffKey);
     }
     return filtered;
   }
@@ -82,7 +88,7 @@
   function groupByDate(items) {
     const groups = {};
     for (const item of items) {
-      const dateKey = item.fileDateKey || toDateKey(parseISO(item.createdAt));
+      const dateKey = itemDateKey(item);
       const key = formatDateHeader(`${dateKey.slice(0, 4)}-${dateKey.slice(4, 6)}-${dateKey.slice(6, 8)}T12:00:00+09:00`);
       if (!groups[key]) groups[key] = [];
       groups[key].push(item);
