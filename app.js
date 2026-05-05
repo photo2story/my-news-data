@@ -1,5 +1,10 @@
 (function () {
   const BASE = "";
+  const DATA_VERSION = Date.now().toString();
+
+  function withCacheBust(url) {
+    return url + (url.includes("?") ? "&" : "?") + "v=" + DATA_VERSION;
+  }
 
   function $(id) {
     return document.getElementById(id);
@@ -15,6 +20,15 @@
     return new Date(s);
   }
 
+  function toDateKey(date) {
+    const d = new Date(date);
+    return [
+      d.getFullYear(),
+      String(d.getMonth() + 1).padStart(2, "0"),
+      String(d.getDate()).padStart(2, "0"),
+    ].join("");
+  }
+
   function formatDateHeader(iso) {
     const d = parseISO(iso);
     return new Intl.DateTimeFormat("ko-KR", {
@@ -26,7 +40,7 @@
   }
 
   async function loadManifest() {
-    const res = await fetch(BASE + "data/manifest.json", { cache: "no-store" });
+    const res = await fetch(withCacheBust(BASE + "data/manifest.json"), { cache: "reload" });
     if (!res.ok)
       throw new Error(
         "manifest.json 을 불러올 수 없습니다. (데이터 동기화 워크플로가 한 번 실행되었는지 확인하세요.)",
@@ -38,10 +52,13 @@
     const files = manifest.files || [];
     const all = [];
     for (const file of files) {
-      const res = await fetch(BASE + "data/" + encodeURIComponent(file), { cache: "no-store" });
+      const res = await fetch(withCacheBust(BASE + "data/" + encodeURIComponent(file)), { cache: "reload" });
       if (!res.ok) continue;
       const chunk = await res.json();
-      if (Array.isArray(chunk)) all.push(...chunk);
+      const fileDateKey = file.replace("news_", "").replace(".json", "");
+      if (Array.isArray(chunk)) {
+        all.push(...chunk.map((item) => ({ ...item, fileDateKey })));
+      }
     }
     all.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
     return all;
@@ -49,15 +66,15 @@
 
   function filterItems(items, dateFilter) {
     const now = new Date();
-    let cutoff = null;
-    if (dateFilter === "today") cutoff = subDays(now, 1);
-    else if (dateFilter === "3days") cutoff = subDays(now, 3);
-    else if (dateFilter === "1week") cutoff = subDays(now, 7);
-    else if (dateFilter === "1month") cutoff = subDays(now, 30);
+    let cutoffKey = null;
+    if (dateFilter === "today") cutoffKey = toDateKey(now);
+    else if (dateFilter === "3days") cutoffKey = toDateKey(subDays(now, 2));
+    else if (dateFilter === "1week") cutoffKey = toDateKey(subDays(now, 6));
+    else if (dateFilter === "1month") cutoffKey = toDateKey(subDays(now, 29));
 
     let filtered = items;
-    if (cutoff) {
-      filtered = items.filter((item) => parseISO(item.createdAt) > cutoff);
+    if (cutoffKey) {
+      filtered = items.filter((item) => (item.fileDateKey || toDateKey(parseISO(item.createdAt))) >= cutoffKey);
     }
     return filtered;
   }
@@ -65,7 +82,8 @@
   function groupByDate(items) {
     const groups = {};
     for (const item of items) {
-      const key = formatDateHeader(item.createdAt);
+      const dateKey = item.fileDateKey || toDateKey(parseISO(item.createdAt));
+      const key = formatDateHeader(`${dateKey.slice(0, 4)}-${dateKey.slice(4, 6)}-${dateKey.slice(6, 8)}T12:00:00+09:00`);
       if (!groups[key]) groups[key] = [];
       groups[key].push(item);
     }
