@@ -229,6 +229,46 @@
     "createdAt": "2026-04-30T12:45:21.000Z"
   },
   {
+    "id": "faa2b34e09a5ce338c8312e1bc27263b",
+    "source": "engdaily",
+    "title": "새만금 국가산단, 개발·실시계획 변경·고시",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22208",
+    "publishedAt": "2026-04-30T08:18:00.000Z",
+    "summary": null,
+    "filter": "새만금",
+    "createdAt": "2026-04-30T08:18:00.000Z"
+  },
+  {
+    "id": "87be72dc9f3abb7362d93c818603354b",
+    "source": "engdaily",
+    "title": "철도공단, 오송역 복합환승센터 본격 개발 시동",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22207",
+    "publishedAt": "2026-04-30T07:48:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-04-30T07:48:00.000Z"
+  },
+  {
+    "id": "5d6aa76b80b76621934911151d9aa951",
+    "source": "engdaily",
+    "title": "'턴키' 신월지하차도, 강산건설+건화 수의계약 절차",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22206",
+    "publishedAt": "2026-04-30T07:33:00.000Z",
+    "summary": null,
+    "filter": "턴키",
+    "createdAt": "2026-04-30T07:33:00.000Z"
+  },
+  {
+    "id": "eedf320fd389383274faeb9972db9a15",
+    "source": "engdaily",
+    "title": "해외건설협회, 국토교통 ODA 신규사업 공모 설명회 개최",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22205",
+    "publishedAt": "2026-04-30T07:02:00.000Z",
+    "summary": null,
+    "filter": "ODA",
+    "createdAt": "2026-04-30T07:02:00.000Z"
+  },
+  {
     "id": "12f600bf9217352e4510911e0df628a3",
     "source": "dnews",
     "title": "대방건설, ‘과천과천 공공주택지구 조성공사 1공구’ 수주 눈앞",
@@ -240,6 +280,26 @@
     "createdAt": "2026-04-30T06:51:58.000Z"
   },
   {
+    "id": "36030341b19119c217eebb79213b6c31",
+    "source": "engdaily",
+    "title": "이천 부발역세권, 북단지구 도시개발사업 승인",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22204",
+    "publishedAt": "2026-04-30T06:34:00.000Z",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-04-30T06:34:00.000Z"
+  },
+  {
+    "id": "18fa53755734f37b5208170d5b4ebff1",
+    "source": "engdaily",
+    "title": "가덕도신공항건설공단, 여객터미널 설계에 시민 참여",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22201",
+    "publishedAt": "2026-04-30T05:06:00.000Z",
+    "summary": null,
+    "filter": "공항",
+    "createdAt": "2026-04-30T05:06:00.000Z"
+  },
+  {
     "id": "e87239175d864199de4c2f09908f5017",
     "source": "engdaily",
     "title": "조달청, 건설엔지니어링 PQ 전산화 추진",
@@ -248,5 +308,89 @@
     "summary": null,
     "filter": "건설엔지니어링",
     "createdAt": "2026-04-30T03:00:02.000Z"
+  },
+  {
+    "id": "252c275c33b93afe92fced73a8d6ce66",
+    "source": "dnews",
+    "title": "건설업 고용지표, 22개월 연속 하락세",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604301608147290333",
+    "publishedAt": "2026-04-30T03:00:00.000Z",
+    "content": "1인당 월평균 임금 373만7000원…전년比 4.2% 상승[대한경제=신보훈 기자] 건설업 고용지표가 22개월 연속 하락세를 기록했다. 3일 고용노동부가 발표한 ‘2026년 3월 사업체노동력조사 결과’에 따르면 올해 3월 마지막 영업일 기준 종사자 1인 이상 사업체의 건 ...",
+    "summary": null,
+    "filter": "건설업",
+    "createdAt": "2026-04-30T03:00:00.000Z"
+  },
+  {
+    "id": "3ed561567c7b517c40c2642360642750",
+    "source": "dnews",
+    "title": "근우, IPO 주관사로 NH투자증권 선정…“코스닥 상장 준비 본격화”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604301547377310328",
+    "publishedAt": "2026-04-30T03:00:00.000Z",
+    "content": "[대한경제=신보훈 기자]근우가 NH투자증권과 기업공개(IPO)를 위한 업무계약을 체결했다고 30일 밝혔다. 코스닥 시장 상장 목표는 2030년이다. 근우는 1992년 전기자재 유통업으로 시작해 종합 전력 인프라 기업으로 성장했다. 현재 인공지능(AI) 데이터센터에 필수 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-04-30T03:00:00.000Z"
+  },
+  {
+    "id": "77375e50a2cc9c98aa75c3e3c2271f91",
+    "source": "dnews",
+    "title": "철근 기준가격에 ‘기타원가’ 반영 놓고 신경전…“협의체 마련해야”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604281106174200931",
+    "publishedAt": "2026-04-30T03:00:00.000Z",
+    "content": "철강업계“원가 상승 부담 가중”유류비ㆍ인건비 등 반영 방안 검토건설업계“일방적 변경ㆍ인상 용납 못해”[대한경제=서용원 기자]철근 기준가격 산정 방식을 둘러싸고 건설업계와 철강업계의 갈등이 격화되고 있다.철강업계가 유류비 등 기타원가를 기준가격에 일방적으로 반영하려는 움 ...",
+    "summary": null,
+    "filter": "건설업",
+    "createdAt": "2026-04-30T03:00:00.000Z"
+  },
+  {
+    "id": "431578a2ac084395ba6f418c8801a241",
+    "source": "dnews",
+    "title": "‘세종 국책연구단지 제2연구청사’ 곧 발주…건축 기술형 ‘단비’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291035096600081",
+    "publishedAt": "2026-04-30T03:00:00.000Z",
+    "content": "[대한경제=백경민 기자]‘세종국책연구단지 제2연구청사 개발사업’이 조만간 발걸음을 뗄 전망이다. 조달청은 한국자산관리공사의 계약 요청에 따라 기술검토를 완료한 뒤 이른 시일 내 입찰공고를 낼 계획이다.29일 관련 기관 등에 따르면, 한국자산관리공사는 최근 추정금액 84 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-04-30T03:00:00.000Z"
+  },
+  {
+    "id": "03148529df67dfc8f19eac0d64d15401",
+    "source": "engdaily",
+    "title": "\"중동전쟁 물가 반영\"…국토부, 건설 표준시장단가 내달 8일 공고",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22200",
+    "publishedAt": "2026-04-30T02:23:00.000Z",
+    "summary": null,
+    "filter": "국토부",
+    "createdAt": "2026-04-30T02:23:00.000Z"
+  },
+  {
+    "id": "d426738ced2615fd6d2c64ba7971a2cc",
+    "source": "engdaily",
+    "title": "새만금개발청, 뉴웨이브 4기 출범",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22195",
+    "publishedAt": "2026-04-30T01:05:00.000Z",
+    "summary": null,
+    "filter": "새만금",
+    "createdAt": "2026-04-30T01:05:00.000Z"
+  },
+  {
+    "id": "6c76993d8309ac464818cd0484d2ce57",
+    "source": "engdaily",
+    "title": "용인반도체 클러스터, 도로·전력망 공동건설 우수사례 선정",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22189",
+    "publishedAt": "2026-04-30T00:16:00.000Z",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-04-30T00:16:00.000Z"
+  },
+  {
+    "id": "6240f81d8fa4b9646f2275e1273df1dd",
+    "source": "engdaily",
+    "title": "건설기술인협회, 건설안전 실무 강의",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22190",
+    "publishedAt": "2026-04-30T00:14:00.000Z",
+    "summary": null,
+    "filter": "건설기술인협회",
+    "createdAt": "2026-04-30T00:14:00.000Z"
   }
 ]
