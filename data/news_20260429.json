@@ -1,27 +1,5 @@
 [
   {
-    "id": "2220d100abddfc58c50ea7a489f58628",
-    "source": "dnews",
-    "title": "선거철 앞두고 쏟아진 GTX 공약…현실성은 ‘글쎄’",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604281420068600961&section=S1N0",
-    "publishedAt": "2026-04-29T14:10:00.000Z",
-    "content": "선거철 앞두고 쏟아진 GTX 공약…현실성은 ‘글쎄’ [대한경제 클리핑 04/29]",
-    "summary": null,
-    "filter": "GTX",
-    "createdAt": "2026-04-29T14:10:00.000Z"
-  },
-  {
-    "id": "acd801bbf7d156de0340eb357d4f2e44",
-    "source": "dnews",
-    "title": "건설업계 덮친 노봉법…대형사 사용자성 줄줄이 인정",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604281701031130007&section=S1N0",
-    "publishedAt": "2026-04-29T14:05:00.000Z",
-    "content": "건설업계 덮친 노봉법…대형사 사용자성 줄줄이 인정 [대한경제 클리핑 04/29]",
-    "summary": null,
-    "filter": "노봉법",
-    "createdAt": "2026-04-29T14:05:00.000Z"
-  },
-  {
     "id": "3da746f6428f778d5b2a1b299639be08",
     "source": "engdaily",
     "title": "창원 트램 노선 재정비…2차 철도망 구축 사업 착수",
@@ -168,61 +146,6 @@
     "createdAt": "2026-04-29T03:00:00.000Z"
   },
   {
-    "id": "aaea5d563a7aee8cf00a3768c84be6f1",
-    "source": "dnews",
-    "title": "전문건설업계, 불공정 경쟁체계 개선 요구...국토부에 탄원서 전달",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604282334588930040",
-    "publishedAt": "2026-04-29T03:00:00.000Z",
-    "content": "전문건설업계와기계설비업계가 불공정 경쟁체계를 개선해달라며 국토교통부에 탄원서를 전달했다.28일 대한전문건설협회(회장 윤학수)와 대한기계설비건설협회(회장 허용주)는 건설산업 생산체계 개편에 따른 불공정 경쟁체제 정상화를 촉구하는 회원사 탄원서 40만8391부를 국토교통부 ...",
-    "summary": null,
-    "filter": "건설업",
-    "createdAt": "2026-04-29T03:00:00.000Z"
-  },
-  {
-    "id": "42616f089576f0cd91f4f9f58365ae8d",
-    "source": "dnews",
-    "title": "공사비 무섭게 오른다…건설업계, “임대주택 건설에 적정공사비 지급” 시급",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604282120128720036",
-    "publishedAt": "2026-04-29T03:00:00.000Z",
-    "content": "정비사업 인수가격, LH 등 민참사업서 매입가격에도 영향기본형 건축비의 80％에 연동되면 사업성 논란 줄어들 듯[대한경제=정석한 기자]최근 중동전쟁 후 자재 수급애로 및 가격상승에 대한 우려가 커지고 있는 가운데, 건설업계에서 공공임대주택 건설에 적정공사비 확보를 요청 ...",
-    "summary": null,
-    "filter": "건설업",
-    "createdAt": "2026-04-29T03:00:00.000Z"
-  },
-  {
-    "id": "041dc8703d56884e98024a15f4163390",
-    "source": "dnews",
-    "title": "‘재무위기’ 한전, 투자여력 한계 직면…BT방식으로 ‘공공성’ 확보",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604281014213420909",
-    "publishedAt": "2026-04-29T03:00:00.000Z",
-    "content": "2038년까지 설비 1.7배 확충민간 PF 활용, 사업속도 기대[대한경제=박흥순 기자]국가기간 전력망 확충 시장의 민간 개방 움직임은 한국전력공사의 재무적·물리적 한계에서 비롯됐다.28일 업계에 따르면 한전은 최근 영업이익 흑자 전환에도 과거 누적된 적자로 인해 자본금 ...",
-    "summary": null,
-    "filter": "한국전력공사",
-    "createdAt": "2026-04-29T03:00:00.000Z"
-  },
-  {
-    "id": "4972e9d3a7a3118b20d39ab48a28dcd6",
-    "source": "dnews",
-    "title": "73조원 전력망 사업 한전 독점 막 내린다",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604281009227680907",
-    "publishedAt": "2026-04-29T03:00:00.000Z",
-    "content": "與野 ‘민간 개방’ 법안소위서 처리설비 건설 뒤 한전에 소유권 양도[대한경제=박흥순 기자]한국전력공사의 국가기간 전력망 확충 독점 체제가 허물어지고, 민간이 전력망 확충에 참여할 수 있는 길이 열릴 전망이다.오는 2028년까지 총 73조원 규모에 달하는 전력망 확충 시 ...",
-    "summary": null,
-    "filter": "한국전력공사",
-    "createdAt": "2026-04-29T03:00:00.000Z"
-  },
-  {
-    "id": "c258bbe1913f8b5415d4f6a539d028d7",
-    "source": "dnews",
-    "title": "[프로젝트 X파일]두배 늘어난 국방사업…유찰늪 벗어날까",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604281606576120997",
-    "publishedAt": "2026-04-29T03:00:00.000Z",
-    "content": "작년대비 건수ㆍ금액 배 가까이 증가 건설사 주목 받지만 관심 끌어낼지 미지수기술형 입찰 연이어 경쟁성사 실패[대한경제=권혁용 기자]지구상에서 전쟁이 끊이지 않고 있다. 러시아와 우크라이나는 4년째 지리한 전쟁을 이어가고 있다. 지난 2월말에는 미국과 이란 전쟁이 발 ...",
-    "summary": null,
-    "filter": "입찰",
-    "createdAt": "2026-04-29T03:00:00.000Z"
-  },
-  {
     "id": "3b38315fa7731280ec6c48266fe1d64d",
     "source": "dnews",
     "title": "[도시정비시장 풍향계] 포스코, 의정부9구역 2차 입찰 단독 응찰",
@@ -256,25 +179,91 @@
     "createdAt": "2026-04-29T03:00:00.000Z"
   },
   {
-    "id": "38784155f251ac4d496aafbfb592a41a",
-    "source": "dnews",
-    "title": "IPARK현대산업개발, 상품ㆍ개발 역량 고도화로 미래 50년 준비한다",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604271346127100777",
-    "publishedAt": "2026-04-29T03:00:00.000Z",
-    "content": "기획부터 시공ㆍ운영 전 과정 혁신노원구‘서울원’ 복합개발 대표적PC 공법ㆍ드론에 공정 효율 강화고난도 도심 복합ㆍSOC까지 확장[대한경제=이종무 기자]최근 건설업계가 AI(인공지능)와 디지털 기술을 중심으로 빠르게 변화하는 가운데, IPARK현대산업개발이 차별화한 경쟁 ...",
-    "summary": null,
-    "filter": "AI",
-    "createdAt": "2026-04-29T03:00:00.000Z"
-  },
-  {
     "id": "e2f7705cdd5f5b2e853d6738ad36bd5c",
     "source": "dnews",
     "title": "LH 특정공법 심의제도 운영 투명성에서 독보적",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604290905004180051&section=S1N0",
-    "publishedAt": "2026-04-29T00:05:00.000Z",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604290905004180051",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
     "content": "[대한경제=권혁용 기자]공공기관들의 특정공법 심의제도 운영이 모두 불투명한 것은 아니다. 한국토지주택공사(LH)의 특정공법 심의제도 운영은 다...",
     "summary": null,
     "filter": "한국토지주택공사",
-    "createdAt": "2026-04-29T00:05:00.000Z"
+    "createdAt": "2026-04-29T03:00:00.000Z"
+  },
+  {
+    "id": "ea807da3523e1f28b7f1549bd468f31c",
+    "source": "dnews",
+    "title": "철도ㆍ고속도로 상위계획, 6월 말 베일 벗는다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291317539380126",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
+    "content": "철도ㆍ고속도로 상위계획, 6월 말 베일 벗는다 [대한경제 클리핑 04/30]",
+    "summary": null,
+    "filter": "고속도로",
+    "createdAt": "2026-04-29T03:00:00.000Z"
+  },
+  {
+    "id": "7687e809d73d59496804a01db642fd5c",
+    "source": "dnews",
+    "title": "‘소방배관 흔들림 방지 기술’ 건설신기술 인증…국산화 성공",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291624076910185",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
+    "content": "‘소방배관 흔들림 방지 기술’ 건설신기술 인증…국산화 성공 [대한경제 클리핑 04/30]",
+    "summary": null,
+    "filter": "건설신기술",
+    "createdAt": "2026-04-29T03:00:00.000Z"
+  },
+  {
+    "id": "bf326453951e68095aa1e6544e81709c",
+    "source": "dnews",
+    "title": "공공 설계공모 공정성 논란에…자정 노력 나서는 심사위원들",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291419480000144",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
+    "content": "공공 설계공모 공정성 논란에…자정 노력 나서는 심사위원들 [대한경제 클리핑 04/30]",
+    "summary": null,
+    "filter": "설계공모",
+    "createdAt": "2026-04-29T03:00:00.000Z"
+  },
+  {
+    "id": "90c89a390dcba3e100ce8420d024a1ef",
+    "source": "dnews",
+    "title": "들쭉날쭉한 LH 입찰 기준…업계 혼란 ‘가중’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291129153740111",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
+    "content": "들쭉날쭉한 LH 입찰 기준…업계 혼란 ‘가중’ [대한경제 클리핑 04/30]",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-04-29T03:00:00.000Z"
+  },
+  {
+    "id": "e4cb3fdc5c2a87357bf6a2ab3f43298b",
+    "source": "dnews",
+    "title": "고창군 통합 바이오가스화시설 등 환경 민자 3건 본격화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291438277040151",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
+    "content": "고창군 통합 바이오가스화시설 등 환경 민자 3건 본격화 [대한경제 클리핑 04/30]",
+    "summary": null,
+    "filter": "민자",
+    "createdAt": "2026-04-29T03:00:00.000Z"
+  },
+  {
+    "id": "7ff0f1c275383f81542dbc80a6edc01d",
+    "source": "dnews",
+    "title": "건기법상 ‘안전관리비’도 현실화 탄력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291600243740178",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
+    "content": "건기법상 ‘안전관리비’도 현실화 탄력 [대한경제 클리핑 04/30]",
+    "summary": null,
+    "filter": "안전관리비",
+    "createdAt": "2026-04-29T03:00:00.000Z"
+  },
+  {
+    "id": "431578a2ac084395ba6f418c8801a241",
+    "source": "dnews",
+    "title": "‘세종 국책연구단지 제2연구청사’ 곧 발주…건축 기술형 ‘단비’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291035096600081",
+    "publishedAt": "2026-04-29T03:00:00.000Z",
+    "content": "[대한경제=백경민 기자]‘세종국책연구단지 제2연구청사 개발사업’이 조만간 발걸음을 뗄 전망이다. 조달청은 한국자산관리공사의 계약 요청에 따라 기술검토를 완료한 뒤 이른 시일 내 입찰공고를 낼 계획이다.29일 관련 기관 등에 따르면, 한국자산관리공사는 최근 추정금액 84 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-04-29T03:00:00.000Z"
   }
 ]
