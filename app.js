@@ -240,7 +240,15 @@
     const totalPages = Math.max(1, Math.ceil(filtered.length / limit));
     currentPage = Math.min(Math.max(1, currentPage), totalPages);
     const start = (currentPage - 1) * limit;
-    const pageItems = filtered.slice(start, start + limit);
+    let end = Math.min(start + limit, filtered.length);
+    const lastItem = filtered[end - 1];
+    if (lastItem) {
+      const lastDateKey = itemDateKey(lastItem);
+      while (end < filtered.length && itemDateKey(filtered[end]) === lastDateKey) {
+        end += 1;
+      }
+    }
+    const pageItems = filtered.slice(start, end);
     const groups = groupByDate(pageItems);
     render(groups, {
       page: currentPage,
