@@ -158,6 +158,39 @@
     "createdAt": "2026-04-30T03:00:00.000Z"
   },
   {
+    "id": "671fc073831636ae118380cd01b6e668",
+    "source": "dnews",
+    "title": "데이터센터로 몰리는 건설사…“전력·부지 확보가 승부처”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604301120531290271",
+    "publishedAt": "2026-04-30T03:00:00.000Z",
+    "content": "국내 건설사들이 데이터센터를 차세대 먹거리로 지목하고 사업 확대에 속도를 내고 있다. 생성형 인공지능(AI)과 클라우드 수요 급증으로 데이터 처리 인프라 수요가 빠르게 늘면서, 단순 시공을 넘어 개발·투자·운영까지 아우르는 사업 구조로 전환하는 모습이다. 5일 관련 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-04-30T03:00:00.000Z"
+  },
+  {
+    "id": "d8f152d590c3e641f0943887daa18a48",
+    "source": "dnews",
+    "title": "웜블러드, 중기부‘모두의 창업 프로젝트’ AI 솔루션 공급기업 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604302203063160364",
+    "publishedAt": "2026-04-30T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]웜블러드는 모노클AI로 중소벤처기업부와 창업진흥원이 추진하는 ‘2026년 모두의 창업 프로젝트’ 인공지능(AI) 솔루션 공급기업에 최종 선정됐다고 3일 밝혔다.모두의 창업 프로젝트는 창업 아이디어를 가진 국민 누구나 도전할 수 있는 국가 창업 오 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-04-30T03:00:00.000Z"
+  },
+  {
+    "id": "34ee8c553f6118c09b28e3d6a094bcf6",
+    "source": "dnews",
+    "title": "AI 연구개발특구 직주근접…‘호반써밋 첨단3지구’ 6월 분..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604301338348390299",
+    "publishedAt": "2026-04-30T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-04-30T03:00:00.000Z"
+  },
+  {
     "id": "03148529df67dfc8f19eac0d64d15401",
     "source": "engdaily",
     "title": "\"중동전쟁 물가 반영\"…국토부, 건설 표준시장단가 내달 8일 공고",
