@@ -47,7 +47,7 @@
     return all;
   }
 
-  function applyFilter(items, dateFilter, limit) {
+  function filterItems(items, dateFilter) {
     const now = new Date();
     let cutoff = null;
     if (dateFilter === "today") cutoff = subDays(now, 1);
@@ -59,7 +59,7 @@
     if (cutoff) {
       filtered = items.filter((item) => parseISO(item.createdAt) > cutoff);
     }
-    return filtered.slice(0, limit);
+    return filtered;
   }
 
   function groupByDate(items) {
@@ -72,7 +72,7 @@
     return groups;
   }
 
-  function render(groups) {
+  function render(groups, pageInfo) {
     const root = $("root");
     const empty = $("empty");
     root.innerHTML = "";
@@ -143,14 +143,51 @@
       section.appendChild(grid);
       root.appendChild(section);
     }
+
+    if (pageInfo.totalPages > 1) {
+      const pager = document.createElement("nav");
+      pager.className = "pagination";
+      pager.setAttribute("aria-label", "뉴스 페이지 이동");
+
+      const prev = document.createElement("button");
+      prev.type = "button";
+      prev.className = "btn btn-refresh";
+      prev.textContent = "이전";
+      prev.disabled = pageInfo.page <= 1;
+      prev.addEventListener("click", () => {
+        currentPage -= 1;
+        applyAndRender();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      const label = document.createElement("span");
+      label.className = "pagination-label";
+      label.textContent = `${pageInfo.page} / ${pageInfo.totalPages} 페이지 · ${pageInfo.total}건`;
+
+      const next = document.createElement("button");
+      next.type = "button";
+      next.className = "btn btn-refresh";
+      next.textContent = "다음";
+      next.disabled = pageInfo.page >= pageInfo.totalPages;
+      next.addEventListener("click", () => {
+        currentPage += 1;
+        applyAndRender();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      pager.appendChild(prev);
+      pager.appendChild(label);
+      pager.appendChild(next);
+      root.appendChild(pager);
+    }
   }
 
   let cacheItems = [];
+  let currentPage = 1;
 
   function getFilteredCount() {
     const dateFilter = $("dateFilter").value;
-    const limit = parseInt($("limit").value, 10) || 30;
-    return applyFilter(cacheItems, dateFilter, limit).length;
+    return filterItems(cacheItems, dateFilter).length;
   }
 
   async function refresh() {
@@ -175,9 +212,17 @@
   function applyAndRender() {
     const dateFilter = $("dateFilter").value;
     const limit = parseInt($("limit").value, 10) || 30;
-    const filtered = applyFilter(cacheItems, dateFilter, limit);
-    const groups = groupByDate(filtered);
-    render(groups);
+    const filtered = filterItems(cacheItems, dateFilter);
+    const totalPages = Math.max(1, Math.ceil(filtered.length / limit));
+    currentPage = Math.min(Math.max(1, currentPage), totalPages);
+    const start = (currentPage - 1) * limit;
+    const pageItems = filtered.slice(start, start + limit);
+    const groups = groupByDate(pageItems);
+    render(groups, {
+      page: currentPage,
+      totalPages,
+      total: filtered.length,
+    });
   }
 
   function shareTelegram() {
@@ -194,8 +239,14 @@
     );
   }
 
-  $("dateFilter").addEventListener("change", applyAndRender);
-  $("limit").addEventListener("change", applyAndRender);
+  $("dateFilter").addEventListener("change", () => {
+    currentPage = 1;
+    applyAndRender();
+  });
+  $("limit").addEventListener("change", () => {
+    currentPage = 1;
+    applyAndRender();
+  });
   $("reload").addEventListener("click", refresh);
   $("btnTelegram").addEventListener("click", shareTelegram);
   $("btnDiscord").addEventListener("click", shareDiscord);
