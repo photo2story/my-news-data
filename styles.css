@@ -382,6 +382,10 @@ a {
   font-size: 0.82rem;
 }
 
+.hidden {
+  display: none !important;
+}
+
 .news-link-bottom {
   margin-top: 0;
   flex: 0 0 auto;
