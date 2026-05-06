@@ -129,19 +129,6 @@
         const card = document.createElement("article");
         card.className = "news-card";
 
-        const topRow = document.createElement("div");
-        topRow.className = "news-top-row";
-        const spacer = document.createElement("span");
-        spacer.className = "news-top-spacer";
-        const link = document.createElement("a");
-        link.className = "news-link news-link-top";
-        link.href = item.link;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.textContent = "원문";
-        topRow.appendChild(spacer);
-        topRow.appendChild(link);
-
         const meta = document.createElement("div");
         meta.className = "news-meta";
         const tag = document.createElement("span");
@@ -157,9 +144,30 @@
         title.className = "news-title";
         title.textContent = item.title;
 
-        card.appendChild(topRow);
         card.appendChild(meta);
         card.appendChild(title);
+
+        // 요약(본문 일부) + 원문 링크를 같은 줄의 오른쪽 끝에 배치
+        const rawSummary = (item.summary || item.content || "").toString();
+        const summaryText = rawSummary.replace(/\s+/g, " ").trim();
+        const summaryRow = document.createElement("div");
+        summaryRow.className = "news-summary-row";
+
+        const summary = document.createElement("p");
+        summary.className = "news-summary";
+        summary.textContent = summaryText ? summaryText.slice(0, 140) : "";
+
+        const link = document.createElement("a");
+        link.className = "news-link news-link-bottom";
+        link.href = item.link;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = "원문";
+
+        summaryRow.appendChild(summary);
+        summaryRow.appendChild(link);
+        card.appendChild(summaryRow);
+
         grid.appendChild(card);
       }
 
