@@ -1,5 +1,25 @@
 [
   {
+    "id": "2b7c0e696d53ed53e4334f9f7640ba66",
+    "source": "engdaily",
+    "title": "강원도 경제 상승을 위해서는 순환철도 마련 '절실'",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22217",
+    "publishedAt": "2026-05-06T06:15:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-05-06T06:15:00.000Z"
+  },
+  {
+    "id": "887a0d7bd108cb1b74b0639977172df8",
+    "source": "engdaily",
+    "title": "5월 1주 엔지니어링 주간 입낙찰 동향",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22214",
+    "publishedAt": "2026-05-06T04:38:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-05-06T04:38:00.000Z"
+  },
+  {
     "id": "3769f056320b66ea05dae53ef4812ff4",
     "source": "dnews",
     "title": "서울의 마지막 자력재개발 미아동 791번지 일대, ‘신속통합기획’ 확정",
@@ -9,5 +29,70 @@
     "summary": null,
     "filter": "단지",
     "createdAt": "2026-05-06T03:00:00.000Z"
+  },
+  {
+    "id": "a10095d2f689813f92d1b72f26e00aaa",
+    "source": "dnews",
+    "title": "[포토] 외국인 건설 근로자를 위한 AI 통역기",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061421548280681",
+    "publishedAt": "2026-05-06T03:00:00.000Z",
+    "content": "6일 서울 강남구 코엑스에서 열린 ‘2026 국제인공지능대전’에서 관람객들이 건설현장 외국인 근로자를 위한안전 평가 및 출입 통제 자동화 AI 통역 시스템 설명을 듣고 있다. 안윤수 기자 ays77@〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-05-06T03:00:00.000Z"
+  },
+  {
+    "id": "5dc0f95f140eef18d8d5af7a21b68c7a",
+    "source": "dnews",
+    "title": "인천도시공사, 검암역 복합환승센터 복합개발 사업자 공모",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061434021780686",
+    "publishedAt": "2026-05-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "도시공사",
+    "createdAt": "2026-05-06T03:00:00.000Z"
+  },
+  {
+    "id": "e95f6f2064c9594ef301271fce84b9c2",
+    "source": "dnews",
+    "title": "해외건설협회, 김대식 신임 상근부회장 취임",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061141015670657",
+    "publishedAt": "2026-05-06T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]해외건설협회(회장 한만희)는 김대식 신임 상근부회장을 선임하고, 6일 취임식을 가졌다.김대식 신임 부회장은 1983년 외무고시 17회로 공직에 입문해 주오만 대사, 주카자흐스탄 대사 및 전북국제협력진흥원장을 역임한 대외협력 및 국제관계 전문가다. ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-06T03:00:00.000Z"
+  },
+  {
+    "id": "1f2076f66d347ea8833c1a8650be5ee8",
+    "source": "dnews",
+    "title": "서울시 공공건축가, 이제 ‘매년’ 뽑는다… 운영 체계 대폭 개편",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061047365030631",
+    "publishedAt": "2026-05-06T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시가 올해부터 공공건축가 모집 방식을 연 단위로 확대, 민간전문가 참여기회를 늘린다. 산재해 운영하던 체계도 일원화 해 전문성을 중심으로 한 추천 시스템을 도입한다.서울시는 이 같은 내용을 골자로 한 ‘제13기 서울 공공건축가’를 공개 모집한 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-06T03:00:00.000Z"
+  },
+  {
+    "id": "3193dbd27f7da975f00979d16e041504",
+    "source": "dnews",
+    "title": "“‘착착개발’, 서울시ㆍ정부 주택정책 일맥 상통”... 9개 영역 ‘비슷’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061453530600702",
+    "publishedAt": "2026-05-06T03:00:00.000Z",
+    "content": "국토부 ‘신속인허가’·‘매입가 현실화’ 등 정부 정책과도 겹쳐[대한경제=임성엽 기자]더불어민주당의 서울시주택 공약인 ‘착착개발’ 세부 방안 중 9개 영역이 서울시ㆍ중앙정부 대책과 일치하는 것으로 나타났다.6일 주택업계에 따르면 ‘착착개발’ 뼈대를 이루는 주요 정책 중 ...",
+    "summary": null,
+    "filter": "국토부",
+    "createdAt": "2026-05-06T03:00:00.000Z"
+  },
+  {
+    "id": "18ee79d783ada154c8635462962f839b",
+    "source": "engdaily",
+    "title": "한전 인프라 구축 재원 우선 마련 위한 법 발의",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22213",
+    "publishedAt": "2026-05-06T02:17:00.000Z",
+    "summary": null,
+    "filter": "한전",
+    "createdAt": "2026-05-06T02:17:00.000Z"
   }
 ]

@@ -169,5 +169,49 @@
     "summary": null,
     "filter": "LH",
     "createdAt": "2026-04-27T03:00:00.000Z"
+  },
+  {
+    "id": "0e09fa85b5a1abd6206af9b671ded6dd",
+    "source": "dnews",
+    "title": "‘난방 신무기’ 히트펌프…대기업 전면전",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604271318210300766",
+    "publishedAt": "2026-04-27T03:00:00.000Z",
+    "content": "‘가스보일러→전기’ 새 표준 급부상정부, 탄소제로 위해 350만대 보급삼성, 시장 복귀…플랫폼 구축 전쟁[대한경제=박흥순 기자]지난 수십년간 대한민국 주거 난방의 심장 역할을 해온 가스보일러 시대가 저물고, 히트펌프 시대가 예고됐다. 화석연료를 직접 불태워 열을 얻는 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-04-27T03:00:00.000Z"
+  },
+  {
+    "id": "7ef84096978e2ab5dce7b4712adf7d3b",
+    "source": "dnews",
+    "title": "오세훈, 시니어 주택으로 서울 주택공급 ‘마지막 퍼즐’ ..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604271512301310808",
+    "publishedAt": "2026-04-27T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-04-27T03:00:00.000Z"
+  },
+  {
+    "id": "acb19789e10b266db5d6c83bcfd90bac",
+    "source": "dnews",
+    "title": "“정비사업 무지한 정원오, 공부부터 하고 오라”... 오세훈 캠프 ‘돌직구’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604271534076050823",
+    "publishedAt": "2026-04-27T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]오세훈 국민의힘 서울시장 후보 측이 정원오 더불어민주당 서울시장 후보 측의 ‘정비사업 착공 실적’ 논평에 대해 “정비사업에 대한 무지와 이해 부족에서 비롯된 허위 주장”이라고 27일 반박했다. 호준석 오세훈 캠프 대변인은 27일 성명을 통해 “정 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-04-27T03:00:00.000Z"
+  },
+  {
+    "id": "96f61b3bdf76617e4e75e443cc8ab646",
+    "source": "dnews",
+    "title": "서울시, ‘보증금지원형 장기주택’ 6000호 모집",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604271517495970811",
+    "publishedAt": "2026-04-27T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시가 무주택 시민의 주거비 부담을 낮추기 위해 전월세 보증금을 무이자로 지원해 주는 ‘보증금지원형 장기안심주택’ 입주자 6000호를 모집한다. 올해 청년 특별공급 3000호를 첫 모집하며, 보증금 지원액을 기존 6000만원에서 최대 7000만 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-04-27T03:00:00.000Z"
   }
 ]
