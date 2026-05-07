@@ -121,6 +121,60 @@
     "createdAt": "2026-05-07T03:00:00.000Z"
   },
   {
+    "id": "989a35a788001570715b53f681972e05",
+    "source": "dnews",
+    "title": "남부내륙철도 CM 사업자 윤곽",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061623245880735",
+    "publishedAt": "2026-05-07T03:00:00.000Z",
+    "content": "남부내륙철도 노반기타공사의 건설사업관리(CM)를 담당할 사업자가 정해졌다. 6일 국가철도공단에 따르면 이날 남부내륙철도 2ㆍ3ㆍ4ㆍ5ㆍ6ㆍ8공구 CM 사업자 선정을 위한 가격 개찰 결과, △2공구 동부엔지니어링(KRTC, 삼안, 선진, 제일) △3공구 선구엔지니어링(도 ...",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-05-07T03:00:00.000Z"
+  },
+  {
+    "id": "1e96f7e070bc180f1443a0626130cbe3",
+    "source": "dnews",
+    "title": "상대원2구역, 9일 조합원 토론회 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605070919456130770",
+    "publishedAt": "2026-05-07T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-07T03:00:00.000Z"
+  },
+  {
+    "id": "742702d6d657b2db7833c123d1c4e1db",
+    "source": "engdaily",
+    "title": "남부내륙철도 건설사업관리 개찰, 동명·유신 등 선정",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22220",
+    "publishedAt": "2026-05-07T00:55:00.000Z",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-05-07T00:55:00.000Z"
+  },
+  {
+    "id": "b7b7810d578af082c4e53b649a4efbbb",
+    "source": "dnews",
+    "title": "인천계양 A9블록 신혼희망타운 317세대 공급…신혼 맞춤형 주거 설계 반영",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061539103690718",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "content": "LH가 인천계양 A9블록 신혼희망타운을 통해 총 317세대를 공급한다. 전 세대는 전용면적 55㎡ 단일 평형으로 구성되며, 55A 217세대, 55B 70세대, 55C 30세대로 나뉜다. 공급 대상은 신혼부부, 예비 신혼부부, 한부모가족 등으로 신혼 수요층의 주거 특성 ...",
+    "summary": null,
+    "filter": "LH",
+    "createdAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "4a33022131c6f41bb1c828b3c30c0811",
+    "source": "dnews",
+    "title": "내경엔지니어링 ‘고양창릉 화랑로지하차도 CM’ 수주 유력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605061652021100737",
+    "publishedAt": "2026-05-06T22:32:00.000Z",
+    "content": "내경엔지니어링이 ‘고양창릉 공공주택지구 화랑로지하차도 개설공사 시공단계 감독 권한대행 등 건설사업관리엔지니어링’ 수주를 예약했다.5일 LH에 따르면 종합심사낙찰제 방식인 이 용역에 대한 개찰 결과, 예정가격 대비 82.917%인 63억2700만원을 투찰한 내경엔지니어링 ...",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-05-06T22:32:00.000Z"
+  },
+  {
     "id": "04dd27eb5181ce78de772a7e66f460c3",
     "source": "dnews",
     "title": "태양광발전비중 첫 50%… 전력망 확충 과제",
