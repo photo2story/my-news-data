@@ -18,5 +18,16 @@
     "summary": null,
     "filter": "엔지니어링",
     "createdAt": "2026-04-06T03:49:00.000Z"
+  },
+  {
+    "id": "508a05e2842af2c413ed9e7d181fa66c",
+    "source": "dnews",
+    "title": "서울시, 에너지 위기에 최소 1000여명 ‘재택근무’ 13일 전..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604061215183950089",
+    "publishedAt": "2026-04-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-04-06T03:00:00.000Z"
   }
 ]

@@ -31,5 +31,27 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-04-26T03:00:00.000Z"
+  },
+  {
+    "id": "0fc767dc0fe0f31bb7ed2ad8864d9134",
+    "source": "dnews",
+    "title": "금성백조, ‘예미지CC’ 그랜드 오픈",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604251646358170624",
+    "publishedAt": "2026-04-26T03:00:00.000Z",
+    "content": "[대한경제=백경민 기자]금성백조(회장 정성욱)는 지난 25일 예미지컨트리클럽(예미지CC) 그랜드 오픈 기념식을 갖고 본격적인 영업에 나섰다고 26일 밝혔다.예미지CC는 충남 청양군 대치면 일대 칠갑산 자락 약 130만㎡(약 40만여평) 부지에 조성된 27홀 규모 대중제 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-04-26T03:00:00.000Z"
+  },
+  {
+    "id": "e04eb7e7c62098ef95d195f65773ed6c",
+    "source": "dnews",
+    "title": "덕신EPC, 실종아동 찾기 보상제도 시행",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604241214209530549",
+    "publishedAt": "2026-04-26T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]덕신EPC는 한국여자프로골프협회와 함께 ‘제2회 덕신EPC 챔피언십’을 통해 실종아동 찾기 공익 캠페인을 확대 운영하며 성과형 보상제를 도입한다고 26일 밝혔다.실종아동 상봉 시 △실종아동(가족 상봉 지원금) 4000만원 △결정적 제보자 3000 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-04-26T03:00:00.000Z"
   }
 ]

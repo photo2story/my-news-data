@@ -42,5 +42,60 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-05-05T03:00:00.000Z"
+  },
+  {
+    "id": "e1bb4c0513dfa774d8119f96e81ad874",
+    "source": "dnews",
+    "title": "두산에너빌리티, 어린이날 ‘두산가족문화제’ 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605051418492830570",
+    "publishedAt": "2026-05-05T03:00:00.000Z",
+    "content": "두산에너빌리티는 어린이날인 5일 경남 창원시 성산구 창원컨벤션센터에서 ‘2026 두산가족문화제’를 개최했다고 밝혔다.이날 행사에는 본사 임직원과 사내 협력사, 계열사인 두산모트롤 임직원 가족 등 4500여 명이 참여했다.두산에너빌리티는 창원컨벤션센터 1∼3전시실을 대관 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-05T03:00:00.000Z"
+  },
+  {
+    "id": "3abf9b073c4f354795a191b38c2b0fb2",
+    "source": "dnews",
+    "title": "민간투자 재도약 해법 찾는다…민자학회, 15일 춘계 정책토론회 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605041509527910508",
+    "publishedAt": "2026-05-05T03:00:00.000Z",
+    "content": "[대한경제=안재민 기자]민간투자사업의 새로운 성장 전략을 모색하기 위한 정책 토론의 장이 열린다.한국민간투자학회는 오는 15일 서울 강남구 논현동 건설회관에서 ‘신사업 발굴과 국민포용성장을 통한 민간투자사업의 재도약’을 주제로 2026년 춘계 정책토론회를 개최한다고 4 ...",
+    "summary": null,
+    "filter": "민자",
+    "createdAt": "2026-05-05T03:00:00.000Z"
+  },
+  {
+    "id": "d7cd4c54e2be437344c3045281e3e86a",
+    "source": "dnews",
+    "title": "시재건설, 2026년 전사 워크샵 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605051014383670548",
+    "publishedAt": "2026-05-05T03:00:00.000Z",
+    "content": "[대한경제=한상준 기자]시재건설㈜은 지난달 30일부터 5월 1일까지 화성 YBM 연수원에서 계열사인 에이치아이건설, 인스자산관리와 함께 ‘2026년 전사 워크샵’(사진)을 개최했다고 5일 밝혔다. 이번 워크샵은 전국 현장 및 본사 임직원들이 함께 참석해 조직 간 소통을 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-05T03:00:00.000Z"
+  },
+  {
+    "id": "b440258fae99d83e293defd0170b42a4",
+    "source": "dnews",
+    "title": "한국디벨로퍼협회, ‘KODA-ARPY 6기’ 모집",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605041153067190474",
+    "publishedAt": "2026-05-05T03:00:00.000Z",
+    "content": "한국디벨로퍼협회(회장 김한모)가 청년 디벨로퍼 양성을 위한 ‘차세대 디벨로퍼 프로그램(KODA-ARPY)’의 6기를 모집한다고 밝혔다.이번 ARPY 6기는 오는 9월 10일부터 12월 10일까지 12주간 진행되며, 매주 목요일 오후 6시부터 8시 30분까지 서울 강남구 ...",
+    "summary": null,
+    "filter": "ODA",
+    "createdAt": "2026-05-05T03:00:00.000Z"
+  },
+  {
+    "id": "040354486ae4c4b9d06aca507fd651a4",
+    "source": "dnews",
+    "title": "대우건설, 2026 서울국제정원박람회서 ‘SUMMIT Silo’ 정원 선뵈",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605040858230050446",
+    "publishedAt": "2026-05-05T03:00:00.000Z",
+    "content": "대우건설(대표 김보현)은 “지난 1일 서울숲에서 개막한 ‘2026 서울국제정원박람회’에 참가해 하이엔드 주거 브랜드 ‘써밋(SUMMIT)’의 철학을 담은 기업동행정원 ‘SUMMIT Silo’를 선보였다”고 4일 밝혔다.‘Seoul, Green Culture: 자연과 도 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-05T03:00:00.000Z"
   }
 ]
