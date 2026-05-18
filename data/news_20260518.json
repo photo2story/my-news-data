@@ -1,5 +1,49 @@
 [
   {
+    "id": "1071a0c02e4ddbf73d2b56772cdbe8c3",
+    "source": "dnews",
+    "title": "KCC실리콘, 북미 최대 원료전 참가",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181051050680081",
+    "publishedAt": "2026-05-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]KCC실리콘은 오는 19일부터 20일까지 미국 뉴욕에서 열리는 ‘뉴욕화장품화학자협회(NYSCC) 서플라이어스 데이 2026’에 참가한다고 18일 밝혔다.이 행사는 북미 최대 규모의 퍼스널케어 원료 전문 전시회로 매년 북미 주요 브랜드 및 제조사와 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-18T03:00:00.000Z"
+  },
+  {
+    "id": "9b5a3831aba2837899be19f458f8ccae",
+    "source": "dnews",
+    "title": "[건설톡] AX 걸음마 건설…데어터 구조화 절실",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605151438183630892",
+    "publishedAt": "2026-05-18T03:00:00.000Z",
+    "content": "채= 지난 12일 성료된 ‘제3회 대한경제 공공포럼’에선 건설산업의 AI 전환, 이른바 AX가 핵심 화두였습니다. 발주기관과 민간, 학계 등에 포진한 전문가들은 AI의 잠재력에 대해서는 주목하면서도, 건설업계의 AX는 아직 걸음마 단계라는 현실론에 대해서도 공감대를 나 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-05-18T03:00:00.000Z"
+  },
+  {
+    "id": "841aaebfbcec722680f665fb1dd0239e",
+    "source": "dnews",
+    "title": "민자사업, AI·하수관·철도복합개발로 확장",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605151557425650912",
+    "publishedAt": "2026-05-18T03:00:00.000Z",
+    "content": "노후 하수관 RTL·철도복합개발·AI 데이터센터 등 논의[대한경제=안재민 기자]민간투자사업이 인공지능(AI) 인프라와 노후 하수관로 정비, 철도복합개발 등 신산업·운영형 사업 중심으로 재편을 모색하고 있다. 기후위기와 노후 인프라 확산, 지방재정 한계가 맞물리면서 단순 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-05-18T03:00:00.000Z"
+  },
+  {
+    "id": "1d315345e190e6542b0e1fc813496dab",
+    "source": "dnews",
+    "title": "서울시 \"GTX-A 철근 누락, 철도공단에 정기 보고서로 세 차례 통보했다\"",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181056188750082",
+    "publishedAt": "2026-05-18T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시가 GTX-A 삼성역 구간의 철근 누락 사실을 국가철도공단 등 관계기관에 알리지 않았다는 지적에 대해 “정기 보고서를 통해 이미 세 차례 관련 내용을 통보했다”고 정면 반박했다. 특히 국가철도공단은 서울시 인지 3일 만에 누락 사실을 통보 ...",
+    "summary": null,
+    "filter": "GTX",
+    "createdAt": "2026-05-18T03:00:00.000Z"
+  },
+  {
     "id": "2d34431ec2b8b8e5c4eb81a61e31a105",
     "source": "dnews",
     "title": "[초대석] 김효진 스피폭스 대표 “파파야 시스템 대중화 최전선… 에너지절감ㆍ탄소중립 다 잡겠다”",
@@ -55,17 +99,6 @@
     "createdAt": "2026-05-18T03:00:00.000Z"
   },
   {
-    "id": "117bacc9c2bbafbf10b1d08dd179fbe2",
-    "source": "dnews",
-    "title": "평택∼오송 고속철 2복선 5공구…이엔이건설 WPC거더 등 활용",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605151306044540881",
-    "publishedAt": "2026-05-18T03:00:00.000Z",
-    "content": "거더 사이 틈 없애 추락 사고 방지스페셜 런처도 적용…경쟁력‘업’[대한경제=김민수 기자]이엔이건설(대표 최철만)이 자사의 핵심 특허기술인 WPC(Wide flange Prestressed Concrete)거더와 스페셜 런처(Special Launcher) 공법을 활용해 ...",
-    "summary": null,
-    "filter": "soc",
-    "createdAt": "2026-05-18T03:00:00.000Z"
-  },
-  {
     "id": "156e9c026fd99eb513c1cc247a2beb8b",
     "source": "dnews",
     "title": "“건물 에너지정책, 실사용량·민간투자 중심 재편해야”",
@@ -110,17 +143,6 @@
     "createdAt": "2026-05-18T03:00:00.000Z"
   },
   {
-    "id": "c14a26c61f6f63c3be9285a068c1f988",
-    "source": "dnews",
-    "title": "LH, 2026 프랑스 파리 국제 건축전시회 참가 중소기업 모집",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181103142530087",
-    "publishedAt": "2026-05-18T03:00:00.000Z",
-    "content": "",
-    "summary": null,
-    "filter": "LH",
-    "createdAt": "2026-05-18T03:00:00.000Z"
-  },
-  {
     "id": "014a96a6294ab8a1e0f6d6e1d22e2b58",
     "source": "dnews",
     "title": "[대한도시정비포럼 3차 세미나] “6ㆍ3 지방선거 이후 도시정비시장 어떻게 될까”",
@@ -129,6 +151,17 @@
     "content": "[대한경제=한형용 기자]“6ㆍ3 지방선거 끝나면…“6월 지방선거 10여일 앞으로 다가왔다. 서울시장이 누가 되느냐에 따라 재개발ㆍ재건축 인허가 속도와 정비사업 전반의 분위기가 달라질 수 있다. 조합 관계자들 사이에서 “선거 이후를 어떻게 대비할 것인가”라는 질문이 커지 ...",
     "summary": null,
     "filter": "soc",
+    "createdAt": "2026-05-18T03:00:00.000Z"
+  },
+  {
+    "id": "90ca81e959a69cb9a6a1ddcab9322ff4",
+    "source": "dnews",
+    "title": "[신간]중대재해처벌법 판례 분석",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181021122490071",
+    "publishedAt": "2026-05-18T03:00:00.000Z",
+    "content": "[대한경제=권해석 기자]안전 전문가 4인이 중대재해처벌법 판례를 정밀 분석한 전문 도서인 ‘중대재해처벌법 판례분석’이 출간됐다. 이 책은 법률가의 관점에서만 접근하는 기존의 중대재해처벌법 해설서와 달리 실제 산업현장에서 안전관리 실무자가 직면하는 문제를 안전전문가의 눈 ...",
+    "summary": null,
+    "filter": "중대재해처벌법",
     "createdAt": "2026-05-18T03:00:00.000Z"
   },
   {
@@ -143,25 +176,36 @@
     "createdAt": "2026-05-18T03:00:00.000Z"
   },
   {
-    "id": "1d315345e190e6542b0e1fc813496dab",
+    "id": "64c1d7b12f62a704bb98377ed13863bb",
     "source": "dnews",
-    "title": "서울시 \"GTX-A 철근 누락, 철도공단에 정기 보고서로 세 차례 통보했다\"",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181056188750082",
-    "publishedAt": "2026-05-18T01:56:00.000Z",
-    "content": "[대한경제=임성엽 기자]서울시가 GTX-A 삼성역 구간의 철근 누락 사실을 국가철도공단 등 관계기관에 알리지 않았다는 지적에 대해 “정기 보고서를 통해 이미 세 차례 관련 내용을 통보했다”고 정면 반박했다.18일 임춘근 서울시 도시기반시설본부장은 이날 열린 국회 행정안 ...",
+    "title": "[포토] 지방선거 꼭! 투표하세요",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181301458090103",
+    "publishedAt": "2026-05-18T03:00:00.000Z",
+    "content": "",
     "summary": null,
-    "filter": "GTX",
-    "createdAt": "2026-05-18T01:56:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-05-18T03:00:00.000Z"
   },
   {
-    "id": "90ca81e959a69cb9a6a1ddcab9322ff4",
+    "id": "31e7549e559b2f0013313e3efca50ed8",
     "source": "dnews",
-    "title": "[신간]중대재해처벌법 판례 분석",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181021122490071",
-    "publishedAt": "2026-05-18T01:22:00.000Z",
-    "content": "[대한경제=권해석 기자]안전 전문가 4인이 중대재해처벌법 판례를 정밀 분석한 전문 도서인 ‘중대재해처벌법 판례분석’이 출간됐다. 이 책은 법률가의 관점에서만 접근하는 기존의 중대재해처벌법 해설서와 달리 실제 산업현장에서 안전관리 실무자가 직면하는 문제를 안전전문가의 눈 ...",
+    "title": "유진기업, ‘공정거래 자율준수프로그램’ 강화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605181101446840086",
+    "publishedAt": "2026-05-18T02:21:00.000Z",
+    "content": "[대한경제=서용원 기자]유진기업(대표이사 최재호)은 ‘공정거래 자율준수프로그램(CP)’을 강화하고자 자율준수관리자를 임명하고, 임명장 수여식을 진행했다고 18일 밝혔다. ‘공정거래 자율준수 프로그램’은 기업이 공정거래 관련 법규를 자율적으로 준수하기 위해 마련한 내부 ...",
     "summary": null,
-    "filter": "중대재해처벌법",
-    "createdAt": "2026-05-18T01:22:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-05-18T02:21:00.000Z"
+  },
+  {
+    "id": "117bacc9c2bbafbf10b1d08dd179fbe2",
+    "source": "dnews",
+    "title": "평택∼오송 고속철 2복선 5공구…이엔이건설 WPC거더 등 활용",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605151306044540881",
+    "publishedAt": "2026-05-17T21:00:00.000Z",
+    "content": "거더 사이 틈 없애 추락 사고 방지스페셜 런처도 적용…경쟁력‘업’[대한경제=김민수 기자]이엔이건설(대표 최철만)이 자사의 핵심 특허기술인 WPC(Wide flange Prestressed Concrete)거더와 스페셜 런처(Special Launcher) 공법을 활용해 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-17T21:00:00.000Z"
   }
 ]
