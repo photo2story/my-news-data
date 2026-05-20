@@ -1,5 +1,59 @@
 [
   {
+    "id": "42fed0bf277d95b7483d031499bb14fc",
+    "source": "dnews",
+    "title": "'소요한남 by 파르나스', 시니어 맞춤 주거 서비스 제공",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605201354188850464",
+    "publishedAt": "2026-05-20T04:54:00.000Z",
+    "content": "서울에 공급되는 시니어 레지던스 '소요한남 by 파르나스'가 주거 공간 설계와 커뮤니티, 운영 서비스 등 시니어 세대의 생활 방식에 맞춘 구성으로 서비스를 제공한다.해당 단지는 5.5m 거실과 2.7m 천정고를 적용해 개방감을 확보했다. 현관 전면에는 아트웍 벽면을 계 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-05-20T04:54:00.000Z"
+  },
+  {
+    "id": "3c1d7f58bad4bc12bd379361ab46bf7f",
+    "source": "engdaily",
+    "title": "건화, 베트남 호치민 메트로 2호선 감리 수주",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22325",
+    "publishedAt": "2026-05-20T04:40:00.000Z",
+    "summary": null,
+    "filter": "2호선",
+    "createdAt": "2026-05-20T04:40:00.000Z"
+  },
+  {
+    "id": "5a8909d509cac2ad17429c3a0f846b3c",
+    "source": "dnews",
+    "title": "서울시, “GTX-A 삼성역 안전 최우선…국가철도공단 관리ㆍ감독 부실” 반박",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605201309550780447",
+    "publishedAt": "2026-05-20T04:09:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시는 수도권광역급행철도(GTX)-A 노선 삼성역 구간 공사 논란과 관련해 “시민 안전은 타협할 수 없는 원칙”이라며 필요한 안전조치를 가동하며 철저하게 대응하고 있다고 20일 밝혔다.이민경 서울시 대변인은 이날 공식 입장문을 내고, 시공오류 ...",
+    "summary": null,
+    "filter": "GTX",
+    "createdAt": "2026-05-20T04:09:00.000Z"
+  },
+  {
+    "id": "67a953d222ec2a950a1e6f36dd19d8cc",
+    "source": "dnews",
+    "title": "서울시 “철도공단에 철근 누락, 51건 공정 보고”… 공단 이의제기도 안 해",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605200948591870404",
+    "publishedAt": "2026-05-20T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시는 수도권광역급행철도(GTX) 삼성역 철근 누락 사실 인지 이후 철도공단 측에 총 6회에 걸쳐 약 6개월 동안 총 51건의 공정 관련 사항을 지속적으로 보고했다고 20일 밝혔다. 이 가운데 철근 누락 관련 사항은 지난해 11월부터 올해 1월 ...",
+    "summary": null,
+    "filter": "GTX",
+    "createdAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
+    "id": "b78ad1cde8364f8604c32416cd85151f",
+    "source": "dnews",
+    "title": "[빨라진 여름…현장은 폭염ㆍ폭우 대비 분주] 건설사들도 여름철 재해 대응 동참",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605191709527270359",
+    "publishedAt": "2026-05-20T03:00:00.000Z",
+    "content": "정부와 지자체가 폭염ㆍ폭우에 선제적 대응에 나선 가운데 건설사들도 현장의 여름철 사고 예방에 적극 동참하고 있다.19일 건설업계에 따르면 롯데건설은 지난달 27일 유튜브 롯데건설TV를 통해 대홍기획과 함께 만든 ‘폭염주의복(VEST for REST) 캠페인’을 선보였다 ...",
+    "summary": null,
+    "filter": "건설업",
+    "createdAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
     "id": "5928ba6dfd2d0fbd3ad7255b7df4d44e",
     "source": "dnews",
     "title": "[빨라진 여름…현장은 폭염ㆍ폭우 대비 분주] 폭염ㆍ폭우 코앞까지 왔다…건설현장 재해 대응 속속 가동",
@@ -110,17 +164,6 @@
     "createdAt": "2026-05-20T03:00:00.000Z"
   },
   {
-    "id": "78654e38cebb8d1f0f90cd6f71a86278",
-    "source": "dnews",
-    "title": "[중소건설사 춘궁기](4) 공기업 SOC 물량 뒷받침…중견사 이상 그나마 위안",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605191411242670290",
-    "publishedAt": "2026-05-20T03:00:00.000Z",
-    "content": "1~4월 종심제 금액 2배가량 늘어수주전 향방 따라 성적표 갈릴 듯[대한경제=백경민 기자]중소건설사를 중심으로 최악의 춘궁기를 보내고 있지만, 중견건설사 이상은 그나마 사정이 나은 편이다. 실제 조달청이 올 1~4월 집행한 대형공사는 △종합심사낙찰제 12건, 2조382 ...",
-    "summary": null,
-    "filter": "종심제",
-    "createdAt": "2026-05-20T03:00:00.000Z"
-  },
-  {
     "id": "df5502721eac8ee1df60874f8283f33b",
     "source": "dnews",
     "title": "남부내륙철도 CM 종심제 논란…“젊은기술인 기준 모호”",
@@ -165,6 +208,28 @@
     "createdAt": "2026-05-20T03:00:00.000Z"
   },
   {
+    "id": "b8415d672edf189210a23c91d21332e8",
+    "source": "dnews",
+    "title": "정원오 “전월세 주거난 원인 현 시장”…오세훈 “말로만..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605201402221570469",
+    "publishedAt": "2026-05-20T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
+    "id": "8fa2d47537c328efae7654089557d78e",
+    "source": "dnews",
+    "title": "마곡지구 출퇴근길 빨라진다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605201032288830424",
+    "publishedAt": "2026-05-20T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
     "id": "807436e2b2fd6214d482ba5bd8d85cdd",
     "source": "engdaily",
     "title": "철도공사, 안전평가서 25곳 중 최하위 기록",
@@ -175,14 +240,14 @@
     "createdAt": "2026-05-20T00:31:00.000Z"
   },
   {
-    "id": "b78ad1cde8364f8604c32416cd85151f",
+    "id": "78654e38cebb8d1f0f90cd6f71a86278",
     "source": "dnews",
-    "title": "[빨라진 여름…현장은 폭염ㆍ폭우 대비 분주] 건설사들도 여름철 재해 대응 동참",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605191709527270359",
+    "title": "[중소건설사 춘궁기](4) 공기업 SOC 물량 뒷받침…중견사 이상 그나마 위안",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605191411242670290",
     "publishedAt": "2026-05-19T21:00:00.000Z",
-    "content": "정부와 지자체가 폭염ㆍ폭우에 선제적 대응에 나선 가운데 건설사들도 현장의 여름철 사고 예방에 적극 동참하고 있다.19일 건설업계에 따르면 롯데건설은 지난달 27일 유튜브 롯데건설TV를 통해 대홍기획과 함께 만든 ‘폭염주의복(VEST for REST) 캠페인’을 선보였다 ...",
+    "content": "1~4월 종심제 금액 2배가량 늘어수주전 향방 따라 성적표 갈릴 듯[대한경제=백경민 기자]중소건설사를 중심으로 최악의 춘궁기를 보내고 있지만, 중견건설사 이상은 그나마 사정이 나은 편이다. 실제 조달청이 올 1~4월 집행한 대형공사는 △종합심사낙찰제 12건, 2조382 ...",
     "summary": null,
-    "filter": "건설업",
+    "filter": "종심제",
     "createdAt": "2026-05-19T21:00:00.000Z"
   }
 ]
