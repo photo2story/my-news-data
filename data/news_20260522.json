@@ -1,5 +1,27 @@
 [
   {
+    "id": "b27576dc79aa7b021651671166afbfc5",
+    "source": "dnews",
+    "title": "대림통상, 최대주주 주식 임직원에 매도…경영 안정·기업가치 제고 기반 마련",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605211643167940691",
+    "publishedAt": "2026-05-22T03:00:00.000Z",
+    "content": "대림통상이최대주주가 보유한 일부 주식을 임직원들이 대거 사들이며책임경영 강화와 회사·임직원간 동반성장에 본격 시동을 걸었다.대림통상은 최근 공시를 통해 최대주주가 보유 중인 주식 일부를 임직원들에게 매도했다고 22일 밝혔다.이번에 대림통상 최대주주인 고은희 회장이 매도 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-22T03:00:00.000Z"
+  },
+  {
+    "id": "94469bfbcafbd8aa0be6f2f402be6b60",
+    "source": "dnews",
+    "title": "삼성E&A, 안전경영 강화 '속도'",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605211743488200697",
+    "publishedAt": "2026-05-22T03:00:00.000Z",
+    "content": "[대한경제=김승수 기자]삼성E&A가 자율적 참여 기반의 안전문화 활동과 예방 중심 안전관리 체계 구축을 바탕으로 안전경영 강화에 속도를 내고 있다.삼성E&A는 지난 20일 경기 평택시 프로젝트 현장에서 ‘작업중지권 2.0(S.A.Y ON) 결의 대회(사진)’를 개최했다 ...",
+    "summary": null,
+    "filter": "대회",
+    "createdAt": "2026-05-22T03:00:00.000Z"
+  },
+  {
     "id": "da42515aa2bda1092e04a2d7490b7c79",
     "source": "dnews",
     "title": "水公ㆍ道公 대형 종심제, 주인 찾기 이어진다",
@@ -55,14 +77,56 @@
     "createdAt": "2026-05-22T03:00:00.000Z"
   },
   {
-    "id": "94469bfbcafbd8aa0be6f2f402be6b60",
+    "id": "e38986608f0f5486f50c1e1bebd4a990",
     "source": "dnews",
-    "title": "삼성E&A, 안전경영 강화 '속도'",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605211743488200697",
-    "publishedAt": "2026-05-21T21:00:00.000Z",
-    "content": "[대한경제=김승수 기자]삼성E&A가 자율적 참여 기반의 안전문화 활동과 예방 중심 안전관리 체계 구축을 바탕으로 안전경영 강화에 속도를 내고 있다.삼성E&A는 지난 20일 경기 평택시 프로젝트 현장에서 ‘작업중지권 2.0(S.A.Y ON) 결의 대회(사진)’를 개최했다 ...",
+    "title": "신축 귀한 강남…‘옆동네’ 수서 일대 재건축 속도",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605191323290980271",
+    "publishedAt": "2026-05-22T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]서울 강남권 ‘숨은 알짜 동네’로 꼽히는 수서동 일대에서 재건축 사업이 잇따라 속도를 내고 있다. 압구정, 개포 등 주요 단지 재건축 사업이 마무리에 접어들며 신축 공급이 희소해지는 가운데, 수서 일대가 강남 재건축의 새 축으로 부상하는 모양새다 ...",
     "summary": null,
-    "filter": "대회",
-    "createdAt": "2026-05-21T21:00:00.000Z"
+    "filter": "단지",
+    "createdAt": "2026-05-22T03:00:00.000Z"
+  },
+  {
+    "id": "68551796580dfcd6977d6934113ba6fe",
+    "source": "dnews",
+    "title": "서울시, 사전협상 ‘정책시설 30% 의무’ 족쇄 풀었다… 대규모 개발 ‘유연성’ 확보",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605210856460200554",
+    "publishedAt": "2026-05-22T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시가 대규모 유휴부지 개발 시 관광숙박시설이나 노인복지시설을 일정 비율 이상 의무적으로 확보해야 했던 ‘30% 룰’을 폐지했다. 민간 사업자가 정책시설을 조금만 도입하더라도 도입한 비율에 비례해 공공기여를 감면받을 수 있도록 지침을 개정함으로 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-22T03:00:00.000Z"
+  },
+  {
+    "id": "afad4cb0218dca7e861354b284f88239",
+    "source": "engdaily",
+    "title": "[6·3지방선거 광역지자체 공약 비교]GTX 춘천 연장 띄운 우상호·김진태…“재원·수요가 관건”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22346",
+    "publishedAt": "2026-05-22T02:06:00.000Z",
+    "summary": null,
+    "filter": "GTX",
+    "createdAt": "2026-05-22T02:06:00.000Z"
+  },
+  {
+    "id": "d637a1bb2b2864a3df9d4e70a8fad337",
+    "source": "dnews",
+    "title": "평촌 선도지구 꿈마을 재건축 잰걸음…설계사 선정 채비 나서",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605211542214100676",
+    "publishedAt": "2026-05-22T02:00:00.000Z",
+    "content": "[대한경제=홍샛별 기자]안양 평촌 신도시 선도지구인 꿈마을 특별정비구역의 통합재건축 사업이 속도를 내고 있다. 최근 두 구역 모두 설계사 선정을 위한 입찰 공고를 낸 데 따라, 건축사사무소들도 입찰을 위한 채비에 나서는 모습이다.21일 업계에 따르면 평촌신도시 특별정비 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-05-22T02:00:00.000Z"
+  },
+  {
+    "id": "df90d1f78d986676a6915a79cb2afbd1",
+    "source": "engdaily",
+    "title": "국토부, GTX 삼성역 정밀 진단",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22340",
+    "publishedAt": "2026-05-22T01:38:00.000Z",
+    "summary": null,
+    "filter": "GTX",
+    "createdAt": "2026-05-22T01:38:00.000Z"
   }
 ]
