@@ -1,5 +1,35 @@
 [
   {
+    "id": "06fc38e30b4432d581720a2e649e70ab",
+    "source": "engdaily",
+    "title": "[6·3지방선거 광역지자체 공약 비교]부산은 가덕도 개항, 울산은 트램, 경남은 철도망 충돌",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22467",
+    "publishedAt": "2026-05-29T08:28:00.000Z",
+    "summary": null,
+    "filter": "트램",
+    "createdAt": "2026-05-29T08:28:00.000Z"
+  },
+  {
+    "id": "ceaa611fa678001d82e8059575fb6b47",
+    "source": "engdaily",
+    "title": "한명식 협회장“엔지니어링 제도 정비하면 대가 20~30% 인상 효과”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22463",
+    "publishedAt": "2026-05-29T06:12:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-05-29T06:12:00.000Z"
+  },
+  {
+    "id": "e2dc09156f9b0a7bb621b1d403124b57",
+    "source": "engdaily",
+    "title": "CTX-진해선, 제5차 국가철도망 반영 추진",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22462",
+    "publishedAt": "2026-05-29T05:55:00.000Z",
+    "summary": null,
+    "filter": "철도망",
+    "createdAt": "2026-05-29T05:55:00.000Z"
+  },
+  {
     "id": "10ba6b2750f2819905085e409554bbd7",
     "source": "engdaily",
     "title": "\"공기 압박 벗어나야\" 김영훈 고용노동부 장관, 건설사 간담회",
@@ -40,6 +70,28 @@
     "createdAt": "2026-05-29T04:30:00.000Z"
   },
   {
+    "id": "bf3873368b9a1c38a86cf85210832998",
+    "source": "dnews",
+    "title": "건설공사비지수 8개월째 상승…美·이란 전쟁에 공급망 불..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605291711150860507",
+    "publishedAt": "2026-05-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-05-29T03:00:00.000Z"
+  },
+  {
+    "id": "3490323e73a85cf1c668ab96e1a47421",
+    "source": "dnews",
+    "title": "'AI 대전환 시대, 엔지니어링 업무 효율화를 위한 AI 활용 ..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605291049176510445",
+    "publishedAt": "2026-05-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-05-29T03:00:00.000Z"
+  },
+  {
     "id": "bb288774864fc04bca95182db230671f",
     "source": "dnews",
     "title": "남광토건, ‘강동하남남양주선 6공구’ 수주 유력",
@@ -64,7 +116,7 @@
   {
     "id": "fddae511411c447f82520eb528e1dc07",
     "source": "dnews",
-    "title": "반대 부딪힌 건축물관리법 개정안…‘우선 지정’ 문구 수정되나",
+    "title": "반대 부딪힌 건축물관리법 개정안…국토부 협의 테이블 오르나",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605281033082240280",
     "publishedAt": "2026-05-29T03:00:00.000Z",
     "content": "최근 건축물관리법 개정안을 놓고 정부와 건축사협회가 갈등을 겪고 있는 가운데, 양측이 다음 달 중 한자리에 모여 개정안 수정을 논의하기로 했다. 이 경우 건설사업관리자(CM)를 감리자로 우선 지정할 수 있다는 문구가 제외되는 게 유력하다.28일 업계에 따르면 대한건축사 ...",
@@ -81,17 +133,6 @@
     "content": "[대한경제=장진우 기자] 한국건설기술연구원(KICT)이 주관기관을 맡고 있는‘초장대 K-지하고속도로 인프라 안전 및 효율향상 기술개발 사업’ 연구단이 캐나다 몬트리올에서 열린 WTC2026(세계 터널ㆍ지하공간 학술대회)에 참가했다고 28일 밝혔다. 본 사업은 국토교통부 ...",
     "summary": null,
     "filter": "대회",
-    "createdAt": "2026-05-29T03:00:00.000Z"
-  },
-  {
-    "id": "feb2d5e844b0de2e2e2d9606e34ca3ad",
-    "source": "dnews",
-    "title": "SK에코플랜트, ‘AI 에이전트 생산 체계’ 구축… AI 혁신 본격화",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605290923093800415",
-    "publishedAt": "2026-05-29T03:00:00.000Z",
-    "content": "[대한경제=김수정 기자]SK에코플랜트는 최근 AI(인공지능) 활용 확산부터 현업 주도 AI 서비스 구현까지 이어지는 3단계 AI 확산 체계를 구축했다고 29일 밝혔다. 3단계 체계는 AI 수용(AI Delivery), AI 역량개발(AI Capa. Belt), AI 에 ...",
-    "summary": null,
-    "filter": "AI",
     "createdAt": "2026-05-29T03:00:00.000Z"
   },
   {
@@ -161,6 +202,28 @@
     "createdAt": "2026-05-29T03:00:00.000Z"
   },
   {
+    "id": "cf0ce465d653ebcad7b6f1ae2e8f8827",
+    "source": "dnews",
+    "title": "[도시정비시장 풍향계] 상도15구역 ‘유찰’…대우건설 단독 입찰",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605291726082870509",
+    "publishedAt": "2026-05-29T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]서울 동작구 상도15구역 재개발 시공권을 노리는 건설사 윤곽이 드러났다.29일 도시정비업계에 따르면 상도15구역 재개발 사업 사업시행자 대신자산신탁이 이날 시공사 선정을 위한 1차 입찰을 마감한 결과 대우건설이 단독으로 응찰했다. 지난 현장설명회 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-05-29T03:00:00.000Z"
+  },
+  {
+    "id": "be300009ac21eb243fb319024ada99b9",
+    "source": "dnews",
+    "title": "성수4지구 시공사 선정 입찰 또 ‘갈등’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605291017043210434",
+    "publishedAt": "2026-05-29T03:00:00.000Z",
+    "content": "[대한경제=한형용 기자]서울 성동구 성수전략정비구역 4지구(성수4지구) 재개발사업 시공사 재입찰 과정에서 또다시 갈등이 불거졌다. 대우건설이 경쟁사인 롯데건설의 제안에 입찰 지침 위반 사항이 있다며 강하게 반발했고, 롯데건설은 두 가지 쟁점 모두 문제가 없다며 맞서고 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-05-29T03:00:00.000Z"
+  },
+  {
     "id": "e616ff68edb9e2de7f09a634c36749c1",
     "source": "dnews",
     "title": "성수2ㆍ3지구 누가 품나…삼성ㆍDLㆍ현산 ‘출격’",
@@ -169,6 +232,28 @@
     "content": "2지구 DL이앤씨 오래 전부터 공들여포스코이앤씨 불참 선언…현산 눈독3지구는 삼성물산 건설부문 관심일각에선 수의계약 전망 내놓지만대형사 간 자존심 건 진검승부 예상[대한경제=이종무 기자]서울 강북권 핵심 재개발 지역으로 꼽히는 성동구 성수전략정비구역이 막바지를 향해 달 ...",
     "summary": null,
     "filter": "수의계약",
+    "createdAt": "2026-05-29T03:00:00.000Z"
+  },
+  {
+    "id": "10404a5436dd2fcde28d4ff10ee50ad1",
+    "source": "dnews",
+    "title": "건설기술인협회, 예비 건설엔지니어 200명에 장학금 수여",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605281455085650341",
+    "publishedAt": "2026-05-29T03:00:00.000Z",
+    "content": "28일 건설기술인회관 KOCEA홀서 수여식 개최…고등학교 4곳 포함박종면 회장, 연봉 전액 장학금으로 쾌척…“선배 기술인의 격려이자 응원”[대한경제=정석한 기자]“선거 공약대로 장학금을 지급할 수 있게 되어 뜻깊다. 선배 엔지니어로서 후배들을 도울 수 있다는 점도 뿌듯 ...",
+    "summary": null,
+    "filter": "건설기술인협회",
+    "createdAt": "2026-05-29T03:00:00.000Z"
+  },
+  {
+    "id": "0d2e1a6a3d95350ee9b212297f4e69ed",
+    "source": "dnews",
+    "title": "[부음] 윤현우(삼양건설 대표, 전 대한건설협회 충청북도회장)씨 모친상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605291654364900505",
+    "publishedAt": "2026-05-29T03:00:00.000Z",
+    "content": "▲김학율씨 별세, 윤현우(삼양건설 대표, 전 대한건설협회 충청북도회장) 모친상 = 충북대학교병원장례식장 특3호(30일 특1호), 발인 31일 오전 8시30분, (043)277-8766〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
     "createdAt": "2026-05-29T03:00:00.000Z"
   },
   {
@@ -200,17 +285,6 @@
     "summary": null,
     "filter": "도로",
     "createdAt": "2026-05-29T02:12:00.000Z"
-  },
-  {
-    "id": "be300009ac21eb243fb319024ada99b9",
-    "source": "dnews",
-    "title": "성수4지구 시공사 선정 입찰 또 ‘갈등’",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605291017043210434",
-    "publishedAt": "2026-05-29T01:52:00.000Z",
-    "content": "[대한경제=한형용 기자]서울 성동구 성수전략정비구역 4지구(성수4지구) 재개발사업 시공사 재입찰 과정에서 또다시 갈등이 불거졌다. 대우건설이 경쟁사인 롯데건설의 제안에 입찰 지침 위반 사항이 있다며 강하게 반발했고, 롯데건설은 두 가지 쟁점 모두 문제가 없다며 맞서고 ...",
-    "summary": null,
-    "filter": "입찰",
-    "createdAt": "2026-05-29T01:52:00.000Z"
   },
   {
     "id": "93e96e501cd8ddd78d60b06e971f9390",
@@ -271,6 +345,17 @@
     "summary": null,
     "filter": "수자원",
     "createdAt": "2026-05-29T00:35:00.000Z"
+  },
+  {
+    "id": "feb2d5e844b0de2e2e2d9606e34ca3ad",
+    "source": "dnews",
+    "title": "SK에코플랜트, ‘AI 에이전트 생산 체계’ 구축… AI 혁신 본격화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605290923093800415",
+    "publishedAt": "2026-05-29T00:32:00.000Z",
+    "content": "[대한경제=김수정 기자]SK에코플랜트는 최근 AI(인공지능) 활용 확산부터 현업 주도 AI 서비스 구현까지 이어지는 3단계 AI 확산 체계를 구축했다고 29일 밝혔다. 3단계 체계는 AI 수용(AI Delivery), AI 역량개발(AI Capa. Belt), AI 에 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-05-29T00:32:00.000Z"
   },
   {
     "id": "e06e419d714fa6d5e0ddf86884a95d00",
