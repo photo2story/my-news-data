@@ -1,13 +1,153 @@
 [
   {
-    "id": "6cf04ff9c5e7ad9846d49f6351e8400f",
+    "id": "2b4a6d1558d97191b8f848e8cb8ed987",
     "source": "dnews",
-    "title": "SOC 해체공사 안전가이드 10월께 나온다",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171107195280680",
-    "publishedAt": "2026-06-18T03:00:00.000Z",
-    "content": "서소문 고가차도 붕괴사고 이후해체공사 안전관리 필요성 제기설계-시공ㆍ감리 등 4개분과 나눠 관리 체계 재점검ㆍ개선방안 모색규제 강화가 현장 적용 저하 우려도[대한경제=장진우 기자] 해체ㆍ철거 단계를 규율할 제도가 사실상 비어 있던 SOC(사회기반시설) 분야에서 안전관리 ...",
+    "title": "선엔지니어링 ‘밀양연극교육체험관, 청년연극인쉼터 통합건설사업관리용역’ 수주 유력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606161620121560611",
+    "publishedAt": "2026-06-18T08:16:00.000Z",
+    "content": "‘선엔지니어링종합건축사사무소의 ‘밀양연극교육체험관, 청년연극인쉼터 통합건설사업관리용역’ 수주가 유력하다.16일 관련 기관에 따르면 경상남도 밀양시가 개찰한 이 용역은 선엔지니어링종합건축사사무소가 예정가격의80.54%인23억780만원을 투찰해 적격심사 1순위에 앉았다.또 ...",
     "summary": null,
-    "filter": "SOC",
+    "filter": "건설사업관리",
+    "createdAt": "2026-06-18T08:16:00.000Z"
+  },
+  {
+    "id": "e66904c1a3aa1486bbf3c3e074ff008b",
+    "source": "engdaily",
+    "title": "ADB론 수주실적, 한국 1위 삼안",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22649",
+    "publishedAt": "2026-06-18T06:08:00.000Z",
+    "summary": null,
+    "filter": "삼안",
+    "createdAt": "2026-06-18T06:08:00.000Z"
+  },
+  {
+    "id": "ace91df8c2fd4952b39382ffcc7bba5b",
+    "source": "engdaily",
+    "title": "노후풍력발전기 소방 안전관리 강화 초읽기",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22645",
+    "publishedAt": "2026-06-18T04:50:00.000Z",
+    "summary": null,
+    "filter": "풍력",
+    "createdAt": "2026-06-18T04:50:00.000Z"
+  },
+  {
+    "id": "f5eb7501df6a1cff5b290bbbbdb99d04",
+    "source": "engdaily",
+    "title": "\"전 직원이 개발자다\"…건화 AI-FUNtest 현장 가보니",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22644",
+    "publishedAt": "2026-06-18T04:44:00.000Z",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-06-18T04:44:00.000Z"
+  },
+  {
+    "id": "475b60efcc5482e7e480f9816beccf9e",
+    "source": "dnews",
+    "title": "GS건설, 사내 AI 활용 경진대회 'AX 레시피' 진행",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181125275880867",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "045270d1e7e2b34374221518d2e5bc12",
+    "source": "dnews",
+    "title": "“시대와 함께 사회를 짓다”…정림건축, 60주년 기념사업 본격화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171605284590759",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=홍샛별 기자] 정림건축종합건축사사무소(이하 정림건축)가 창립 60주년을 앞두고 기념사업 추진 작업에 본격 돌입했다.정림건축은 17일 창립 59주년 기념식을 개최하면서, ‘정림 60주년 기념사업’의 방향과 주요 내용을 임직원들과 공유했다.정림건축은 내년 창립 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "4d7f18f837635496aefbd19dd15f9bed",
+    "source": "dnews",
+    "title": "대한건설협회, 국방시설본부와 상생협력 위한 업무협약",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181439023890910",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=정석한 기자]대한건설협회(회장 한승구)는 18일 국방시설본부(본부장 강영미)와 서울 논현동 건설회관에서 업무협약식 및 간담회를 가졌다. 이번 행사는 국방시설 품질 제고를 통한 국방력 증진과 양 기관간 상생협력을 통한 건설업계 발전방안을 모색하기 위해 마련됐다 ...",
+    "summary": null,
+    "filter": "건설업",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "ff708bf1ee80b570b57fb492f2511824",
+    "source": "dnews",
+    "title": "올 건설수주액 240.8兆…공공부문 호조 힘 입어 전년 대비 8.9％ 증가",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181431152260907",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "공공 74.9조원(14.7％↑), 민간 165.9조원(6.5％↑) 늘어건설투자266.1조로 0.3％ 늘어날 것…국책사업 기성 확대[대한경제=정석한 기자]올 국내 건설수주액이 전년 대비 8.9％ 늘어난 240조8000억원을 기록할 것으로 전망된다. 공공부문과 토목공종을 ...",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "3ae16db48590e097ed03deebc6e3dd0f",
+    "source": "dnews",
+    "title": "이보룡 현대제철 사장, 타운홀 미팅 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181541563910932",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]현대제철은 이보룡 사장이 18일 당진제철소 안전문화관에서 ‘CEO(최고경영자) 타운홀 미팅’을 열고 직원들과 직접 소통에 나섰다고 밝혔다.이날 행사는 이 사장의 경영철학 공유를 시작으로, 현대제철의 미래 성장 로드맵인 ‘비전 2032’ 추진현황, ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "20df6e444ee00a593b85e0d2c77c9eee",
+    "source": "dnews",
+    "title": "두산건설, 수도방위사령부 장병에 ‘AI 자격증 취득 교육과정’ 지원",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181459055660918",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=정석한 기자]두산건설(대표이사 이정환)은 ‘장병 북돋움 내일 PASS’를 통해 수도방위사령부 장병들에게 AI(인공지능) 활용 능력 자격증(AICE) 자격증 취득 교육과정을 지원했다고 18일 밝혔다. 국방부가 운영하는 장병 북돋움 내일 PASS는 장병들의 자기 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "a67062f68e714ff6883c0cceb237d2f8",
+    "source": "dnews",
+    "title": "SP삼화, 방산시장 진출 교두보 마련",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606180859118710804",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]SP 삼화는 지난 5월 방산 스타트업 ‘플라이어’에 대한 전략적 지분 투자를 완료했다고 18일 밝혔다. 플라이어는 신개념 스텔스 및 고기능성 전자파 차폐 소재 원천 기술을 보유한 기업이다. 이번 투자는 SP 삼화가 보유한 첨단 정밀화학 노하우와 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "0ab94ad9d45a8e405e120ab5c82a45d6",
+    "source": "dnews",
+    "title": "메타이노텍 컨소, 국토부 AI 응용제품 신속 상용화 지원사업 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181347482870885",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=김민수 기자]인공지능(AI) 기반 스마트 건축환경 설루션 전문기업㈜메타이노텍(대표 조광묵)은 국토교통부가 추진하는 ‘AI 응용제품 신속 상용화 지원사업(AX-SPRINT)’에 최종 선정됐다고 18일 밝혔다.사업 주관기관은 메타이노텍이며,성균관대학교 소프트웨어 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "42ed0737e291fd9593a35c00e4000fed",
+    "source": "dnews",
+    "title": "오세훈 서울시장 “국토교통부, 더불어민주당이 8월 GTX 직결 개통 멈춰 세워”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181423445240902",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]오세훈 서울시장이 지방선거 과정에서 불거진 ‘GTX-A 삼성역 공사 논란’을 두고 “공영방송과 정권, 집권여당이 한 몸처럼 움직인 관권선거이자 권언유착”이라고비판했다.오 시장은 지난 18일 자신의 사회관계망서비스(SNS)를 통해 발표한 입장문에서 ...",
+    "summary": null,
+    "filter": "GTX",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "575149db772723233671d5bf5d9c360a",
+    "source": "dnews",
+    "title": "교섭 미루는 원청에 강공…플랜트건설노조, 동시다발 파업 투표 강행",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171422230030720",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "19일부터 울산ㆍ강원ㆍ충북 찬반투표 포스코ㆍS-Oilㆍ고려아연 등 대상[대한경제=신보훈 기자] 전국플랜트건설노동조합이 원청 기업들을 상대로 한 파업 찬반투표에 들어간다. 지방노동위원회로부터 사용자성을 인정받은 원청이 교섭에 나서지 않고 있는 만큼, 쟁의행위에 대한 강경 ...",
+    "summary": null,
+    "filter": "soc",
     "createdAt": "2026-06-18T03:00:00.000Z"
   },
   {
@@ -110,6 +250,28 @@
     "createdAt": "2026-06-18T03:00:00.000Z"
   },
   {
+    "id": "09c72808e407f921f1d0869020199f01",
+    "source": "dnews",
+    "title": "[한미글로벌 30년, 우리나라 PM의 역사] 김종훈 회장, 국내 PM 역사의 ‘산증인’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171418102170717",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "국내 최초 PM 전문기업 한미글로벌의 시작은 창업자 김종훈 회장의 풍부한 해외 현장 경험과 건설산업에 대한 문제의식에서 비롯됐다.김 회장은 1970년대 중동 건설 현장에서 PM 개념을 처음 접했고, 이후 다양한 해외 프로젝트를 수행하며 그 효과를 체험했다. 삼성물산 소 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "79dccdb287fb997c0e562e04e3544bce",
+    "source": "dnews",
+    "title": "[도시정비시장 풍향계] 서울 신영제1구역 재개발 현설 건설사 7곳 참석",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181529006840926",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]서울 종로구 신영제1구역 재개발 시공사 선정을 위한 현장설명회(현설)에 7개 건설사가 참석했다. 내달 마감하는 입찰에 경쟁이 성사될지 주목된다.신영제1구역 재개발 정비사업 조합은 18일 1차 현설을 개최했다. 그 결과 7개 건설사가 참석했다. 신 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
     "id": "b5b4fdc1e461610a543889d87989be1f",
     "source": "dnews",
     "title": "삼성물산, 압구정 이어 성수까지… ‘래미안 한강벨트’ 속도",
@@ -132,6 +294,28 @@
     "createdAt": "2026-06-18T03:00:00.000Z"
   },
   {
+    "id": "1369ae82e55d373627b1bf0ada100090",
+    "source": "dnews",
+    "title": "[6월24일 개최 ‘2026 랜드페어’ 미리보기] 수도권 공급 토..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181223549740872",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "8995f18a627a14dc1a170aed211ce2a0",
+    "source": "dnews",
+    "title": "한수원, 체코 두코바니 계약 1주년 이행 점검… 27조 원전 사업 가속화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181639282070949",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "한국수력원자력이 체코 두코바니 원전사업 계약 1주년을 맞아 전방위적 협력 강화와 사업 적기 추진에 고삐를 죄었다. 한수원은 김회천 사장이 17일부터 18일(현지시간)까지 이틀간 체코를 방문해 사업 이행 현황을 점검했다고 밝혔다.김 사장은 18일 체코 산업통상부에서 열린 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
     "id": "ce8de1fe883be65e8c7b1113aab6be88",
     "source": "dnews",
     "title": "금호건설, 제13회 아테라 하모니 콘서트 개최",
@@ -143,25 +327,36 @@
     "createdAt": "2026-06-18T03:00:00.000Z"
   },
   {
-    "id": "575149db772723233671d5bf5d9c360a",
+    "id": "8cb064475cfd5fa196475477c4c24b33",
     "source": "dnews",
-    "title": "교섭 미루는 원청에 강공…플랜트건설노조, 동시다발 파업 투표 강행",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171422230030720",
-    "publishedAt": "2026-06-17T21:20:00.000Z",
-    "content": "19일부터 울산ㆍ강원ㆍ충북 찬반투표 포스코ㆍS-Oilㆍ고려아연 등 대상[대한경제=신보훈 기자] 전국플랜트건설노동조합이 원청 기업들을 상대로 한 파업 찬반투표에 들어간다. 지방노동위원회로부터 사용자성을 인정받은 원청이 교섭에 나서지 않고 있는 만큼, 쟁의행위에 대한 강경 ...",
+    "title": "우리 동네 시장에서 장 보면 최대 3만원 돌려받는다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181017496380831",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-06-17T21:20:00.000Z"
+    "createdAt": "2026-06-18T03:00:00.000Z"
   },
   {
-    "id": "09c72808e407f921f1d0869020199f01",
+    "id": "1dd05b4207301ada13f992c901621fb3",
     "source": "dnews",
-    "title": "[한미글로벌 30년, 우리나라 PM의 역사] 김종훈 회장, 국내 PM 역사의 ‘산증인’",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171418102170717",
-    "publishedAt": "2026-06-17T21:00:00.000Z",
-    "content": "국내 최초 PM 전문기업 한미글로벌의 시작은 창업자 김종훈 회장의 풍부한 해외 현장 경험과 건설산업에 대한 문제의식에서 비롯됐다.김 회장은 1970년대 중동 건설 현장에서 PM 개념을 처음 접했고, 이후 다양한 해외 프로젝트를 수행하며 그 효과를 체험했다. 삼성물산 소 ...",
+    "title": "‘도심 속 워터파크’ 한강 수영장·물놀이장 19일 문 연다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181029360600837",
+    "publishedAt": "2026-06-18T03:00:00.000Z",
+    "content": "",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-06-17T21:00:00.000Z"
+    "createdAt": "2026-06-18T03:00:00.000Z"
+  },
+  {
+    "id": "6cf04ff9c5e7ad9846d49f6351e8400f",
+    "source": "dnews",
+    "title": "SOC 해체공사 안전가이드 10월께 나온다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171107195280680",
+    "publishedAt": "2026-06-17T21:01:00.000Z",
+    "content": "서소문 고가차도 붕괴사고 이후해체공사 안전관리 필요성 제기설계-시공ㆍ감리 등 4개분과 나눠 관리 체계 재점검ㆍ개선방안 모색규제 강화가 현장 적용 저하 우려도[대한경제=장진우 기자] 해체ㆍ철거 단계를 규율할 제도가 사실상 비어 있던 SOC(사회기반시설) 분야에서 안전관리 ...",
+    "summary": null,
+    "filter": "SOC",
+    "createdAt": "2026-06-17T21:01:00.000Z"
   }
 ]
