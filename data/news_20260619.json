@@ -1,5 +1,26 @@
 [
   {
+    "id": "63998be2f571d58c0639dc17443f2315",
+    "source": "engdaily",
+    "title": "엔지니어링협회, 정보통신협의회 워크숍 개최",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22664",
+    "publishedAt": "2026-06-19T04:15:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-06-19T04:15:00.000Z"
+  },
+  {
+    "id": "20a68644b2f429726f79436a170cd1aa",
+    "source": "dnews",
+    "title": "KIND, ‘녹색펀드’ 투자 설명회 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606190941217520985",
+    "publishedAt": "2026-06-19T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]한국해외인프라도시개발지원공사(KIND, 사장 김복환)는 지난 18일 여의도 Two IFC 포럼에서 국내 자산운용사를 대상으로 ‘녹색펀드’ 투자설명회(이하 설명회)를 개최했다고 19일 밝혔다. 이번 설명회는 녹색펀드와 국내 자산운용사가 공동으로 ...",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-06-19T03:00:00.000Z"
+  },
+  {
     "id": "729c8cc466fa1d5895a87e30ec07f56d",
     "source": "dnews",
     "title": "“시공설계는 시공사 책임” E&E포럼 건설안전 제고 방안 세미나",
@@ -86,17 +107,6 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-06-19T03:00:00.000Z"
-  },
-  {
-    "id": "20a68644b2f429726f79436a170cd1aa",
-    "source": "dnews",
-    "title": "KIND, ‘녹색펀드’ 투자 설명회 개최",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606190941217520985",
-    "publishedAt": "2026-06-19T00:42:00.000Z",
-    "content": "[대한경제=김수정 기자]한국해외인프라도시개발지원공사(KIND, 사장 김복환)는 지난 18일 여의도 Two IFC 포럼에서 국내 자산운용사를 대상으로 ‘녹색펀드’ 투자설명회(이하 설명회)를 개최했다고 19일 밝혔다. 이번 설명회는 녹색펀드와 국내 자산운용사가 공동으로 ...",
-    "summary": null,
-    "filter": "인프라",
-    "createdAt": "2026-06-19T00:42:00.000Z"
   },
   {
     "id": "ab28a73d30963829cb49825d9915286d",
