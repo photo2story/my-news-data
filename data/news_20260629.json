@@ -1,5 +1,144 @@
 [
   {
+    "id": "77b9a5e05f4809ae9ae80791a689da6f",
+    "source": "engdaily",
+    "title": "“철도 건설 확보, 스마트기술로” 철도건설기술세미나",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22758",
+    "publishedAt": "2026-06-29T05:41:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-06-29T05:41:00.000Z"
+  },
+  {
+    "id": "d05e91ee9af3c6896fbb351be4727f5d",
+    "source": "engdaily",
+    "title": "제주 수소트램, 국토부 상위계획 승인",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22756",
+    "publishedAt": "2026-06-29T05:22:00.000Z",
+    "summary": null,
+    "filter": "트램",
+    "createdAt": "2026-06-29T05:22:00.000Z"
+  },
+  {
+    "id": "eb7795a84175b18ccadeeee639c0231a",
+    "source": "dnews",
+    "title": "카이스트, 18대 총장에 배충식 기계공학과 교수",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291408113330159",
+    "publishedAt": "2026-06-29T05:08:00.000Z",
+    "content": "[대한경제=신보훈 기자]카이스트(KAIST)는 제18대 총장에 배충식 기계공학과 교수를 선임했다고 29일 밝혔다. KAIST 이사회는 이날 서울 양재동 KAIST 김재철AI대학원 서울 양재산학캠퍼스에서 임시이사회를 열고, 배 교수를 신임 총장으로 선임했다.배 신임 총장 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-06-29T05:08:00.000Z"
+  },
+  {
+    "id": "5b85cf86a360fb8461fa76f52a1af6ac",
+    "source": "dnews",
+    "title": "IPARK, KCC와 아이파크 브랜드 색채 기준 개발",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291355049770153",
+    "publishedAt": "2026-06-29T05:07:00.000Z",
+    "content": "브랜드 리뉴얼 연장선…일관된 품질 경험 제공매뉴얼북 제작ㆍCUD 적용으로 품질 관리 강화[대한경제=이종무 기자]IPARK현대산업개발은 KCC와 ‘IPARK(아이파크) 브랜드 시그니처 컬러 기준 정립과 색채 매뉴얼북 제작을 위한 업무 협약’을 맺었다고 29일 밝혔다. 아 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T05:07:00.000Z"
+  },
+  {
+    "id": "bf5d25425500940e56e56c90278d5377",
+    "source": "engdaily",
+    "title": "6월 5주 엔지니어링 주간 입낙찰 동향",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22755",
+    "publishedAt": "2026-06-29T05:06:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-06-29T05:06:00.000Z"
+  },
+  {
+    "id": "1cd0e6ff6a8bfec1c73949b4a9a71ebd",
+    "source": "engdaily",
+    "title": "인천 1호선 송도연장사업, 경제성분석 0.3",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22754",
+    "publishedAt": "2026-06-29T04:35:00.000Z",
+    "summary": null,
+    "filter": "1호선",
+    "createdAt": "2026-06-29T04:35:00.000Z"
+  },
+  {
+    "id": "686d42113a960de1ad343098b857f618",
+    "source": "dnews",
+    "title": "건설연, '네이버 메이트' IT·테크 분야 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606290930078300063",
+    "publishedAt": "2026-06-29T04:13:00.000Z",
+    "content": "[대한경제=장진우 기자] 한국건설기술연구원(원장 박선규)은 건설연 공식 블로그가 네이버 인공지능(AI) 브리핑 누적 인용 수 104만 회를 기록하며 6월‘네이버 메이트’ ITㆍ테크 분야에 선정됐다고 29일 밝혔다.네이버 메이트는 네이버 AI 브리핑 인용 수를 중심으로 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-06-29T04:13:00.000Z"
+  },
+  {
+    "id": "06a12e70752e3eebd80f09bfd2fa291a",
+    "source": "dnews",
+    "title": "KCCㆍIPARK현대산업개발, ‘IPARK 브랜드 컬러 아이덴티티 구축 업무협약’ 체결",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606290949566630070",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]KCC와 IPARK현대산업개발이 손잡고 ‘IPARK’의 새로운 브랜드 컬러 시스템 구축에 나선다.KCC는 최근 서울 서초구 본사에서 IPARK현대산업개발과 ‘IPARK 브랜드 컬러 아이덴티티 구축 및 컬러 표준화를 위한 전략적 업무협약’을 체결했 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "0eded853520d0edbf843a2958ae0c62c",
+    "source": "dnews",
+    "title": "한수원 컨소시엄, 800㎿ 규모 ‘전북 서남권 해상풍력’ 우선협상대상자 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291019256770089",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "한국수력원자력이 전북 부안 해역에 조성되는 800㎿ 규모의 대형 해상풍력 발전단지 개발권을 확보했다.한수원은 전북특별자치도가 추진하는 ‘전북 서남권 해상풍력 확산단지1 공공사업시행자 공모’의 우선협상대상자로 선정됐다고 29일 밝혔다.이번 사업은 전력 공급의 공공성 확보 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "79845362fa56675aa5d0a580fec85f7c",
+    "source": "dnews",
+    "title": "한국건축구조기술사회, 삼풍백화점 붕괴사고 31주기 추모행사 참석",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291113551440117",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] 한국건축구조기술사회는 29일 서울 서초구 양재 시민의숲 삼풍참사위령탑에서 열린‘삼풍백화점 붕괴사고 31주기 추모행사’에 참석해 희생자들의 넋을 기리고 유가족들에게 깊은 위로의 뜻을 전했다고 밝혔다.삼풍백화점 붕괴사고는 지난 31년 전발생한 대한 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "ff92b3c144acc897cea33208f6ab47e2",
+    "source": "dnews",
+    "title": "국토건설, ‘천안호수고 신축공사’ 수주 눈앞",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606261530562890924",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "국토건설(대표 황의준)이 ‘(가칭)천안호수고등학교 교사 신축공사’ 수주를 위한 유리한 고지에 올랐다.28일 조달청에 따르면 충청남도천안교육지원청 수요의 이 공사를 개찰한 결과, 국토건설이 예정가격 대비 87.80%인 181억3828만원을 적어내 적격심사 1순위를 차지했 ...",
+    "summary": null,
+    "filter": "조달청",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "e3e9e39cf4931461838928d807c9a7f8",
+    "source": "dnews",
+    "title": "건설산업비전포럼 ‘기술이 주도하는 건설 생산성 혁신 토론회’ 성료",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606280147046850980",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "[대한경제=이수형 기자]건설산업비전포럼은 지난 26일 ‘기술이 주도하는 건설 생산성 혁신 토론회’를 열고 건설산업의 첨단기술 도입 현황과 개선과제를 진단했다. 강호인 건설산업비전포럼 공동대표는 개회사에서 “빌딩정보모델링(BIM), 인공지능(AI), 건설 로봇, 드론 등 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "818759ee63a08b1a96087382d8a82183",
+    "source": "dnews",
+    "title": "원청·하청 노조 협상 '고차방정식'…노노(勞勞) 갈등도 불가피",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606281134109200006",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "상이한 요구사항에 대표성 우려교섭 결렬 시 원청 '파업 리스크' 무방비[대한경제=신보훈 기자]원청과 하청 노조 간의 교섭 절차가 본격화하면서 산업 현장에서는 노동조합 간 주도권 싸움인 ‘노노(勞勞) 갈등’이 새로운 뇌관으로 부상하고 있다. 직종과 이해관계가 다른 수십 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
     "id": "e89c084ef2ba0501829db87f78fe652b",
     "source": "dnews",
     "title": "복잡해지는 노란봉투법…원청 한곳에 하청노조 21곳 교섭 요구",
@@ -99,6 +238,17 @@
     "createdAt": "2026-06-29T03:00:00.000Z"
   },
   {
+    "id": "2366b5fdafc4bcbb3bfbbba0ab02eecd",
+    "source": "dnews",
+    "title": "[이번주 재개발ㆍ재건축] 성수4지구 누구 품에…대우ㆍ롯데 내달 5일 판가름",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606281020017500999",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "포스코, 중림동 398 수주 유력여의도 광장ㆍ목동13단지 등 현설[대한경제=이종무 기자]이번 주에는 약 4년 만의 ‘리턴 매치’로 관심을 끌고 있는 서울 성동구 성수4지구 재개발 시공사 선정총회가 열려 시공사가 결정된다.총회=성수4지구(성수전략정비구역 제4지구) 재개발 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
     "id": "5b03370db0f62d3db8d54cbb9f42f8be",
     "source": "dnews",
     "title": "[대한도시정비포럼 4차 세미나] 서울 정비시장 구조적 악재 낱낱이 해부",
@@ -143,25 +293,91 @@
     "createdAt": "2026-06-29T03:00:00.000Z"
   },
   {
-    "id": "818759ee63a08b1a96087382d8a82183",
+    "id": "155b4eab52784cd117de6eb9f7d809e2",
     "source": "dnews",
-    "title": "원청·하청 노조 협상 '고차방정식'…노노(勞勞) 갈등도 불가피",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606281134109200006",
-    "publishedAt": "2026-06-28T21:20:00.000Z",
-    "content": "상이한 요구사항에 대표성 우려교섭 결렬 시 원청 '파업 리스크' 무방비[대한경제=신보훈 기자]원청과 하청 노조 간의 교섭 절차가 본격화하면서 산업 현장에서는 노동조합 간 주도권 싸움인 ‘노노(勞勞) 갈등’이 새로운 뇌관으로 부상하고 있다. 직종과 이해관계가 다른 수십 ...",
+    "title": "[인사] 은평구",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291239235070130",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "◆은평구 <4급 전보> ▲행정국장 이호선 ▲기획재정국장 임은경◆은평구 <5급 전보> ▲자치행정과장 최두철 ▲민원여권과장 직무대리 이기선 ▲세무행정과장 김문자 ▲재산세과장 왕규마 ▲지방소득세과장 정창식 ▲생활체육과장 주서현 ▲생활복지과장 강다현 ▲영유아지원과장 육계현 ▲ ...",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-06-28T21:20:00.000Z"
+    "createdAt": "2026-06-29T03:00:00.000Z"
   },
   {
-    "id": "2366b5fdafc4bcbb3bfbbba0ab02eecd",
+    "id": "9915aacdc244a912bca17cea9c5f513e",
     "source": "dnews",
-    "title": "[이번주 재개발ㆍ재건축] 성수4지구 누구 품에…대우ㆍ롯데 내달 5일 판가름",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606281020017500999",
-    "publishedAt": "2026-06-28T20:00:00.000Z",
-    "content": "포스코, 중림동 398 수주 유력여의도 광장ㆍ목동13단지 등 현설[대한경제=이종무 기자]이번 주에는 약 4년 만의 ‘리턴 매치’로 관심을 끌고 있는 서울 성동구 성수4지구 재개발 시공사 선정총회가 열려 시공사가 결정된다.총회=성수4지구(성수전략정비구역 제4지구) 재개발 ...",
+    "title": "금호건설, 롯데칠성음료와 ‘Heat Down, Safety Up’ 캠페인 전개",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606290914172200053",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "[대한경제=한형용 기자]금호건설은 지난 26일 서울 종로구 금호건설 본사에서 롯데칠성음료와 혹서기 온열질환 예방을 위한 업무협약(MOU)을 맺었다고 29일 밝혔다. 양사는 건설현장 근로자의 건강 보호와 안전문화 확산을 위해 협력하기로 하고, 오는 9월까지 전국 현장을 ...",
     "summary": null,
-    "filter": "단지",
-    "createdAt": "2026-06-28T20:00:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "eceee4eecb919a37cbe02a9021b1b5a1",
+    "source": "dnews",
+    "title": "[인사]사학연금",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606290918213360056",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "◇사학연금 <1급 승진>△연금사업실장 이병식 △금융투자실장 장원재 <2급 승진>△ESG경영팀장 채호영 △예산운영팀장 박해수 △재직자관리팀장 전영선 △연금수급자팀장 국숙영 △재해보상팀장 안경화 △서울센터장 문보람 △국내채권팀장 김종원 <전보>△연금연구소장 장지영 △평가분 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "5e46b917ee703c5d4a4543d16f6fae14",
+    "source": "dnews",
+    "title": "[인사]대신증권",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606290912497330052",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "◇대신증권 <부서장 신규선임>△신디케이션본부장 박성훈 △Compliance부장 강경호 〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "경호",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "e5077a039eafec8e2677109101320747",
+    "source": "dnews",
+    "title": "북창동 규제완화로 ‘걷고 싶은 거리’ 만든다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291333532440142",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "7e74c9c7f797ebf216d0efac7f655d95",
+    "source": "dnews",
+    "title": "서울시ㆍ자치구, 부모 특강 성행",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291342456040147",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "3dc09c13e15337115e1c9933dc829459",
+    "source": "dnews",
+    "title": "[포토] 글로벌 탑3 도시 서울로...'G3 서울' 기획위 출범",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291328065700141",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
+  },
+  {
+    "id": "7015c0f88a77a76faf8e322cc0353316",
+    "source": "dnews",
+    "title": "[포토] 서울꿈새김판, 여름편 새 단장",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291317518940138",
+    "publishedAt": "2026-06-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-29T03:00:00.000Z"
   }
 ]
