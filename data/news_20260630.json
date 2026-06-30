@@ -1,5 +1,60 @@
 [
   {
+    "id": "1d6362e7adde0c69ad8596a6ff981a9e",
+    "source": "dnews",
+    "title": "IPARK현산, 고용 등 경제 간접기여 2880억",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301237420410308",
+    "publishedAt": "2026-06-30T03:43:00.000Z",
+    "content": "협력사 동반성장 등 성과도 633억][대한경제=이종무 기자]IPARK현대산업개발이 지난해 2880억원 규모의 경제 간접 기여 성과를 올렸다.IPARK현산은 ‘지속가능경영보고서 2026’을 발간했다고 30일 밝혔다.보고서에 따르면 IPARK현산은 지난 한 해 고용, 배당 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:43:00.000Z"
+  },
+  {
+    "id": "4ca4af86cae5bf1d918017f6db91c770",
+    "source": "dnews",
+    "title": "쌍용건설, ‘동해신항 석탄부두 건설공사’ 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301040378690282",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "[대한경제=한형용 기자]쌍용건설(글로벌세아그룹)은 해양수산부 동해지방해양수산청이 발주한 ‘동해신항 석탄부두 건설공사’를 최종 수주했다고 30일 밝혔다. 올해 남부내륙철도 2개 공구(약 4430억원) 수주에 이어 이번 사업으로 올해 세 번째 대형 토목공사를 수주하며 공공 ...",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "6d9d2fd030f7990798d98247fafb51a0",
+    "source": "dnews",
+    "title": "건설경기 완만한 회복세 진입하나…올 건설수주액 266.6兆 전망",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251258432020756",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "공공부문 81.6조, 민간부문 185조 등 전년 대비 두자릿수 증가 눈길건설연 전망 대비 26조가량 많아…민간 정비사업ㆍ반도체 공장 영향[대한경제=정석한 기자]올해 국내 건설수주액이 공공ㆍ민간부문의 호조세에 힘 입어 전년 대비 20％ 이상 늘어난 266조6000억원에 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "40def961777a9f207ba98ba190eb70bd",
+    "source": "dnews",
+    "title": "지금 건설기업에 필요한 건 체력(體力)ㆍ선구(先驅)ㆍ연성(軟性)",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251257498290755",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "한국건설경영협회, 25일 ‘2026년 하반기 건설시장 환경변화와 대응 발표회’손태홍 건산연 실장 “중동전쟁 등 외부 충격이 상수…3대 전략으로 대응”[대한경제=정석한 기자]올 2월 갑작스럽게 발발한 중동전쟁 등 통제 불가능한 외부 충격이 상수가 된 시대에서 건설기업은 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "abde48ad7452ca5af5c6cdbe6b49e643",
+    "source": "dnews",
+    "title": "안전보건조정자 무보수ㆍ무교육으로 감리단장 겸직…“제도 보완 필요”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291756211600215",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "건설현장 안전사고 예방을 위해 안전보건조정자 제도 개선이 필요하다는 목소리가 높다. 지난 2017년 도입됐으나 안전보건조정자의 전문성을 담보할 제도적 장치가 없고 관련 업무의 대가 없이 법적 책임만 늘어나서다. 29일 관련 업계에 따르면 정부는 2017년 산업안전보건법 ...",
+    "summary": null,
+    "filter": "산업안전보건법",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
     "id": "6d6b7917546958e1454f793eca7ee1c1",
     "source": "dnews",
     "title": "[2026 상반기 건설시장 결산] ②공사비 치솟고 대형공사 대거 지연…광역철도망에 겨우 버텼다",
@@ -33,6 +88,152 @@
     "createdAt": "2026-06-30T03:00:00.000Z"
   },
   {
+    "id": "4f98bc6c721e3b7f6256cd4bcbd1ff75",
+    "source": "dnews",
+    "title": "서울시, 현대차 GBC 개발계획 결정고시…최고 높이 250m로 최종 확정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301049181680288",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울 삼성동 현대자동차그룹 글로벌 비즈니스 센터(GBC) 개발 계획이 최고 높이 250m 이하의 복합 빌딩 체계로 최종 확정됐다.그간 초고층 타워 건립을 두고 이어져 온 인허가 리스크가 사실상 종료되면서, GBC를 핵심 축으로 한 영동대로 일대 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "033082be05b03d2636c1e59805d927a2",
+    "source": "dnews",
+    "title": "세운4구역 착공, 신임 종로구청장에 달렸다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251530203760809",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]세운재정비촉진지구 4구역(이하 세운4구역)을 둘러싼 갈등이 2라운드에 돌입할 전망이다. 사업시행계획 인가를 받았음에도,본격적 갈등은 지금부터 시작이라는 관측이다. 정비사업 최종 관문 ‘관리처분계획 인가’ 권한을 쥔 신임 구청장의 의지에 따라 사업 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "507451bf5dfb24b929d00de77e23a19d",
+    "source": "dnews",
+    "title": "[인사] 신한투자증권",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301029442760277",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "◇신한투자증권 <부서장 신임>△투자전략부 노동길 △감사실 방지현〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "63d1003083a6a510d025f32f5d331046",
+    "source": "dnews",
+    "title": "[인사] iM증권",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301028337810275",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "◇iM증권 <상무 승진>△경영지원본부장 정호철 △마케팅본부장 성홍기 <전무 이동>△IB부문장 서상원 <상무보 이동>△Wholesale본부장 이용우 <실장 신임>△전략운용실장 박희권 <센터장 신임>△부산WM센터장이진희 <부서장 신임>△마케팅기획부장 지광현 <부서장 이동> ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "e84c8be2b8e9eb49d0533fec6cfabedb",
+    "source": "dnews",
+    "title": "[인사] 교보증권",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301023331620272",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "◇교보증권 <실장 선임>△경영기획실 서보건 <담당 승진>△WM전략전인봉 <부서장 승진>△WM지원부 구향자 <파트장 승진>△투자컨설팅파트 한정숙 <담당 이동>△그룹시너지담당 정원일 <부서장 이동>△디지털PB센터 정능환 △디지털글로벌서비스부 김현석 <지점장 이동>△사당동지 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "510e78268fbdb9f6e5650bb8f56944c8",
+    "source": "dnews",
+    "title": "호반그룹, 연세대 의료원에 발전 기부금 1억 전달",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301012393770264",
+    "publishedAt": "2026-06-30T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]호반그룹은 서울 서대문구 연세대 의료원에 발전 기부금으로 1억원을 전달했다고 30일 밝혔다.연세대 의료원 류마티스내과와 연세 암병원의 의료 발전ㆍ연구 환경 개선을 지원하기 위한 취지다. 이번 기부금은 류마티스 질환과 암 치료 연구 역량 강화, 진 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-06-30T03:00:00.000Z"
+  },
+  {
+    "id": "0da0392652f8e43d15116e5d642cadac",
+    "source": "engdaily",
+    "title": "국지도 96호선 지하차도 사전타당성조사…도화 수행",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22784",
+    "publishedAt": "2026-06-30T02:45:00.000Z",
+    "summary": null,
+    "filter": "타당성조사",
+    "createdAt": "2026-06-30T02:45:00.000Z"
+  },
+  {
+    "id": "2b89c06e2e42b4631e3058ed8db34375",
+    "source": "engdaily",
+    "title": "국토부, 안전관리비 산정 매뉴얼 제정",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22783",
+    "publishedAt": "2026-06-30T02:33:00.000Z",
+    "summary": null,
+    "filter": "안전관리비",
+    "createdAt": "2026-06-30T02:33:00.000Z"
+  },
+  {
+    "id": "b750fb6ae634a19af0ec065ac1f10125",
+    "source": "engdaily",
+    "title": "부산항 신항, 임항도로 및 배후단지 내부도로 보수",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22780",
+    "publishedAt": "2026-06-30T02:08:00.000Z",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-06-30T02:08:00.000Z"
+  },
+  {
+    "id": "c47f65aa68075a440817236d95d5a770",
+    "source": "engdaily",
+    "title": "새만금공사-인도 HLFPPT, 새만금 투자유치 협약",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22778",
+    "publishedAt": "2026-06-30T01:49:00.000Z",
+    "summary": null,
+    "filter": "새만금",
+    "createdAt": "2026-06-30T01:49:00.000Z"
+  },
+  {
+    "id": "a8c9178eed0410442feee879a06348f5",
+    "source": "engdaily",
+    "title": "대전 트램, 개통 지연으로 2030년 전망",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22777",
+    "publishedAt": "2026-06-30T01:36:00.000Z",
+    "summary": null,
+    "filter": "트램",
+    "createdAt": "2026-06-30T01:36:00.000Z"
+  },
+  {
+    "id": "cc4b2b1d18bcee2a86b33726d3030c9a",
+    "source": "engdaily",
+    "title": "서울지하철 8호선 의정부 연장, 상위계획 포함되나",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22776",
+    "publishedAt": "2026-06-30T01:07:00.000Z",
+    "summary": null,
+    "filter": "지하철",
+    "createdAt": "2026-06-30T01:07:00.000Z"
+  },
+  {
+    "id": "32e355fe5f9732b9db4e4e9192b88965",
+    "source": "engdaily",
+    "title": "송파하남선 1공구 입찰 본궤도…다음 달 발주",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22773",
+    "publishedAt": "2026-06-30T00:34:00.000Z",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-06-30T00:34:00.000Z"
+  },
+  {
+    "id": "59307b9efbfc4d26d42beb67d53ab095",
+    "source": "engdaily",
+    "title": "\"철도 전관예우 근절\"…국토부, 대책 현황 점검",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22772",
+    "publishedAt": "2026-06-30T00:28:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-06-30T00:28:00.000Z"
+  },
+  {
     "id": "f81a4734d107a245a928e21d794873f3",
     "source": "engdaily",
     "title": "가덕도신공항건설공단, 대한토목학회와 기술협력",
@@ -51,27 +252,5 @@
     "summary": null,
     "filter": "수자원",
     "createdAt": "2026-06-29T23:57:00.000Z"
-  },
-  {
-    "id": "033082be05b03d2636c1e59805d927a2",
-    "source": "dnews",
-    "title": "세운4구역 착공, 신임 종로구청장에 달렸다",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251530203760809",
-    "publishedAt": "2026-06-29T22:46:00.000Z",
-    "content": "[대한경제=임성엽 기자]세운재정비촉진지구 4구역(이하 세운4구역)을 둘러싼 갈등이 2라운드에 돌입할 전망이다. 사업시행계획 인가를 받았음에도,본격적 갈등은 지금부터 시작이라는 관측이다. 정비사업 최종 관문 ‘관리처분계획 인가’ 권한을 쥔 신임 구청장의 의지에 따라 사업 ...",
-    "summary": null,
-    "filter": "soc",
-    "createdAt": "2026-06-29T22:46:00.000Z"
-  },
-  {
-    "id": "abde48ad7452ca5af5c6cdbe6b49e643",
-    "source": "dnews",
-    "title": "안전보건조정자 무보수ㆍ무교육으로 감리단장 겸직…“제도 보완 필요”",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291756211600215",
-    "publishedAt": "2026-06-29T21:00:00.000Z",
-    "content": "건설현장 안전사고 예방을 위해 안전보건조정자 제도 개선이 필요하다는 목소리가 높다. 지난 2017년 도입됐으나 안전보건조정자의 전문성을 담보할 제도적 장치가 없고 관련 업무의 대가 없이 법적 책임만 늘어나서다. 29일 관련 업계에 따르면 정부는 2017년 산업안전보건법 ...",
-    "summary": null,
-    "filter": "산업안전보건법",
-    "createdAt": "2026-06-29T21:00:00.000Z"
   }
 ]
