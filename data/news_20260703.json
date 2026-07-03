@@ -1,5 +1,15 @@
 [
   {
+    "id": "59ea7d2e4ed282ae77ab8b3416f73cd1",
+    "source": "engdaily",
+    "title": "철도분야 하반기 상호 공동도급 제한 10개 엔지니어링사 발표",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22817",
+    "publishedAt": "2026-07-03T03:17:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-07-03T03:17:00.000Z"
+  },
+  {
     "id": "50d33e52c17ec6755191ad1e6ab0b025",
     "source": "dnews",
     "title": "서해선-경부고속선 연결선 전략환경영향평가 막바지",
@@ -126,9 +136,31 @@
     "title": "경주 보문천군지구 도시개발사업 ‘좌초 위기’",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021101537820691",
     "publishedAt": "2026-07-03T03:00:00.000Z",
-    "content": "공정률 73%에서 공사비 갈등으로 2년째 공사 중단 상태조합 “도급계약서에 책임준공 명기” vs 현대건설 “리파이낸싱으로 책임준공 의무 소멸”법정 분쟁 겪는동안 PF 대출 만기 도래하며 사업 파행 위기[대한경제=김희용 기자]공사비 미지급 문제로 2년 이상 멈춰선 경주시 ...",
+    "content": "공정률 73%에서 공사비 미지급 문제로2년째 공사 중단 상태조합 “도급계약서에 책임준공 명기” vs 현대건설 “리파이낸싱으로 책임준공 의무 소멸”법정 분쟁 겪는동안 PF 대출 만기 도래하며 사업 파행 위기[대한경제=김희용 기자]공사비 미지급 문제로 2년 이상 멈춰선 경 ...",
     "summary": null,
     "filter": "태조",
+    "createdAt": "2026-07-03T03:00:00.000Z"
+  },
+  {
+    "id": "3268be406e44daa111818a21e2ceb342",
+    "source": "dnews",
+    "title": "[도시정비시장 풍향계] 대우ㆍIPARK현산ㆍ동원개발, 부산 수안1구역 재개발 현설 참석",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021520035940760",
+    "publishedAt": "2026-07-03T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]부산 동래구 수안1구역 재개발 시공사 현장설명회(현설)에 3개 건설사가 참석해 이달 말 입찰을 마감한다.2일 도시정비업계에 따르면 수안1구역 재개발 정비사업 조합은 이날 조합 사무실에서 시공사 선정을 위한 1차 현설을 개최했다. 그 결과 대우건설 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-07-03T03:00:00.000Z"
+  },
+  {
+    "id": "c9636ed1e275657c8f8f44eec8a9ac3d",
+    "source": "dnews",
+    "title": "CJ대한통운 건설부문, 관수동구역 제3지구 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021729019510783",
+    "publishedAt": "2026-07-03T03:00:00.000Z",
+    "content": "옛 서울극장 재개발…지하 8층~지상 26층 업무시설로 탈바꿈[대한경제=이종무 기자]CJ대한통운 건설부문은 서울 종로구 관수동구역 제3지구 재개발 사업을 수주했다고 1일 밝혔다.이 사업은 지하 8층~지상 26층 규모 업무시설을 조성하는 것이다. 기존 건축물은 이미 철거돼 ...",
+    "summary": null,
+    "filter": "soc",
     "createdAt": "2026-07-03T03:00:00.000Z"
   },
   {
@@ -141,6 +173,16 @@
     "summary": null,
     "filter": "건설업",
     "createdAt": "2026-07-03T03:00:00.000Z"
+  },
+  {
+    "id": "ad61637801549ac751740c02f377bdc6",
+    "source": "engdaily",
+    "title": "국가철도공단, 12기 설계심의분과위원 본격 활동 시작",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22816",
+    "publishedAt": "2026-07-03T01:54:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-07-03T01:54:00.000Z"
   },
   {
     "id": "52f664342e58f632b754b586fe7bc632",
