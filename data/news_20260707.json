@@ -1,5 +1,47 @@
 [
   {
+    "id": "cf9a7bb3bf1c04104caf1dddc5486103",
+    "source": "engdaily",
+    "title": "\"5분의 1 가격\"…국산 BIM 플랫폼, SW 시장 정조준",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22831",
+    "publishedAt": "2026-07-07T05:54:00.000Z",
+    "summary": null,
+    "filter": "BIM",
+    "createdAt": "2026-07-07T05:54:00.000Z"
+  },
+  {
+    "id": "4ff37c85749be02a0dc62caaf6371c9c",
+    "source": "engdaily",
+    "title": "도화엔지니어링, 우크라이나 국영 해운기업 UDP와 MOU 체결",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22830",
+    "publishedAt": "2026-07-07T05:14:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-07-07T05:14:00.000Z"
+  },
+  {
+    "id": "bc7d7cc285e2049f5905acdbe85bde68",
+    "source": "dnews",
+    "title": "IPARK현산, 탄소중립 실천 텀블러 나눔 캠페인",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071340285390251",
+    "publishedAt": "2026-07-07T04:49:00.000Z",
+    "content": "[대한경제=이종무 기자]IPARK현대산업개발은 최근 서울 성동구 서울숲 국제정원박람회 아이파크 정원에서 탄소 절감 텀블러 캠페인을 진행했다고 7일 밝혔다.일회용품 사용을 줄이고 탄소 중립 실천 문화를 확산하기 위한 취지로, IPARK현산은 국제정원박람회 아이파크 정원을 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-07-07T04:49:00.000Z"
+  },
+  {
+    "id": "04b49f4ce2fff2c8f97679142cb68d02",
+    "source": "dnews",
+    "title": "이달 100억 이상 공사 103건 발주…‘종로구청ㆍ소방합동청사’ 향방 주목",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607031032240130829",
+    "publishedAt": "2026-07-07T03:00:00.000Z",
+    "content": "실시설계 기술제안 ‘종로구청ㆍ소방합동청사’종로구 최근 계약요청…DL이앤씨 등 물망‘송파하남선 1공구’, 두산ㆍ한신ㆍ강산 등 검토경기도 소관 2~4공구, 하반기 잇단 설계심의[대한경제=백경민 기자]조달청이 이달 총 2조원을 웃도는 대형공사 발주를 예고한 가운데, ‘종로구 ...",
+    "summary": null,
+    "filter": "실시설계",
+    "createdAt": "2026-07-07T03:00:00.000Z"
+  },
+  {
     "id": "2deedc4da74b8468357abade539e2fc4",
     "source": "dnews",
     "title": "개포 ‘경우현’ 통합재건축 설계수주전…‘희림 vs DA’ 2파전",
@@ -99,25 +141,25 @@
     "createdAt": "2026-07-07T03:00:00.000Z"
   },
   {
-    "id": "04b49f4ce2fff2c8f97679142cb68d02",
-    "source": "dnews",
-    "title": "이달 100억 이상 공사 103건 발주…‘종로구청ㆍ소방합동청사’ 향방 주목",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607031032240130829",
-    "publishedAt": "2026-07-07T02:00:00.000Z",
-    "content": "실시설계 기술제안 ‘종로구청ㆍ소방합동청사’종로구 최근 계약요청…DL이앤씨 등 물망‘송파하남선 1공구’, 두산ㆍ한신ㆍ강산 등 검토경기도 소관 2~4공구, 하반기 잇단 설계심의[대한경제=백경민 기자]조달청이 이달 총 2조원을 웃도는 대형공사 발주를 예고한 가운데, ‘종로구 ...",
-    "summary": null,
-    "filter": "실시설계",
-    "createdAt": "2026-07-07T02:00:00.000Z"
-  },
-  {
     "id": "10391f8a3e2705734457cb98561f58dd",
     "source": "dnews",
     "title": "[부고] 이관상(금호건설 경영관리본부 전무)씨 부친상",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071054350990209",
-    "publishedAt": "2026-07-07T01:54:00.000Z",
+    "publishedAt": "2026-07-07T03:00:00.000Z",
     "content": "▲이동춘씨 (향년 88세)별세, 이관상(금호건설 경영관리본부 전무)ㆍ이혜경씨 부친상, 최인영씨 시부상, 김희준ㆍ김희영ㆍ김희주ㆍ이예준씨 조부상 = 7일, 서울 동작구 중앙대학교병원 장례식장 1호실, 발인 9일 오전 8시, 장지 서울추모공원. (02)860-3500〈ⓒ 대 ...",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-07-07T01:54:00.000Z"
+    "createdAt": "2026-07-07T03:00:00.000Z"
+  },
+  {
+    "id": "ca735ebbb2461cf1002531a4f89a294d",
+    "source": "dnews",
+    "title": "서울시, 장마 앞두고 상수도 시설물 422개소 정밀 점검",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071053439050207",
+    "publishedAt": "2026-07-07T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "상수도",
+    "createdAt": "2026-07-07T03:00:00.000Z"
   }
 ]
