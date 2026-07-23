@@ -1,5 +1,38 @@
 [
   {
+    "id": "b83490c5b3639391a55fd5f1d4c419ca",
+    "source": "dnews",
+    "title": "설계비 32억 ‘인천공항 업무지원센터’ 누구 품에",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607221430378410108",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "대한경제=홍샛별 기자]설계비 32억원의 ‘인천공항 업무지원센터 신축사업 설계공모’가 누구 품에 안길 지 귀추가 주목된다.22일 관련 업계에 따르면 총 5개 안팎의 컨소시엄이 이 공모에 작품을 제출한 것으로 알려졌다. 이 사업은 인천공항 4단계 건설사업 완료 뒤 이용객 ...",
+    "summary": null,
+    "filter": "설계공모",
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
+    "id": "4efa09ed0509ddaef7c70ef136aa4318",
+    "source": "dnews",
+    "title": "현대vs대우 ‘용인 반도체 1공구’ 맞대결 유력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607221352232770092",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "추정사업비 1조860억원 규모…올해 公共공사 최대어실적 기준 대폭 완화에도 수행평가 부담에 진입 장벽 높아현대건설 ‘컨소시엄 재편’ㆍ대우건설 ‘검증된 업체 위주’[대한경제=김희용 기자] 올해 공공 공사 최대어로 꼽히는 ‘용인 첨단시스템반도체 클러스터 국가산업단지 조성공 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
+    "id": "6a27c8b4d526b24d141bd040180c2b10",
+    "source": "dnews",
+    "title": "건설업계 “플랜트ㆍ에너지 설비공사서 안전관리자 선임기준 개선해야”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607211344303140886",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "산안법 시행령상 총 공사금액 기준 50억 이상 1명, 800억 이상 2명 둬야기자재 완제품 비중 높고 공사비 적어…건축ㆍ토목 기준 안전관리자 불필요[대한경제=정석한 기자]# A 건설사는 ‘00설비 설계/제작/설치/시운전공사’의 입찰공고문을 보고 안전관리자의 수에 혼동이 ...",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
     "id": "3d78aa8a1c1051fe9c77f90f2086d039",
     "source": "dnews",
     "title": "물류센터 화재 안전 어떻게?…제도개선 TF 띄운 국토부",
@@ -66,6 +99,28 @@
     "createdAt": "2026-07-23T03:00:00.000Z"
   },
   {
+    "id": "7321ccbc7b1cfb28d665c07a04bf4916",
+    "source": "dnews",
+    "title": "전액 국비 지원 AI 무역 실무 교육… 정부조달수출진흥협회, 7월 22일 개강",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607230951002100195",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "[대한경제=김태형 기자]수출 기업 재직자를 위한 전액 무료 AI 역량 강화 교육이 개강한다. (사)정부조달수출진흥협회(KEP협회, 대표 박대전)는 과학기술정보통신부·정보통신산업진흥원(NIPA) 주관 ‘2026 산업전문인력 AI역량강화 지원사업’의 일환으로 중앙대학교, ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
+    "id": "3cd0a4b199e5ef16d25631ba43789c97",
+    "source": "dnews",
+    "title": "“도민과 함께 고객만족경영 강화”… 충북개발공사, 도민소통위원회 고객만족분과회의 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607211545193120933",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "[대한경제=황은우 기자]충북개발공사는 21일 충북 청주시 공사 중회의실에서 도민소통위원회 고객만족분과 회의를 개최한 가운데 ‘2026~2028 충북개발공사 고객만족경영 추진계획’에 대한 도민 의견을 수렴하는 시간을 가졌다고 이날 밝혔다. 이날 회의에는 각계각층의 일반 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
     "id": "ec305a773fda8b323c0f0b26be49a2e6",
     "source": "dnews",
     "title": "[인터뷰]38년 교량 엔지니어 이원철 동성엔 부사장, ‘교량 인문학’ 출간",
@@ -77,25 +132,57 @@
     "createdAt": "2026-07-23T03:00:00.000Z"
   },
   {
-    "id": "6a27c8b4d526b24d141bd040180c2b10",
+    "id": "465551abcbb8d3da895f50bca9f6d168",
     "source": "dnews",
-    "title": "건설업계 “플랜트ㆍ에너지 설비공사서 안전관리자 선임기준 개선해야”",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607211344303140886",
-    "publishedAt": "2026-07-22T21:00:00.000Z",
-    "content": "산안법 시행령상 총 공사금액 기준 50억 이상 1명, 800억 이상 2명 둬야기자재 완제품 비중 높고 공사비 적어…건축ㆍ토목 기준 안전관리자 불필요[대한경제=정석한 기자]# A 건설사는 ‘00설비 설계/제작/설치/시운전공사’의 입찰공고문을 보고 안전관리자의 수에 혼동이 ...",
-    "summary": null,
-    "filter": "토목",
-    "createdAt": "2026-07-22T21:00:00.000Z"
-  },
-  {
-    "id": "3cd0a4b199e5ef16d25631ba43789c97",
-    "source": "dnews",
-    "title": "“도민과 함께 고객만족경영 강화”… 충북개발공사, 도민소통위원회 고객만족분과회의 개최",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607211545193120933",
-    "publishedAt": "2026-07-22T20:00:00.000Z",
-    "content": "[대한경제=황은우 기자]충북개발공사는 21일 충북 청주시 공사 중회의실에서 도민소통위원회 고객만족분과 회의를 개최한 가운데 ‘2026~2028 충북개발공사 고객만족경영 추진계획’에 대한 도민 의견을 수렴하는 시간을 가졌다고 이날 밝혔다. 이날 회의에는 각계각층의 일반 ...",
+    "title": "한강, 24시간 체류형 공간으로 바뀐다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231016133180214",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-07-22T20:00:00.000Z"
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
+    "id": "1ecaa3ee144c681e6aba3c397241ced5",
+    "source": "dnews",
+    "title": "[포토] 북적이는 대입정보박람회",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231355011980281",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
+    "id": "29967fe42ebea2de55fbcc1965380e0b",
+    "source": "dnews",
+    "title": "[포토] 수시대입정보박람회도 '오픈런'",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231113565640235",
+    "publishedAt": "2026-07-23T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-07-23T03:00:00.000Z"
+  },
+  {
+    "id": "aec1e6992ab4ac1bbce6639e89e1f000",
+    "source": "dnews",
+    "title": "[부고] 성석제(제일약품 대표이사)씨 빙모상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231145279960241",
+    "publishedAt": "2026-07-23T02:45:00.000Z",
+    "content": "▲윤병임(향년 91세)씨 별세, 성석제(제일약품 대표이사)씨 빙모상=23일, 충북대학교병원장례식장 특1빈소, 발인 25일 오전 6시30분, 장지 가덕 한계리 선영. (043-269-6969)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-07-23T02:45:00.000Z"
+  },
+  {
+    "id": "369e02e2d7448b904c6fadc0b4c71e71",
+    "source": "engdaily",
+    "title": "도시철도7호선, 연장사업 정상화 민·관·정 협의체 출범",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=22926",
+    "publishedAt": "2026-07-23T00:37:00.000Z",
+    "summary": null,
+    "filter": "도시철도",
+    "createdAt": "2026-07-23T00:37:00.000Z"
   }
 ]
