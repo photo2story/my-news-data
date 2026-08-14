@@ -1,5 +1,48 @@
 [
   {
+    "id": "c36b6e335a60e6ce8aca5ad2871b0eef",
+    "source": "engdaily",
+    "title": "도공 안전진단, 상위사 몰아주고 엔지니어링사 퇴출 “구조물 붕괴 우려”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23103",
+    "publishedAt": "2026-08-14T04:09:00.000Z",
+    "summary": null,
+    "filter": "안전진단",
+    "createdAt": "2026-08-14T04:09:00.000Z"
+  },
+  {
+    "id": "8a603de9c23cd6036860e5d1916f269b",
+    "source": "dnews",
+    "title": "오프사이트·모듈러산업協-목조건축協, 공동 협력 MOU 체결",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141303434730103",
+    "publishedAt": "2026-08-14T04:06:00.000Z",
+    "content": "[대한경제=김민수 기자]오프사이트ㆍ모듈러산업협회(OMIA)는 한국목조건축협회(KWCA)와 지난 10일 서울 강남구 코엑스에서 업무협약(MOU)을 체결하고, 목조건축과 OSC(탈현장 건설)ㆍ모듈러 건설산업의 기술혁신과 품질향상, 제도개선 및 시장확산을 위해 협력하기로 했 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-14T04:06:00.000Z"
+  },
+  {
+    "id": "2db2d8b2f2e08ff9eda29dcbd20229b3",
+    "source": "dnews",
+    "title": "[뉴테크 포커스] 유명무실한 지자체 신기술ㆍ특허공법 선정절차 기준",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608140803456480046",
+    "publishedAt": "2026-08-14T03:00:00.000Z",
+    "content": "경기도, 올해 4월까지 3건 공고ㆍ결과 공개는 1건 그쳐 경북도 모집공고만 공개하고 결과는 비공개로[대한경제=권혁용 기자]‘신기술·특허공법 선정, 전 과정 공개해 일감 몰아주기 없앤다.’행정안전부가 지난 2020년 12월 ‘지방자치단체 입찰 및 계약집행기준’을 개정하 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-08-14T03:00:00.000Z"
+  },
+  {
+    "id": "c4aabbc0c0e0cbeeb683b88c5b6e8d0e",
+    "source": "dnews",
+    "title": "수수료 떼도 인력소로?…일용직 ‘당일임금’ 지급장치 보완 목소리",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608111118391260567",
+    "publishedAt": "2026-08-14T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]건설현장의 고질적인 임금체불을 뿌리뽑기 위해 ‘차세대 전자대금지급시스템’ 도입이 추진되면서, 체불 방지와 일용근로자의 당일 임금(일당) 지급을 어떻게 조화할 지 주목된다. 전자적 임금 관리가 촘촘해질수록 하루 단위로 일하고 신속하게 임금을 받아야 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-14T03:00:00.000Z"
+  },
+  {
     "id": "c0b225c574f2e14d1ac2df2b7092c5b1",
     "source": "dnews",
     "title": "조달청, 제7기 설계검토 자문위원 모집",
@@ -42,16 +85,5 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-08-14T03:00:00.000Z"
-  },
-  {
-    "id": "c4aabbc0c0e0cbeeb683b88c5b6e8d0e",
-    "source": "dnews",
-    "title": "수수료 떼도 인력소로?…일용직 ‘당일임금’ 지급장치 보완 목소리",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608111118391260567",
-    "publishedAt": "2026-08-13T21:00:00.000Z",
-    "content": "[대한경제=김수정 기자]건설현장의 고질적인 임금체불을 뿌리뽑기 위해 ‘차세대 전자대금지급시스템’ 도입이 추진되면서, 체불 방지와 일용근로자의 당일 임금(일당) 지급을 어떻게 조화할 지 주목된다. 전자적 임금 관리가 촘촘해질수록 하루 단위로 일하고 신속하게 임금을 받아야 ...",
-    "summary": null,
-    "filter": "soc",
-    "createdAt": "2026-08-13T21:00:00.000Z"
   }
 ]
