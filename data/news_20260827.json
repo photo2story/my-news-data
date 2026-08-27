@@ -1,5 +1,71 @@
 [
   {
+    "id": "5e0cbc2ce78b4cd1554e670f67e91966",
+    "source": "dnews",
+    "title": "기후부, 신규댐 7곳 최종 확정… 5곳 건설·2곳 대안 추진",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271336419910580",
+    "publishedAt": "2026-08-27T04:38:00.000Z",
+    "content": "지천·아미천댐, 다목적댐으로 전환사업비 4조7500억→1조6700억 축소[대한경제=신보훈 기자] 정부가 전임 정부에서 추진했던 신규댐 건설 계획을 정리해 최종 검토 대상이었던 7개 댐 중 5곳은 짓고, 2곳은 기존 인프라를 활용하는 대안 사업으로 전환하기로 했다. 이로 ...",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-08-27T04:38:00.000Z"
+  },
+  {
+    "id": "42b6d3b54c8543bbd760ecc7972f868e",
+    "source": "dnews",
+    "title": "태림모피, 신사옥 이전 준비... 50년 자리한 가산동 사옥 통임대 추진",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271309484220574",
+    "publishedAt": "2026-08-27T04:10:00.000Z",
+    "content": "국내 모피산업의 성장기를 함께해 온 태림모피가 신사옥 이전을 준비한다. 이에 따라 주식회사 한영디앤디(대표 김현우)가 서울 금천구 가산동에 위치한 기존 사옥과 공장 부지는 통임대를 추진한다고 밝혔다.태림모피는 1965년 문을 연 ‘이종범 모피연구소’를 모태로 성장한 국 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-27T04:10:00.000Z"
+  },
+  {
+    "id": "27fd2439ab2bb10d46a0fdcec395b021",
+    "source": "dnews",
+    "title": "감리비에 발목 잡힌 ‘우주환경시험시설 구축사업’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251345278810244",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "입찰방법 심의 끝낸 지 1년 넘어우주항공청, 총사업비 협의 지체오는 2028년 준공 목표‘비상등’[대한경제=백경민 기자]국내 우주산업 클러스터 조성사업의 일환인 ‘우주환경시험시설 구축사업’이 감리비 증액 문제로 총사업비를 확정하지 못해 발걸음을 내딛지 못하고 있다. 이 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "id": "ce938d81d48615bfa825f75e9769478f",
+    "source": "dnews",
+    "title": "지방계약 기술용역 낙찰률 상향 ‘줄다리기’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261423520430405",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "하한율 상향 필요성에는 공감대행안부“6439억 추가 지출 필요”업계“적용 대상 보면 2000억대”품질ㆍ근로자 처우 연계도 이견[대한경제=전동훈 기자]지방계약 기술용역의 낙찰하한율 2%포인트(p) 상향을 놓고 행정안전부와 건설엔지니어링업계가 평행선을 달리고 있다. 업계의 ...",
+    "summary": null,
+    "filter": "건설엔지니어링",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "id": "1ca59ad206e0a24c440bced51ba12252",
+    "source": "dnews",
+    "title": "‘노들섬 하늘예술정원’ 실적 문턱 낮춘다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261425349040407",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "서울시, ‘장경간 49mㆍ캔틸레버 14m 이상’ 실적제한조달청 협의 요청에 따라 관련 기준 완화 검토PQ 평가기준 구체화 작업도…“이른 시일 내 보완”[대한경제=백경민 기자]서울시가 종합평가낙찰제인 ‘노들섬 하늘예술정원 조성공사’에 대한 실적 문턱을 낮출 전망이다. 앞 ...",
+    "summary": null,
+    "filter": "PQ",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "id": "08a82ab79c946d23ab68ae03e566ee2e",
+    "source": "dnews",
+    "title": "보광종합건설, 오수 풍수해 생활권 종합정비사업 수주 유력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261635148660455",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "보광종합건설(대표 신만호)이‘오수 풍수해 생활권 종합정비사업’ 수주에 다가섰다.26일 조달청에 따르면 전북특별자치도 임실군 수요의 이 공사를 개찰한 결과,보광종합건설이 예정가격 대비 87.864%인 195억9695만원을 적어내며적격심사 1순위에 위치했다.충청북도 청주시 ...",
+    "summary": null,
+    "filter": "조달청",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
     "id": "e0466dea5cd89a69cb57019b11a9149a",
     "source": "dnews",
     "title": "KIND, 대한변리사회와 ‘우리 기업의 해외 인프라사업 경쟁력 제고 위한 MOU’ 체결",
@@ -55,6 +121,39 @@
     "createdAt": "2026-08-27T03:00:00.000Z"
   },
   {
+    "id": "b31f7355dbd8ec17452751066752326d",
+    "source": "dnews",
+    "title": "강동 명일동 상업지역 높이ㆍ용적률 상향 …‘新 생활중심지’ 육성",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608270943203830520",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]고덕택지개발지구 중심지 명일동 사업지역이 강동 동부권 핵심 상업거점으로 육성된다.서울시는 26일 개최한 제14차 도시ㆍ건축공동위원회에서 ‘고덕택지(명일동 상업용지) 지구단위계획구역 결정(변경)(안)’을 수정가결했다고 27일 밝혔다. 이번 결정으로 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "id": "b33784b9d92fc5730616dfd5f8c7eea3",
+    "source": "dnews",
+    "title": "맹그로브, 왕십리에 588실 관광숙박시설 조성",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608270927097290514",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시는 26일 제14차 도시ㆍ건축공동위원회에서 ‘왕십리 광역 중심 지구단위계획 결정(변경) 및 제일은행 특별계획구역 세부개발계획 결정(안), 기반시설 등 충분여부 검토 심의(안)’을 수정가결했다고 27일 밝혔다.사업 대상지는 지하철 2ㆍ5호선과 ...",
+    "summary": null,
+    "filter": "지하철",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "id": "c9c3d4ba13147e4304ede21897077158",
+    "source": "dnews",
+    "title": "김종호 공인중개사협회장 “자율규제 실효성 높이려면 지도ㆍ징계 권한 필요”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261614187520450",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "현장 거래질서 개선 위해불법 중개 감시센터 운영중개보수도 정률제로 전환임장 기본보수제도 추진도[대한경제=황은우 기자]김종호 한국공인중개사협회 회장이 회원 지도권한과 자율징계권 확보를 협회의 법정단체 전환 이후 추진할 핵심 후속 과제로 제시했다.26일 김종호 회장은 서울 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
     "id": "208f87eceea6116bafb32e7f9776aa00",
     "source": "dnews",
     "title": "[초대석 인터뷰] ①“선배 세대가 누린 건축계 수혜…청년에게 돌려줄 때”",
@@ -77,6 +176,58 @@
     "createdAt": "2026-08-27T03:00:00.000Z"
   },
   {
+    "id": "703569613089a4a71010fbd2eadc7b8d",
+    "source": "dnews",
+    "title": "잠실관광특구 넓어진다…송리단길·방이시장·방이맛골 편..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271032145380533",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "id": "20692dc84b38c3acdead2a37a9995b1f",
+    "source": "dnews",
+    "title": "양천구, 정원봉사단 모집…2029년까지 정원 1004개 조성",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271115264420554",
+    "publishedAt": "2026-08-27T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "id": "9690b65a9b57b063ef240c064c7139a2",
+    "source": "engdaily",
+    "title": "기획예산처, 8조8,000억원대 54개 도로사업 예타통과 확정",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23196",
+    "publishedAt": "2026-08-27T02:28:00.000Z",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-08-27T02:28:00.000Z"
+  },
+  {
+    "id": "e46cc84b04b534d87dc4fb88a394fa6b",
+    "source": "engdaily",
+    "title": "코레일, AI·데이터 경영자문위원회 개최",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23199",
+    "publishedAt": "2026-08-27T02:15:00.000Z",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-08-27T02:15:00.000Z"
+  },
+  {
+    "id": "79a696755f7bb7f0dba4e260605e400e",
+    "source": "engdaily",
+    "title": "진주 정촌~사촌 축동 도로, 예타 통과",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23195",
+    "publishedAt": "2026-08-27T01:37:00.000Z",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-08-27T01:37:00.000Z"
+  },
+  {
     "id": "b78df97770c68518afc46ca49bd8a3a9",
     "source": "dnews",
     "title": "정원주 회장, “베트남 원전ㆍ에너지인프라 확충에 기여할 것”",
@@ -86,16 +237,5 @@
     "summary": null,
     "filter": "인프라",
     "createdAt": "2026-08-27T00:33:00.000Z"
-  },
-  {
-    "id": "c9c3d4ba13147e4304ede21897077158",
-    "source": "dnews",
-    "title": "김종호 공인중개사협회장 “자율규제 실효성 높이려면 지도ㆍ징계 권한 필요”",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261614187520450",
-    "publishedAt": "2026-08-27T00:00:00.000Z",
-    "content": "현장 거래질서 개선 위해불법 중개 감시센터 운영중개보수도 정률제로 전환임장 기본보수제도 추진도[대한경제=황은우 기자]김종호 한국공인중개사협회 회장이 회원 지도권한과 자율징계권 확보를 협회의 법정단체 전환 이후 추진할 핵심 후속 과제로 제시했다.26일 김종호 회장은 서울 ...",
-    "summary": null,
-    "filter": "soc",
-    "createdAt": "2026-08-27T00:00:00.000Z"
   }
 ]
