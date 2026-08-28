@@ -1,5 +1,37 @@
 [
   {
+    "id": "1d4e8b950f12f53b579a2730951340ec",
+    "source": "engdaily",
+    "title": "엔지니어링협회, 발주자 대상 엔지니어링 실무교육 개최",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23220",
+    "publishedAt": "2026-08-28T04:05:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-08-28T04:05:00.000Z"
+  },
+  {
+    "id": "2e1f123bc4da30250065a6f9a0600622",
+    "source": "dnews",
+    "title": "국토안전관리원-한국비계기술원, 건설현장 가설구조물 맞춤형 기술 지원",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608280948262980684",
+    "publishedAt": "2026-08-28T03:00:00.000Z",
+    "content": "[대한경제=김민수 기자]국토안전관리원은 안전관리 수준평가 대상인 건설현장의 자율적인 안전관리 역량 강화를 위해 (재)한국비계기술원과 가설구조물 분야 맞춤형 기술지원을 실시했다고 28일 밝혔다.이번 기술지원은 건설현장에서 사고 위험이 큰 비계와 동바리 등 가설구조물의 안 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-28T03:00:00.000Z"
+  },
+  {
+    "id": "74785815cda64323694650fe58f96887",
+    "source": "dnews",
+    "title": "차세대 ‘손성연’을 꿈꾼다…여성 건설기술인 지속 증가",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271631145440650",
+    "publishedAt": "2026-08-28T03:00:00.000Z",
+    "content": "건설기술인협회 통계, 올 7월 기준 17만704명…전체의 15.5％작년 15％ 넘긴 후 점진적 증가…건축 직무가 9만3325명최다출산 등으로 경력 중단, 오지 현장 배치 후 이직 등 걸림돌[대한경제=정석한 기자]차세대 ‘손성연’을 꿈꾸는 여성 건설기술인이 늘고 있다. ...",
+    "summary": null,
+    "filter": "건설기술인협회",
+    "createdAt": "2026-08-28T03:00:00.000Z"
+  },
+  {
     "id": "bf91c1ba5b66b4c20f8ba3c88bd37b02",
     "source": "dnews",
     "title": "여성 유투버 ‘도배 브이로그’ 호응…인스타그램 활용 ‘일감’ 찾기도",
@@ -77,14 +109,24 @@
     "createdAt": "2026-08-28T03:00:00.000Z"
   },
   {
-    "id": "74785815cda64323694650fe58f96887",
+    "id": "1128ca44a0a11d44360bde5d01b6b316",
     "source": "dnews",
-    "title": "차세대 ‘손성연’을 꿈꾼다…여성 건설기술인 지속 증가",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271631145440650",
-    "publishedAt": "2026-08-27T21:00:00.000Z",
-    "content": "건설기술인협회 통계, 올 7월 기준 17만704명…전체의 15.5％작년 15％ 넘긴 후 점진적 증가…건축 직무가 9만3325명최다출산 등으로 경력 중단, 오지 현장 배치 후 이직 등 걸림돌[대한경제=정석한 기자]차세대 ‘손성연’을 꿈꾸는 여성 건설기술인이 늘고 있다. ...",
+    "title": "케이엔글로벌, 中 CCCCTH와 업무협약…“수직굴착장비 국내 도입”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608281039323670694",
+    "publishedAt": "2026-08-28T02:23:00.000Z",
+    "content": "[대한경제=김민수 기자]국내 TBM(터널굴착장비) 전문 기업 ㈜케이엔글로벌은 중국의 TBM 제조ㆍ시공 업체인 CCCCTH(중국교통건설천화기계설비제조유한공사)와 전략적 업무협약(MOU)을 체결했다고 28일 밝혔다. 지난 27일 진행된 이번 협약은 TBM과 VSM(수직굴착 ...",
     "summary": null,
-    "filter": "건설기술인협회",
-    "createdAt": "2026-08-27T21:00:00.000Z"
+    "filter": "굴착",
+    "createdAt": "2026-08-28T02:23:00.000Z"
+  },
+  {
+    "id": "29e79aee2fb063efef98c85635f8ffdf",
+    "source": "engdaily",
+    "title": "\"위례선 트램 속도\" 대광위, 갈등조정안 의결",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23218",
+    "publishedAt": "2026-08-28T01:58:00.000Z",
+    "summary": null,
+    "filter": "트램",
+    "createdAt": "2026-08-28T01:58:00.000Z"
   }
 ]
