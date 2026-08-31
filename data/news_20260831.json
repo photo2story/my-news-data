@@ -1,5 +1,66 @@
 [
   {
+    "id": "8e2999919c8aac93684d320fd708abc1",
+    "source": "dnews",
+    "title": "건설기술인협회, AI 음성상담 시스템 ‘보이스봇’ 도입…31일부터 시범운영",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311436352120997",
+    "publishedAt": "2026-08-31T05:37:00.000Z",
+    "content": "[대한경제=정석한 기자]한국건설기술인협회(회장 박종면, 이하 협회)는 AI 음성상담 시스템 ‘보이스봇’을 도입해 8월 31일부터 시범운영을 시작한다고 밝혔다. 상담원이 모두 통화 중일 때 걸려온 전화를 보이스봇이 안내하는 방식으로, 상담 집중 시간대에 응대 공백을 최소 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-08-31T05:37:00.000Z"
+  },
+  {
+    "id": "958459eac33c088f1c0d8f2a4f5e733d",
+    "source": "engdaily",
+    "title": "보은군·김천시, 청주공항∼김천 내륙철도 유치 촉구",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23240",
+    "publishedAt": "2026-08-31T05:34:00.000Z",
+    "summary": null,
+    "filter": "공항",
+    "createdAt": "2026-08-31T05:34:00.000Z"
+  },
+  {
+    "id": "13e46ab2dcc159178fb27b28952fde36",
+    "source": "engdaily",
+    "title": "해외건설협회, K-City 참여기업 협력방안 논의",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23239",
+    "publishedAt": "2026-08-31T05:29:00.000Z",
+    "summary": null,
+    "filter": "해외건설",
+    "createdAt": "2026-08-31T05:29:00.000Z"
+  },
+  {
+    "id": "d72d05a88df42dfdbd4d1eb80ef56e73",
+    "source": "engdaily",
+    "title": "국토부, 제4차 환승센터 및 복합환승센터 구축 기본계획 수립",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23236",
+    "publishedAt": "2026-08-31T05:07:00.000Z",
+    "summary": null,
+    "filter": "기본계획",
+    "createdAt": "2026-08-31T05:07:00.000Z"
+  },
+  {
+    "id": "6f2990314f3e7f64d8971c768be45ecc",
+    "source": "engdaily",
+    "title": "\"산업 ODA, 관리 14년 만에 KOTRA로 이관\"",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23233",
+    "publishedAt": "2026-08-31T04:41:00.000Z",
+    "summary": null,
+    "filter": "ODA",
+    "createdAt": "2026-08-31T04:41:00.000Z"
+  },
+  {
+    "id": "f392c82a6bff9554e9c7a0ea8cf4426c",
+    "source": "engdaily",
+    "title": "LH, 호남반도체산단 교통영향평가까지 발주",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23232",
+    "publishedAt": "2026-08-31T04:40:00.000Z",
+    "summary": null,
+    "filter": "영향평가",
+    "createdAt": "2026-08-31T04:40:00.000Z"
+  },
+  {
     "id": "e0d69876aabb41e40f16823c308acb82",
     "source": "dnews",
     "title": "SM삼환기업, ‘경부선 사상~부산진 등 방음벽 개량공사’ 수주 눈앞",
@@ -88,6 +149,28 @@
     "createdAt": "2026-08-31T03:00:00.000Z"
   },
   {
+    "id": "c4dc4ff55761dd8dbb8a7688cc203239",
+    "source": "dnews",
+    "title": "“법 통과 1년 넘도록 지침 부재\"… 서울시 민간도심복합개발, 개점휴업 장기화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311049561330929",
+    "publishedAt": "2026-08-31T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]민간도심복합개발 사업자들이 서울시에 ‘주거중심형 운영기준’ 수립을 촉구했다. 상위법 시행 이후 1년 넘게 실무 가이드라인이 마련되지 않아 일선 자치구와 현장은 동의서 징구 등 기초적인 작업조차 착수하지 못하는 행정 공백이 이어지고 있다는 지적이 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-31T03:00:00.000Z"
+  },
+  {
+    "id": "604394d2c3eac57d97eea6f72f4fc3d5",
+    "source": "dnews",
+    "title": "호반건설, K-디자인 어워드ㆍ굿디자인 코리아 수상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311120139120940",
+    "publishedAt": "2026-08-31T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]호반건설은 유수의 디자인 공모전 두 곳에서 상을 받았다고 31일 밝혔다.‘K-디자인 어워드 2026’에서 조경 특화시설 3개 작품이 모두 ‘위너’를 수상하고, ‘2026 굿디자인 코리아’에서는 공간ㆍ환경 디자인 분야 ‘우수 디자인’에 선정됐다. ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-31T03:00:00.000Z"
+  },
+  {
     "id": "662de0ab599f43c7189f90d620e8e8e7",
     "source": "dnews",
     "title": "대우건설, 커뮤니티 서비스 혁신 나선다",
@@ -116,6 +199,17 @@
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608290114412240792",
     "publishedAt": "2026-08-31T03:00:00.000Z",
     "content": "[대한경제=임성엽 기자]정부와 여당이 500세대 미만 소규모 정비구역 지정 권한의 자치구 이양을 추진하는 가운데, 불과 몇 달 전 당내 핵심 인사들이 ‘난개발과 재정 한계’를 이유로 이를 반대했던 것으로 나타나 정책의 일관성에 의문부호가 붙는다. 500세대 미만 개발 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-08-31T03:00:00.000Z"
+  },
+  {
+    "id": "d6a49b0ad9560af9cd4961802be0f666",
+    "source": "dnews",
+    "title": "[포토] 서울시, 중국산 배추 안전성 검사",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311333136170970",
+    "publishedAt": "2026-08-31T03:00:00.000Z",
+    "content": "",
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-08-31T03:00:00.000Z"
