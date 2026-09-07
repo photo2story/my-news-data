@@ -1,5 +1,60 @@
 [
   {
+    "id": "7cd4eb1ce67abc25bfcf8a6d6174549d",
+    "source": "dnews",
+    "title": "남부내륙철도 사후환경영향조사 수주전 점화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609041601525560733",
+    "publishedAt": "2026-09-07T05:07:00.000Z",
+    "content": "도화ㆍ유신ㆍ건화 등10개 컨소시엄 출사표 이달 18일 개찰 앞둬[대한경제=전동훈 기자]남부내륙철도 건설사업의 환경 영향을 8년 넘게 추적ㆍ관리하는 용역 수주전이 본격화했다.7일 국가철도공단이 ‘남부내륙철도 건설사업 사후환경영향조사용역’의 사업수행능력평가(PQ) 서류 접 ...",
+    "summary": null,
+    "filter": "PQ",
+    "createdAt": "2026-09-07T05:07:00.000Z"
+  },
+  {
+    "id": "3a83d1b0c2bc2746e98ae698712c5ed9",
+    "source": "dnews",
+    "title": "오는 9일 국회서 2차 국회철도안전포럼 열려",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071242369560925",
+    "publishedAt": "2026-09-07T03:46:00.000Z",
+    "content": "국회철도안전포럼(공동대표 국회의원 엄태영ㆍ손명수)은 오는 9일 오후 2시 국회의원회관 제2세미나실에서 ‘제2차 국회 철도안전 포럼’을 개최한다.이날 포럼은 ‘K-철도안전 최적화 방안’을 대주제로 이창근 한국교통안전공단 안전실 처장이 ‘철도안전사고 사례 및 분석’을, 손 ...",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-09-07T03:46:00.000Z"
+  },
+  {
+    "id": "4f808d346af8e80a65b161a14a5324e8",
+    "source": "dnews",
+    "title": "KIND, 월드스마트시티엑스포서 K-City 글로벌 성과 확산 나선다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071159053600920",
+    "publishedAt": "2026-09-07T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]한국해외인프라도시개발지원공사(KIND, 사장 김복환)는 오는 9일부터 11일까지 부산 벡스코에서 열리는 ‘월드스마트시티엑스포’(WSCE)에 참여해 K-City 네트워크(Network) 성과 확산을 위한 △협력국 초청연수 △홍보ㆍ전시부스 운영 △성 ...",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-09-07T03:00:00.000Z"
+  },
+  {
+    "id": "7164a078f65e3cfeb67eea32bfd78be3",
+    "source": "dnews",
+    "title": "[건설톡] 진검승부 앞둔 남부내륙철도…올 기술형입찰 하이라이트",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609041243233200696",
+    "publishedAt": "2026-09-07T03:00:00.000Z",
+    "content": "진행= 채희찬 건설산업부장채= 올 기술형입찰 수주전의 백미로 꼽히는 ‘남부내륙철도(김천~거제) 건설사업 1,7,9공구 노반 건설공사’가 오는 15~17일 설계심의를 앞둬 관심이죠?백= 모두 실시설계 기술제안입찰 방식으로, 1공구(이하 추정금액 6631억원)는 계룡건설산 ...",
+    "summary": null,
+    "filter": "실시설계",
+    "createdAt": "2026-09-07T03:00:00.000Z"
+  },
+  {
+    "id": "bc93774601ad6828da638bbd480c012c",
+    "source": "dnews",
+    "title": "전력난이 만든 틈새…美 데이터센터 ‘온사이트 발전’ K건설 새 먹거리로",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609041100193110687",
+    "publishedAt": "2026-09-07T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]미국의 인공지능(AI) 데이터센터 투자 확대에 전력망 확충이 따라가지 못하면서, 가스발전ㆍ소형모듈원전(SMR)ㆍ연료전지 등 자체 전원을 함께 짓는 ‘온사이트(On-site) 전력 발전’이 국내 건설사의 새로운 해외 일감으로 떠오르고 있다.6일 건 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-09-07T03:00:00.000Z"
+  },
+  {
     "id": "84a30019b4c4cbb62a454b7761d72310",
     "source": "dnews",
     "title": "내년도 전통 SOC 103개 사업ㆍ2.8조원 ‘구조조정 칼날’",
@@ -88,6 +143,39 @@
     "createdAt": "2026-09-07T03:00:00.000Z"
   },
   {
+    "id": "8ca0765535fd80a016d6fcb718d7fd6f",
+    "source": "dnews",
+    "title": "오현주 광주시의회 도시환경위원장 \"정직하게 소통하고 함께 가는 세상 만들겠다\"",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071036585120890",
+    "publishedAt": "2026-09-07T03:00:00.000Z",
+    "content": "\"시민의 삶을 변화시키는 것이 중요\"…지역 발전 위한 정책 협력 의지 밝혀\"눈에 보이는 성과보다 시민의 삶을 얼마나 변화시킬 수 있는지가 중요\"[대한경제=박범천 기자]오현주 광주시의회 도시환경위원장(더불어민주당)은 최근 광주역세권 개발과 관련해 규제의 희생에서 성장 기 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-07T03:00:00.000Z"
+  },
+  {
+    "id": "c2345af3e2794da4c209164eeb315fcf",
+    "source": "dnews",
+    "title": "[부고] 황규원(세원건설㈜ 업무팀장)씨 모친상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609070957332310875",
+    "publishedAt": "2026-09-07T03:00:00.000Z",
+    "content": "▲윤정자씨 별세, 황규원(세원건설㈜ 업무팀장)씨 모친상=6일, 구미강동병원장례식장 2호실(경북 구미시 인동20길 46), 발인 8일. (054)473-9650〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-07T03:00:00.000Z"
+  },
+  {
+    "id": "e43ba65c85bdd35d8543cf31c25849bd",
+    "source": "dnews",
+    "title": "[결혼]윤경찬(매일건설신문 편집국장)씨 장녀 혜림양",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609070914120090856",
+    "publishedAt": "2026-09-07T03:00:00.000Z",
+    "content": "△윤경찬(매일건설신문 편집국장)씨 장녀 혜림양=9월12일 오후 3시20분, 비엔티컨벤션 6층 포레스트홀(서울 노원구 섬밭로 258)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-07T03:00:00.000Z"
+  },
+  {
     "id": "87487620f79823f31ea8057783fed5c6",
     "source": "dnews",
     "title": "알보젠, 사내 동호회가 만드는 ESG…“취미 넘어 지역사회와 함께 성장”",
@@ -99,25 +187,13 @@
     "createdAt": "2026-09-07T03:00:00.000Z"
   },
   {
-    "id": "e43ba65c85bdd35d8543cf31c25849bd",
-    "source": "dnews",
-    "title": "[결혼]윤경찬(매일건설신문 편집국장)씨 장녀 혜림양",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609070914120090856",
-    "publishedAt": "2026-09-07T00:15:00.000Z",
-    "content": "△윤경찬(매일건설신문 편집국장)씨 장녀 혜림양=9월12일 오후 3시20분, 비엔티컨벤션 6층 포레스트홀(서울 노원구 섬밭로 258)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "id": "237b8e0ae778c535f9612723cab1e0ab",
+    "source": "engdaily",
+    "title": "9월 1주 엔지니어링 주간 입낙찰 동향",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23289",
+    "publishedAt": "2026-09-07T02:03:00.000Z",
     "summary": null,
-    "filter": "soc",
-    "createdAt": "2026-09-07T00:15:00.000Z"
-  },
-  {
-    "id": "bc93774601ad6828da638bbd480c012c",
-    "source": "dnews",
-    "title": "전력난이 만든 틈새…美 데이터센터 ‘온사이트 발전’ K건설 새 먹거리로",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609041100193110687",
-    "publishedAt": "2026-09-06T21:00:00.000Z",
-    "content": "[대한경제=김수정 기자]미국의 인공지능(AI) 데이터센터 투자 확대에 전력망 확충이 따라가지 못하면서, 가스발전ㆍ소형모듈원전(SMR)ㆍ연료전지 등 자체 전원을 함께 짓는 ‘온사이트(On-site) 전력 발전’이 국내 건설사의 새로운 해외 일감으로 떠오르고 있다.6일 건 ...",
-    "summary": null,
-    "filter": "AI",
-    "createdAt": "2026-09-06T21:00:00.000Z"
+    "filter": "엔지니어링",
+    "createdAt": "2026-09-07T02:03:00.000Z"
   }
 ]
