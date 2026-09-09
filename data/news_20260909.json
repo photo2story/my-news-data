@@ -1,5 +1,27 @@
 [
   {
+    "id": "ac4bcd07fb4c2e387b100b638e9ae975",
+    "source": "dnews",
+    "title": "계룡ㆍ태영, ‘대전 서남부 종합스포츠타운 체육시설’ 21일 결판",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609081351164380127",
+    "publishedAt": "2026-09-09T03:00:00.000Z",
+    "content": "1864억 턴키…건축 기술형 강자 맞대결입찰 마감 3개월 만에 심의 일정 본격화민선 9기 재검토 대상 오른 여파로 지연[대한경제=백경민 기자]대전시가 추진하는 추정금액 1864억원의 ‘서남부 종합스포츠타운 체육시설 건립공사’에 대한 설계심의가 입찰을 마감한 지 약 3개 ...",
+    "summary": null,
+    "filter": "턴키",
+    "createdAt": "2026-09-09T03:00:00.000Z"
+  },
+  {
+    "id": "80c976504c756f1f29f332aac6a72da5",
+    "source": "dnews",
+    "title": "ENG업계, 公共입찰 규제강화 입법 ‘반발’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071645431160005",
+    "publishedAt": "2026-09-09T03:00:00.000Z",
+    "content": "국가ㆍ지방계약법 소관위 심사 앞둬계약 불이행 막고 품질 제고 취지 불구기존 평가체계 중복ㆍ업체 부담 가중양대 엔지니어링協, 반대 의견 제출[대한경제=전동훈 기자] 엔지니어링업계가 공공 입찰 규제를 강화하는 입법에 반발하고 있다. 산업 특성을 고려하지 않은 평가와 제재가 ...",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-09-09T03:00:00.000Z"
+  },
+  {
     "id": "b6781e1d484955b68c47910462132fa0",
     "source": "dnews",
     "title": "내년 BTL 한도액 6149억…1년 새 85% ‘뚝’",
@@ -88,14 +110,46 @@
     "createdAt": "2026-09-09T03:00:00.000Z"
   },
   {
-    "id": "80c976504c756f1f29f332aac6a72da5",
+    "id": "81a0ca6fb56fc1b1b4ade2a33a9d86b4",
     "source": "dnews",
-    "title": "ENG업계, 公共입찰 규제강화 입법 ‘반발’",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071645431160005",
-    "publishedAt": "2026-09-08T21:00:00.000Z",
-    "content": "국가ㆍ지방계약법 소관위 심사 앞둬계약 불이행 막고 품질 제고 취지 불구기존 평가체계 중복ㆍ업체 부담 가중양대 엔지니어링協, 반대 의견 제출[대한경제=전동훈 기자] 엔지니어링업계가 공공 입찰 규제를 강화하는 입법에 반발하고 있다. 산업 특성을 고려하지 않은 평가와 제재가 ...",
+    "title": "[도시정비시장 풍향계] 목동12단지 재건축, GS건설 ‘수의계약’ 속도",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609091031301080235",
+    "publishedAt": "2026-09-09T03:00:00.000Z",
+    "content": "[대한경제=한형용 기자]서울 양천구 목동12단지 재건축 시공사로 GS건설이 바짝 다가섰다. 조합은 조만간 우선협상대상자 선정 심의 등 후속절차를 밟을 것으로 보인다.9일 업계에 따르면 목동12단지 재건축 조합은 이날 2차 현장설명회를 열었다. 현장에는 GS건설만 단독으 ...",
     "summary": null,
-    "filter": "엔지니어링",
-    "createdAt": "2026-09-08T21:00:00.000Z"
+    "filter": "수의계약",
+    "createdAt": "2026-09-09T03:00:00.000Z"
+  },
+  {
+    "id": "adf1999f24c32811d0c8255eaea703c6",
+    "source": "dnews",
+    "title": "소각장 설치 갈등, 교차검증ㆍ주민 숙의로 푼다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609091057490300239",
+    "publishedAt": "2026-09-09T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-09T03:00:00.000Z"
+  },
+  {
+    "id": "9ac1f0fede6b58bef60377df21b0ffac",
+    "source": "engdaily",
+    "title": "건산연 “건설업 청년 유입 위해 전문성·경력 보장해야”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23299",
+    "publishedAt": "2026-09-09T02:10:00.000Z",
+    "summary": null,
+    "filter": "건설업",
+    "createdAt": "2026-09-09T02:10:00.000Z"
+  },
+  {
+    "id": "8c622fea2af6c0c5d1227209ba87b3e9",
+    "source": "dnews",
+    "title": "정원주 대우건설 회장, 부 다이 탕 하노이시장 면담",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609091014433910231",
+    "publishedAt": "2026-09-09T01:36:00.000Z",
+    "content": "대우건설은 “정원주 회장이 지난 8일소공동 더그랜드롯데 서울에서 방한 중인 부 다이 탕(Vu Dai Thang) 하노이 시장을 만나 베트남 사업 현황과 향후 협력 방안에 대해 논의했다”고 9일 밝혔다. 부 다이 탕 하노이 시장은 쩐 타인 만 베트남 국회의장과 함께 지난 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-09-09T01:36:00.000Z"
   }
 ]
