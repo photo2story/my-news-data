@@ -1,5 +1,88 @@
 [
   {
+    "id": "86e69f417194ce6c6048198fe5088e9a",
+    "source": "engdaily",
+    "title": "구로·신도림역세권-공항로, 지구단위계획 재정비",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23410",
+    "publishedAt": "2026-09-28T05:08:00.000Z",
+    "summary": null,
+    "filter": "공항",
+    "createdAt": "2026-09-28T05:08:00.000Z"
+  },
+  {
+    "id": "b1f2c2f0aca9e46a1247a2dd0f6932cf",
+    "source": "engdaily",
+    "title": "도로공사, 제천~영월 건설사업관리 발주…종심제 247억원",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23408",
+    "publishedAt": "2026-09-28T04:18:00.000Z",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-09-28T04:18:00.000Z"
+  },
+  {
+    "id": "6b3781f0260140040286ddd6c658e5e3",
+    "source": "engdaily",
+    "title": "철도공단, 하반기 신입·경력직 등 184명 채용",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23407",
+    "publishedAt": "2026-09-28T04:08:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-09-28T04:08:00.000Z"
+  },
+  {
+    "id": "1d3ab568f05044eeef6c49cd35547411",
+    "source": "engdaily",
+    "title": "무안공항, 활주로 포장 보수·보강…\"내구성 저하 확인\"",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23406",
+    "publishedAt": "2026-09-28T03:52:00.000Z",
+    "summary": null,
+    "filter": "공항",
+    "createdAt": "2026-09-28T03:52:00.000Z"
+  },
+  {
+    "id": "61e4b54df09e36a6735cc8b2853e1298",
+    "source": "engdaily",
+    "title": "9월 4주 엔지니어링 주간 입낙찰 동향",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23405",
+    "publishedAt": "2026-09-28T03:26:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-09-28T03:26:00.000Z"
+  },
+  {
+    "id": "8ca65c25eb1695f5807f68e282b16a28",
+    "source": "dnews",
+    "title": "현대엔지니어링, 올해 데이터센터만 1.9조 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281138080990538",
+    "publishedAt": "2026-09-28T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]현대엔지니어링이 올해 데이터센터 분야에서만 1조9000억원 규모 수주고를 쌓을 전망이다. 데이터센터 등 첨단 산업건축 분야를 미래 성장 기반의 한 축으로 육성하겠다고 발표하고, 전담 조직을 신설해 역량 강화에 집중한 뒤, 6개월 만에 거둔 성과다 ...",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-09-28T03:00:00.000Z"
+  },
+  {
+    "id": "dafe71c02ac92105de9f7890044e9a43",
+    "source": "dnews",
+    "title": "[건설톡] ‘심사 풀’ 논란 용인 반도체…싱거운 승부",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271559096670454",
+    "publishedAt": "2026-09-28T03:00:00.000Z",
+    "content": "LH, 시공책임형 방식 심사 마무리위원 후보군 452명 확대 15명 선정대우 무려 13명 선택…현대 제압올 토목설계 최대어 호남 반도체 설계유신 컨소시엄 완승으로 마무리상위사 연합, 공동도급 제한‘무색’실적중심 종심제ㆍ통합발주 도마위채= ‘용인 첨단시스템반도체 클러스터 ...",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-09-28T03:00:00.000Z"
+  },
+  {
+    "id": "9fa17bc760fd2dfdbb902c6fab15c1d4",
+    "source": "dnews",
+    "title": "삼성물산, 국내 최초 PC 특수모멘트 건식 접합 공법 개발",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609280932499680496",
+    "publishedAt": "2026-09-28T03:00:00.000Z",
+    "content": "[대한경제=한형용 기자]삼성물산은 PC(프리캐스트 콘크리트) 라멘 구조의 기둥과 보를 간편하게 연결하면서도 최고 수준의 내진성능을 확보한 ‘PC 특수모멘트 보-기둥 건식 접합 공법’으로 한국콘크리트학회의 기술 인증을 획득했다고 28일 밝혔다. PC 건식 접합 방식으로 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-28T03:00:00.000Z"
+  },
+  {
     "id": "1af92789bd45a5be951032de820b92bb",
     "source": "dnews",
     "title": "건설근로자공제회, ‘건설노동자 대학생 장학금’ 지원대상 모집",
@@ -55,17 +138,6 @@
     "createdAt": "2026-09-28T03:00:00.000Z"
   },
   {
-    "id": "105fcf62d3c4cf65ce9309cbb05304dd",
-    "source": "dnews",
-    "title": "\"굴착공사 땅꺼짐 사고 막아라\"…고밀도 관측망ㆍTBM 기술 뜬다",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609231823155960348",
-    "publishedAt": "2026-09-28T03:00:00.000Z",
-    "content": "서울시, GPR 탐사 깊이 한계 보완지반침하관측망 추가 확대 도입TBM 활용 확대도 대안 부상[대한경제=장진우 기자]대형 굴착공사장 주변의 땅꺼짐(싱크홀) 위험이 여전한 가운데 지반 변화를 실시간으로 감지하는 관측기술과 TBM(Tunnel Boring Machine) ...",
-    "summary": null,
-    "filter": "지반침하",
-    "createdAt": "2026-09-28T03:00:00.000Z"
-  },
-  {
     "id": "1240de5c375076ad7de0f1a7df433aa3",
     "source": "dnews",
     "title": "한·베 협력사업단, 베트남서 ‘K-스마트 건설안전’ 간담회",
@@ -99,6 +171,50 @@
     "createdAt": "2026-09-28T03:00:00.000Z"
   },
   {
+    "id": "462594c2dfe7dae782c7afe6ff1e2518",
+    "source": "dnews",
+    "title": "[인사] ㈜플러스종합건설",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221717378770235",
+    "publishedAt": "2026-09-28T03:00:00.000Z",
+    "content": "◇㈜플러스종합건설 <신규 선임> 전무 황충연〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-28T03:00:00.000Z"
+  },
+  {
+    "id": "c9bc53c7ce52921684d88c552aa251e3",
+    "source": "dnews",
+    "title": "한강버스 요금 체계 개편 ‘시동’…차등요금제 꺼내들었다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281110357510528",
+    "publishedAt": "2026-09-28T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-28T03:00:00.000Z"
+  },
+  {
+    "id": "9dc5e45be42a5f0269f2c7b680b474f1",
+    "source": "dnews",
+    "title": "43년만에 주민 품으로 돌아온 신천근린공원에서 가을축제 ..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281047478910514",
+    "publishedAt": "2026-09-28T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-28T03:00:00.000Z"
+  },
+  {
+    "id": "f16ed88cc44d7c3f5590cab0ab917fe4",
+    "source": "dnews",
+    "title": "은평구, 위반건축물 양성화 적극 지원",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281054559690518",
+    "publishedAt": "2026-09-28T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-28T03:00:00.000Z"
+  },
+  {
     "id": "9a14e1773a9788a2f1fb9d46fba02fa2",
     "source": "dnews",
     "title": "청탁금지법 시행 10년… 지난해 위반 신고 역대 최저",
@@ -120,25 +236,14 @@
     "createdAt": "2026-09-28T01:40:00.000Z"
   },
   {
-    "id": "9fa17bc760fd2dfdbb902c6fab15c1d4",
+    "id": "105fcf62d3c4cf65ce9309cbb05304dd",
     "source": "dnews",
-    "title": "삼성물산, 국내 최초 PC 특수모멘트 건식 접합 공법 개발",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609280932499680496",
-    "publishedAt": "2026-09-28T01:12:00.000Z",
-    "content": "[대한경제=한형용 기자]삼성물산은 PC(프리캐스트 콘크리트) 라멘 구조의 기둥과 보를 간편하게 연결하면서도 최고 수준의 내진성능을 확보한 ‘PC 특수모멘트 보-기둥 건식 접합 공법’으로 한국콘크리트학회의 기술 인증을 획득했다고 28일 밝혔다. PC 건식 접합 방식으로 ...",
-    "summary": null,
-    "filter": "soc",
-    "createdAt": "2026-09-28T01:12:00.000Z"
-  },
-  {
-    "id": "462594c2dfe7dae782c7afe6ff1e2518",
-    "source": "dnews",
-    "title": "[인사] ㈜플러스종합건설",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221717378770235",
+    "title": "\"굴착공사 땅꺼짐 사고 막아라\"…고밀도 관측망ㆍTBM 기술 뜬다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609231823155960348",
     "publishedAt": "2026-09-27T21:00:00.000Z",
-    "content": "◇㈜플러스종합건설 <신규 선임> 전무 황충연〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "content": "서울시, GPR 탐사 깊이 한계 보완지반침하관측망 추가 확대 도입TBM 활용 확대도 대안 부상[대한경제=장진우 기자]대형 굴착공사장 주변의 땅꺼짐(싱크홀) 위험이 여전한 가운데 지반 변화를 실시간으로 감지하는 관측기술과 TBM(Tunnel Boring Machine) ...",
     "summary": null,
-    "filter": "soc",
+    "filter": "지반침하",
     "createdAt": "2026-09-27T21:00:00.000Z"
   }
 ]
