@@ -1,5 +1,80 @@
 [
   {
+    "id": "cec579d592929ed6e230acc45b4ecd5a",
+    "source": "engdaily",
+    "title": "KIND, 탄자니아 공공사업부 장관과 인프라 PPP 협력 논의",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23422",
+    "publishedAt": "2026-09-29T05:56:00.000Z",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-09-29T05:56:00.000Z"
+  },
+  {
+    "id": "b5ad30c6ed66036b6d19744b2182f0f2",
+    "source": "engdaily",
+    "title": "국토부, 글로벌 철도연수과정 실시…\"15개국 관계자 대상\"",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23420",
+    "publishedAt": "2026-09-29T05:33:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-09-29T05:33:00.000Z"
+  },
+  {
+    "id": "72807846594daf4b83a1111d170a1604",
+    "source": "dnews",
+    "title": "대신자산신탁, 광안역 일대 도심복합개발 MOU 체결",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291419183430752",
+    "publishedAt": "2026-09-29T05:33:00.000Z",
+    "content": "[대한경제=권해석 기자]대신증권 계열사 대신자산신탁은 부산 ‘광안역 일대 도심복합개발사업’ 추진준비위원회와 사업 추진을 위한 양해각서(MOU)를 체결했다고 29일 밝혔다. 이번 MOU를 통해 대신자산신탁은 사업관리와 인허가 등을 지원하며 광안역 일대 도심복합개발사업 전 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-29T05:33:00.000Z"
+  },
+  {
+    "id": "9ddf26449c50bbdb912c2af40575685f",
+    "source": "dnews",
+    "title": "건설기술교육원, 인권경영 선포식 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291309255280721",
+    "publishedAt": "2026-09-29T04:09:00.000Z",
+    "content": "[대한경제=정석한 기자]건설기술교육원(원장 권대철)은 최근 인천 본원에서 ‘인권경영 선포식’을 개최했다.선포식은 8월 4일 개정된 교육원의 인권경영헌장을 대내외에 공표하고, 교육원의 인권경영 추진의지와 임직원의 참여의지를 다지기 위해 마련됐다.개정된 헌장은 △직장 내 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-29T04:09:00.000Z"
+  },
+  {
+    "id": "7357257c282c3c4749174a84e22ee97c",
+    "source": "dnews",
+    "title": "새만금 스마트 수변도시 공공하수처리시설 건설공사 입찰 개시",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291134142030707",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "[대한경제=이재현 기자]새만금개발공사는 29일 ‘새만금 스마트 수변도시 공공하수처리시설 건설공사’ 입찰공고를 게시했다고 밝혔다.이번 공사는 수변도시 하수처리시설 부지(4공구) 내에 하루 1만9000㎥ 규모의 공공하수처리시설을 신설하는 것이다.토목·조경, 건축, 기계, ...",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "843ac4a4a4077d0ee4224f28c6eb61b1",
+    "source": "dnews",
+    "title": "차선도색장비차량, 건설기계로 지정 추진",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291116522400704",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "[대한경제=김승수 기자]차선 및 도로 표시 시공 등 건설현장 필수 장비임에도 자동차로 분류돼 제도적 사각지대에 놓여 있던 차선도색장비차량의 ‘건설기계’ 지정 논의가 본격화됐다.29일 건설업계에 따르면 대한전문건설협회(전문협회)는 최근 국토교통부에 차선도색장비차량을 건설 ...",
+    "summary": null,
+    "filter": "건설업",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "257c4b473aef790397ccdacdff643709",
+    "source": "dnews",
+    "title": "“건설 후방에 머문 ENG, 사업 브레인 돼야”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609242046479600370",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "기존 시공 중심, 성장 전략에 한계사업구상~준공까지‘길잡이’ 격상설계자 현장 참여ㆍ성과 권리 명시역량평가 위주 발주체계 전환 강조[대한경제=전동훈 기자]시공 중심의 성장 전략이 한계에 봉착했다는 진단이 나왔다. 건설공사의 후방 지원에 머물러 온 엔지니어링 산업을 전방위 ...",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
     "id": "154574e77c772b5be8605962dfaca852",
     "source": "dnews",
     "title": "재생에너지 과전압… 가을철 ‘블랙아웃’ 우려",
@@ -42,5 +117,101 @@
     "summary": null,
     "filter": "안전진단",
     "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "23b65618dab06e9832d9ecd904e46178",
+    "source": "dnews",
+    "title": "‘트리븐 센텀’, 약 78만㎡ 명장공원 품어… 총 1,644세대",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281447545930583",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "두산에너빌리티가 시공하는 트리븐 센텀은 총 1,644세대 규모로, 약 78만㎡ 명장공원과 센텀2지구를 동시에 생활권으로 누릴 수 있는 입지가 특징이다.트리븐 센텀과 함께 조성되는 명장공원은 약 78만㎡로 축구장 약 110개, 부산시민공원의 약 1.7배에 달하는 규모다. ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "e3365e22bb0efb809d7d7e2a39e60fc3",
+    "source": "dnews",
+    "title": "사학연금공단 제21대 김창수 이사장 취임…임기 3년",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291439285610760",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "[대한경제=권해석 기자]사립학교교직원연금공단(사학연금)은 지난 28일자로 제21대 김창수 이사장이 취임했다고 29일 밝혔다.김창수 신임 이사장은 중앙대학교 경영학학사, 미국 플로리다주립대(FIU) 경영학 박사학위를 취득하고, 중앙대학교 경영학부 교수 및 총장, 국가교육 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "8dfe31f6e81e90ec5b0c48084e4b91fa",
+    "source": "dnews",
+    "title": "[결혼]장병묵(부광종합건설 대표)씨 아들 성진(국방부 공군법무관)군",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291030566600689",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "△장성진(국방부 공군법무관, 장병묵 부광종합건설 대표ㆍ고금자 비케이건설 대표 아들)군ㆍ김정원(김앤장 로펌 변호사, 김백남ㆍ김지수씨 딸)양=10월3일 낮12시 웨스틴 조선호텔1층 그랜드볼룸(서울 중구 소공로 106) (02)771-0500〈ⓒ 대한경제신문(www.dnew ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "3fe26b444e3df3e2173ba127ab0a876f",
+    "source": "dnews",
+    "title": "서울 야장 드라이브…핵심은 '소상공인' 살리기",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291050138040699",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "2f8505689077eee6a5e760a05ad9356e",
+    "source": "dnews",
+    "title": "일본인 관광객, 서울 짧게·자주 찾는다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291415349590748",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "0e8039e89af2132180bbaed33b696f7f",
+    "source": "dnews",
+    "title": "창동주공4ㆍ19단지, 도봉구 행정지원 힘입어 추진위 초단기..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291129397770706",
+    "publishedAt": "2026-09-29T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "id": "e4dcc969ba014b46bc5c45927c65bf16",
+    "source": "engdaily",
+    "title": "새만금 수변도시 하수처리시설 공고 턴키 1,054억원 규모",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23417",
+    "publishedAt": "2026-09-29T02:06:00.000Z",
+    "summary": null,
+    "filter": "턴키",
+    "createdAt": "2026-09-29T02:06:00.000Z"
+  },
+  {
+    "id": "1f5026b6ffca8f38fbeef6259300b2b5",
+    "source": "engdaily",
+    "title": "한국형 도로안전기술, 캐나다 북미시장 진출",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23416",
+    "publishedAt": "2026-09-29T01:17:00.000Z",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-09-29T01:17:00.000Z"
+  },
+  {
+    "id": "aead301adfaeacea196d5041cff257ec",
+    "source": "engdaily",
+    "title": "건설연, 몽골 도로관리 디지털 지원",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23415",
+    "publishedAt": "2026-09-29T00:46:00.000Z",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-09-29T00:46:00.000Z"
   }
 ]
