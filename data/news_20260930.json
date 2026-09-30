@@ -1,5 +1,69 @@
 [
   {
+    "id": "284686258cdfe2c9e97a8e447a382f5f",
+    "source": "engdaily",
+    "title": "고양은평선 추진 가시화…LH·고양시 사업비 업무협약",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23441",
+    "publishedAt": "2026-09-30T04:14:00.000Z",
+    "summary": null,
+    "filter": "LH",
+    "createdAt": "2026-09-30T04:14:00.000Z"
+  },
+  {
+    "id": "f581829f7265ad1a6ab114663d536e30",
+    "source": "engdaily",
+    "title": "수자원공사, 국제기능올림픽 동메달",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23440",
+    "publishedAt": "2026-09-30T04:05:00.000Z",
+    "summary": null,
+    "filter": "수자원",
+    "createdAt": "2026-09-30T04:05:00.000Z"
+  },
+  {
+    "id": "d1f00579f0157c9c04b953d2d5670e0b",
+    "source": "dnews",
+    "title": "대방산업개발, 베이커리 카페 브랜드 ‘대방[ ]장’ 앞세워 스포츠 마케팅 전개",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301128102380899",
+    "publishedAt": "2026-09-30T03:57:00.000Z",
+    "content": "[대한경제=황은우 기자]대방산업개발은 베이커리 카페 브랜드 ‘대방[ ]장’(이하 대방장)을 앞세워 적극적인 스포츠 마케팅을 전개하고 있다고 30일 밝혔다. 프로야구와 프로농구, 프로배구 등 주요 종목을 아우르는 광고를 통해 브랜드 인지도를 높이고 소비자와의 접점을 넓힌 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-09-30T03:57:00.000Z"
+  },
+  {
+    "id": "302c734ba7d655e72701d9f42445c87c",
+    "source": "dnews",
+    "title": "건설ENG, 내달 79건·4961억 ‘먹거리 경쟁’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291332418260732",
+    "publishedAt": "2026-09-30T03:00:00.000Z",
+    "content": "100억 이상 9건에 총 2176억원 몰려CM 52건ㆍ3187억…건축 大魚 눈길용인 국가산단 CM 503억 ‘최대어’[대한경제=전동훈 기자]10월 공공시장에서 총 4961억원 규모의 건축 및 토목분야 설계ㆍ건설사업관리(CM)ㆍ감리ㆍ환경영향평가 용역 79건이 주인을 가린 ...",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-09-30T03:00:00.000Z"
+  },
+  {
+    "id": "7b85b5031db8c9af5c3b166ba11687b7",
+    "source": "dnews",
+    "title": "리모델링ㆍ태양광ㆍ데이터센터…특화영역 파트너사 키우는 건설사들",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301007359510849",
+    "publishedAt": "2026-09-30T03:00:00.000Z",
+    "content": "건설사들이 미래 신성장 동력 확보를 위해 협력사(파트너사) 관리 패러다임을 재편하고 있다. 고도의 전문성이 요구되는 특화 영역에서 파트너사를 직접 교육하고 혁신기술을 발굴하는 생태계 구축에 나선 것이다.30일 관련업계에 따르면 포스코이앤씨, 두산건설, SK에코플랜트 등 ...",
+    "summary": null,
+    "filter": "태양광",
+    "createdAt": "2026-09-30T03:00:00.000Z"
+  },
+  {
+    "id": "d7c317c2ca8baeeebeed6f481729d83a",
+    "source": "dnews",
+    "title": "건설현장 넘쳐나는 데이터…‘디지털 거버넌스’ 구축 러시",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101054505250432",
+    "publishedAt": "2026-09-30T03:00:00.000Z",
+    "content": "문서ㆍ영업 등 프로젝트 전과정스마트건설 자산 기술 고도화선진엔지니어링‘드롭박스’ 도입삼표그룹 빅데이터 플랫폼 구축[대한경제=김민수 기자]건설현장의 데이터가 기하급수적으로 쌓이면서 데이터가 파편화되는 ‘데이터 섬(Data Island)’ 현상이 심화되고 있는 가운데 데이 ...",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-09-30T03:00:00.000Z"
+  },
+  {
     "id": "0e67f1eeeb01f520072efe106fa35a30",
     "source": "dnews",
     "title": "공석인 국토부 2차관…내부 출신 ‘가닥’",
@@ -55,14 +119,14 @@
     "createdAt": "2026-09-30T03:00:00.000Z"
   },
   {
-    "id": "a4a0e3fcae143956b3bcce8408e4df7a",
+    "id": "b0a7eaba0ef552ccf078a65715b3b06a",
     "source": "dnews",
-    "title": "LH, 3기 신도시 고양창릉에 ‘고양은평선 광역철도’ 본격 ..",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609300936394370841",
+    "title": "재난 전문 AI 기업 Roze AI, 美 나스닥 첫 거래 개시",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301107270050887",
     "publishedAt": "2026-09-30T03:00:00.000Z",
-    "content": "",
+    "content": "로제 에이아이(Roze AI Inc.)는 “지난 29일(미국 동부시간)Roze AI 보통주(거래기호 RZAI)가 나스닥 캐피털마켓(Nasdaq Capital Market)에서 거래를 개시했다”고 30일 밝혔다.이번 거래 개시는 이 회사 보통주의 나스닥 직접상장에 따른 ...",
     "summary": null,
-    "filter": "철도",
+    "filter": "AI",
     "createdAt": "2026-09-30T03:00:00.000Z"
   },
   {
@@ -75,6 +139,47 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-09-30T03:00:00.000Z"
+  },
+  {
+    "id": "646f8c35c913c55883a3ee10b687d1f9",
+    "source": "engdaily",
+    "title": "“인천 2호선 고양~김포 연장 시급” 청원 1만명 돌파",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23439",
+    "publishedAt": "2026-09-30T02:01:00.000Z",
+    "summary": null,
+    "filter": "2호선",
+    "createdAt": "2026-09-30T02:01:00.000Z"
+  },
+  {
+    "id": "6530b6c3eb6b131eb7f2aa623d90153a",
+    "source": "dnews",
+    "title": "국가철도공단, 3기 신도시 역사 설계용역사 찾는다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221441438800174",
+    "publishedAt": "2026-09-30T02:00:00.000Z",
+    "content": "수도권 3기 신도시의 대중교통 거점이 될 신설 역사 3곳에 대한 설계사 선정 작업이 본격화했다. 29일 국가철도공단에 따르면 최근 경춘선 왕숙1역사(이하 가칭)ㆍ경의중앙선 왕숙2역사ㆍ진접선 풍양역사 등 3개 역사 신축을 위한 제안설계공모를 일괄 공고했다.이들 3개 역사 ...",
+    "summary": null,
+    "filter": "설계공모",
+    "createdAt": "2026-09-30T02:00:00.000Z"
+  },
+  {
+    "id": "15d7ce848e5efdb98c244bb9b0211424",
+    "source": "engdaily",
+    "title": "한국종합기술, 용인 용수공급 1단계 2공구 CM 수주",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23437",
+    "publishedAt": "2026-09-30T01:13:00.000Z",
+    "summary": null,
+    "filter": "한국종합기술",
+    "createdAt": "2026-09-30T01:13:00.000Z"
+  },
+  {
+    "id": "6494a5c6d0d080559b7a9adcd832fc58",
+    "source": "engdaily",
+    "title": "용인시 “경기남부광역철도 속도전”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23436",
+    "publishedAt": "2026-09-30T00:56:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-09-30T00:56:00.000Z"
   },
   {
     "id": "46de370a519bef3bc6f87c00c86fd51c",
@@ -95,16 +200,5 @@
     "summary": null,
     "filter": "항만",
     "createdAt": "2026-09-30T00:28:00.000Z"
-  },
-  {
-    "id": "d7c317c2ca8baeeebeed6f481729d83a",
-    "source": "dnews",
-    "title": "건설현장 넘쳐나는 데이터…‘디지털 거버넌스’ 구축 러시",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101054505250432",
-    "publishedAt": "2026-09-29T21:00:00.000Z",
-    "content": "문서ㆍ영업 등 프로젝트 전과정스마트건설 자산 기술 고도화선진엔지니어링‘드롭박스’ 도입삼표그룹 빅데이터 플랫폼 구축[대한경제=김민수 기자]건설현장의 데이터가 기하급수적으로 쌓이면서 데이터가 파편화되는 ‘데이터 섬(Data Island)’ 현상이 심화되고 있는 가운데 데이 ...",
-    "summary": null,
-    "filter": "엔지니어링",
-    "createdAt": "2026-09-29T21:00:00.000Z"
   }
 ]
