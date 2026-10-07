@@ -1,5 +1,188 @@
 [
   {
+    "id": "28ae37ee54928d7b0bc3181fcf4f1d73",
+    "source": "engdaily",
+    "title": "동성엔지니어링, 창립 35주년 한마음 추계행사",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23484",
+    "publishedAt": "2026-10-06T09:07:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-06T09:07:00.000Z"
+  },
+  {
+    "id": "5365690432d10e9a3ac5a6b7a166bc3e",
+    "source": "engdaily",
+    "title": "국토부 산하기관 해킹 급증, SOC 운영 시스템도 '구멍'",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23483",
+    "publishedAt": "2026-10-06T08:29:00.000Z",
+    "summary": null,
+    "filter": "SOC",
+    "createdAt": "2026-10-06T08:29:00.000Z"
+  },
+  {
+    "id": "62d95abd44c4fdcde65d271cfec8103d",
+    "source": "engdaily",
+    "title": "신안우이 해상풍력사업, 사업성만 따지면 여전히 '태부족'",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23482",
+    "publishedAt": "2026-10-06T07:37:00.000Z",
+    "summary": null,
+    "filter": "풍력",
+    "createdAt": "2026-10-06T07:37:00.000Z"
+  },
+  {
+    "id": "d23f11331ae87cd105feafdaa68c2633",
+    "source": "engdaily",
+    "title": "10월 1주 엔지니어링 주간 입낙찰 동향",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23481",
+    "publishedAt": "2026-10-06T06:09:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-06T06:09:00.000Z"
+  },
+  {
+    "id": "5a4e26774d94539ff86dc941d05c2842",
+    "source": "dnews",
+    "title": "쌍용건설, 8000억 규모 남부내륙철도 9공구 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061114060800542",
+    "publishedAt": "2026-10-06T04:13:00.000Z",
+    "content": "고성∼거제 24.6㎞ 연결… 국내 최초 철도 해저터널 쉴드 TBM 적용 고난도 구간5-2ㆍ8-2공구 이어 9공구 수주… 철도 기술 우위 입증[대한경제=한형용 기자]쌍용건설(글로벌세아그룹)은 지난달 29일 국가철도공단에서 발주한 남부내륙철도 제9공구 노반 건설공사를 수주 ...",
+    "summary": null,
+    "filter": "터널",
+    "createdAt": "2026-10-06T04:13:00.000Z"
+  },
+  {
+    "id": "675b6e5b550e06e71a7480e99f3b81c4",
+    "source": "dnews",
+    "title": "폭염ㆍ장마 지나자 인력 늘어나는 건설현장… 가을철 안전사고 ‘주의보’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061647026270637",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "최근 5년간 가을철 사고사망자 516명으로 가장 많아 지붕 작업에서 추락사고 발생…건설기계 사고도 집중[대한경제=김승수 기자]여름철 기승을 부리던 폭염과 집중호우가 물러가고 선선한 가을 날씨가 찾아오면서 멈춰 섰던 건설현장이 다시 바쁘게 돌아가기 시작하고 있다. 하지 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "c0b38debe67e098cafb766c6e3f04f86",
+    "source": "dnews",
+    "title": "한샘, ‘시그니처 현관장’ 출시",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610060846042810485",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]한샘은 현관에 대한 소비자 인식 변화에 주목해 프리미엄 수납 라인 ‘시그니처’라인을 현관으로 확대, ‘시그니처 현관장’을 출시한다고 6일 밝혔다.‘시그니처 현관장’은 앰버오크, 웜코튼, 애쉬월넛 등 다채로운 컬러와 스톤, 우드 텍스처 등 고급스러 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "11f0090f24b9b788626a1354a0472da4",
+    "source": "dnews",
+    "title": "건설연, 불법주정차 AI 관리시스템 개발",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061303484280554",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] 한국건설기술연구원(원장 박선규)은 엣지 AI(인공지능) 기반 딥러닝 영상분석으로 불법주정차를 실시간으로 감지하고, 운전자의 자발적인 차량 이동을 유도하는‘불법주정차 AI 관리시스템(MOVI)’을 개발했다고 6일 밝혔다.건설연 도로교통연구본부 연 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "42574111ecf678baf851356b1e01f261",
+    "source": "dnews",
+    "title": "한국건설생활환경시험연구원, 차세대 그리드ㆍ전력반도체 생태계 구축 협력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061403315820576",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]한국건설생활환경시험연구원과 한국에너지공과대학교(KENTECH)는 ‘차세대 그리드ㆍ전력반도체 분야 상호 협력 및 산업 생태계 활성화를 위한 업무협약(MOU)’을 6일 KENTECH에서 체결했다고 밝혔다.협약에 따라 양측은 연구 장비 및 시험 인프라 ...",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "656d0748c7317bc07b0bcf6bc1f55748",
+    "source": "dnews",
+    "title": "건설기술인협회, 온라인 경력신고 절차 대폭 개선",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061356123530571",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "앞으로 온라인을 통해 경력관리를 하는 건설기술인들은 반복적인 입력ㆍ출력ㆍ첨부 등 불편이 크게 줄어들고, 필요한 서비스를 보다 쉽고 빠르게 이용할 수 있게 된다. 한국건설기술인협회(회장 박종면)는 건설기술인의 온라인 경력신고를 보다 편리하게 이용할 수 있도록 홈페이지 주 ...",
+    "summary": null,
+    "filter": "건설기술인협회",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "942402eb25e427ff856b190847ee02cd",
+    "source": "dnews",
+    "title": "GS건설, 자체 플랫폼 통해 자원 선순환 앞장선다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061332305660561",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] GS건설은 지난 2024년 12월 현장 중고 사무용품과 자재를 실시간으로 공유ㆍ교환하는 자체 플랫폼‘자이마켓(Xi-market)’을 도입한 이후, 현재까지 총 2000여 건의 거래가 이뤄졌다고 6일 밝혔다.자이마켓은 허윤홍 GS건설 대표가 강조 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "d871bbe8cd03691e3998318478c7f98f",
+    "source": "dnews",
+    "title": "방음터널ㆍ빌딩외벽ㆍ창문까지 전기 직접생산…발전소 변..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610060931481780503",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "터널",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "902039072026562cf696010195703a61",
+    "source": "dnews",
+    "title": "노들섬 하늘예술정원, 실적ㆍ경력기술자ㆍ원가 리스크 ‘발목’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021046308280293",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "10년 동일공사 실적, 추정금액 기준 평가경력기술자, 입찰자격 해당공사 3년 이상 종사입찰 문턱으로 작용…일부 건설사 일찍이 포기비정형 구조물 ‘악성 실행’, 입찰 걸림돌 [대한경제=백경민 기자]서울시가 ‘노들섬 하늘예술정원 조성공사’에 대한 입찰자격을 완화했지만, ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "1c0814c7c7c80058b4d91b8b82bfe862",
+    "source": "dnews",
+    "title": "3732억 ‘종로구청ㆍ소방합동청사 건립공사’ 유찰",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021926088190379",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "추정금액 3732억원 규모의 ‘종로구청ㆍ소방합동청사 건립공사’가 DL이앤씨의 단독 입찰로 유찰됐다.5일 관련 업계에 따르면 지난 2일 마감한 이 공사의 입찰참가자격 사전심사(PQ)에 DL이앤씨 컨소시엄 한 곳만 신청서를 제출했다.이에 따라 경쟁구도가 성립되지 않으면서 ...",
+    "summary": null,
+    "filter": "PQ",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "a6728c1fbde42483996a81abaa3a3d9c",
+    "source": "dnews",
+    "title": "양지마을 설계자 선정 입찰 ‘3파전’…분당 선도지구 이달 마무리",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021447213540337",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "1기 신도시 정비사업의 선두 주자인 경기 성남 분당 선도지구의 설계자 선정이 막바지에 접어들었다. 분당 재건축 선도지구 중 최대 규모인 양지마을이 3파전으로 마감되면서, 이달 중 분당 선도지구의 설계자가 모두 윤곽을 드러낼 전망이다.5일 건축설계업계에 따르면 분당 양지 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "3265344d018ac03d5397b17a14af013d",
+    "source": "dnews",
+    "title": "자연과환경, 한림에코텍 흡수합병…OSC 경쟁력 강화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021653439800360",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] 자연과환경이 자회사 한림에코텍을 흡수합병해 경영 효율화와 모듈러 사업 경쟁력 강화에 나선다.6일 금융감독원 전자공시시스템에 따르면 자연과환경은 지분 100％를 보유한 자회사 한림에코텍을 흡수합병한다. 신주 발행 없는 무증자 방식으로, 합병비율은 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "f242623ef9e127280e7ad67a28b1aefa",
+    "source": "dnews",
+    "title": "환경영향평가 공탁제 도입 시동…시범사업 1호 ‘대청댐발전시설 현대화’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610050932449100427",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "기후에너지환경부는 환경영향평가의 거짓 부실을 방지하고 평가의 독립성과 신뢰성을 높이기 위한 ‘환경영향평가 공탁제’ 시범사업을 추진한다고 5일 밝혔다.시범사업의 대상은 한국수자원공사가 발주하는 ‘대청댐 발전시설 현대화 사업에 대한 환경영향평가 대행사업’이다. 한국수자원공 ...",
+    "summary": null,
+    "filter": "영향평가",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
     "id": "88ad40d978c43eec2ca4ba33cc3d78ad",
     "source": "dnews",
     "title": "'기술사 응시자격' 경력 기간 1년씩 단축",
@@ -8,6 +191,72 @@
     "content": "정부, 기술사 반발에 일부 조정전문가들 개정안에 일단 긍정 반응기술사 자격기준 하향평준화 불가피기사ㆍ산업기사는 기존 유지전문성 물음표는 해소 안돼[대한경제=장진우 기자] 기술사 응시자격을 둘러싼 논란이 다소 진정될 전망이다. 정부가 기술사 응시자격의 경력 요구 기간을 ...",
     "summary": null,
     "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "1232b2eac3360ad978c8eab57f94a795",
+    "source": "dnews",
+    "title": "서울 자치구, 정비사업 권한 이양 시동",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061526065890614",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "14일 구청장협의회에서 추가 논의[대한경제=박재영 기자]정부와 여당이 500세대 미만 정비사업에 대한 권한을 서울시에서 자치구로 이양하는 방안을 추진하고 있는 가운데 자치구들이 이에 대한 준비에 착수하는 모양새다. 최근 관련 TF 첫 회의를 마쳤고, 오는 14일 서울시 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "413fb1c9feb8eee943e134e32a5455c6",
+    "source": "dnews",
+    "title": "트룬 에스테이트 인 제주, 10월 5일부터 창립회원 모집",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061530472330616",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "글로벌 골프·호스피탈리티 운영사 트룬(Troon)의 이름을 내건 프라이빗 레지던스 ‘트룬 에스테이트 인 제주(TROON ESTATE in JEJU)’가 제주에 들어선다. 창립회원 모집은 2026년 10월 5일부터 한정된 인원을 대상으로 진행하고 있다.트룬 에스테이트 인 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "7b4e2985ca99ef68b257b0a4c40c8d76",
+    "source": "dnews",
+    "title": "[도시정비시장 풍향계] IPARK현대산업개발, 부산 연산13구역 수주…2812억 규모",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061441115460595",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "지상 최고 34층…“연제구 대표 랜드마크”[대한경제=이종무 기자]HDC그룹 IPARK현대산업개발이 부산 연제구 연산13구역 재개발 시공권을 확보했다.IPARK현대산업개발은 지난 3일 연산13구역 재개발 정비사업 시공사 선정총회에서 시공사로 최종 선정됐다고 6일 발표했다 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "0aae5b3f46a845442734f767a1f49fd2",
+    "source": "dnews",
+    "title": "청담동 명품거리 ‘바쉐론 콘스탄틴’ 빌딩, 평당 6.85억 ‘역대 최고가’ 거래",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610060940437880508",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=한상준 기자]서울 강남구 청담동 명품거리 신축 빌딩이 대지 평당 약 6억8500만원에 거래되며, 이 일대 대지면적 기준 평당 매매가격으로 역대 최고 수준을 기록했다.국토교통부 실거래가 공개시스템에 따르면 청담동 80-2번지 건물이 지난 1월 23일 법인 매수 ...",
+    "summary": null,
+    "filter": "국토교통부",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "505af58d1359787ed3640251f95c8e5d",
+    "source": "dnews",
+    "title": "울산 동구 800세대 신축…‘화정1지구 아르엘’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061006562260513",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "㈜서한이 울산 동구 화정1지구 도시개발사업을 통해 ‘화정1지구 아르엘’을 공급할 예정이다. 총 802세대 규모로 조성되는 이 단지는 지난 2020년 지웰시티 자이 이후로 6년 만에 공급되는 800세대 이상 신축 대단지다. ‘화정1지구 아르엘’은 울산 동구 첫 대규모 민 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "afaee3187e245dfabfed41778aae23e0",
+    "source": "dnews",
+    "title": "[이번주 재개발ㆍ재건축] 구로 우신빌라ㆍ부산 광안7구역 입찰 마감",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610051403431890446",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "숙대입구역세권 입찰여의도 진주 8일 현설[대한경제=이종무 기자]이번 주에는 서울 구로구 우신빌라 재건축 1차 입찰이 예정돼 결과가 주목된다.입찰=우신빌라 재건축 정비사업 조합이 6일 입찰을 마감한다. 지난 8월 열린 현장설명회(현설)에 GS건설, 대우건설, 제일건설, ...",
+    "summary": null,
+    "filter": "입찰",
     "createdAt": "2026-10-06T03:00:00.000Z"
   },
   {
@@ -33,25 +282,113 @@
     "createdAt": "2026-10-06T03:00:00.000Z"
   },
   {
-    "id": "f242623ef9e127280e7ad67a28b1aefa",
+    "id": "49a2ab714194f8a5e29703bc9c8040c5",
     "source": "dnews",
-    "title": "환경영향평가 공탁제 도입 시동…시범사업 1호 ‘대청댐발전시설 현대화’",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610050932449100427",
-    "publishedAt": "2026-10-05T23:15:00.000Z",
-    "content": "기후에너지환경부는 환경영향평가의 거짓 부실을 방지하고 평가의 독립성과 신뢰성을 높이기 위한 ‘환경영향평가 공탁제’ 시범사업을 추진한다고 5일 밝혔다.시범사업의 대상은 한국수자원공사가 발주하는 ‘대청댐 발전시설 현대화 사업에 대한 환경영향평가 대행사업’이다. 한국수자원공 ...",
+    "title": "인사이트투어, 외국인 유학생 대상 ‘K-CULTURE TOUR WITH TRAVEL MATE’ 성료",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061659269460642",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "인바운드 관광·글로벌 연수 전문 기업 ㈜인사이트투어(대표 조충근)가 지난 8월 28일부터 29일까지 외국인 유학생과 한국인 여행메이트가 함께하는 ‘K-CULTURE TOUR WITH TRAVEL MATE – POV: Main Character in K-Drama’를 진 ...",
     "summary": null,
-    "filter": "영향평가",
-    "createdAt": "2026-10-05T23:15:00.000Z"
+    "filter": "AI",
+    "createdAt": "2026-10-06T03:00:00.000Z"
   },
   {
-    "id": "afaee3187e245dfabfed41778aae23e0",
+    "id": "8b317f79aeca2562a2e1816632684017",
     "source": "dnews",
-    "title": "[이번주 재개발ㆍ재건축] 구로 우신빌라ㆍ부산 광안7구역 재건축 입찰 마감",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610051403431890446",
-    "publishedAt": "2026-10-05T20:00:00.000Z",
-    "content": "숙대입구역세권 입찰여의도 진주 8일 현설[대한경제=이종무 기자]이번 주에는 서울 구로구 우신빌라 재건축 1차 입찰이 예정돼 결과가 주목된다.입찰=우신빌라 재건축 정비사업 조합이 6일 입찰을 마감한다. 지난 8월 열린 현장설명회(현설)에 GS건설, 대우건설, 제일건설, ...",
+    "title": "바로건설기술, 성대 건축공학과 재학생에 장학금 지원",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061547204730622",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=박경남 기자]신자재·신공법 개발 전문기업 바로건설기술(대표 서현주·김영춘)이 성균관대학교 재학생을 대상으로 장학금을 지원하며 구조 분야 미래 인재 육성에 본격 나섰다.바로건설기술은 최근 성균관대 건축공학과 재학생 중 장학생을 처음 선발하고, 장학금을 전달했다 ...",
     "summary": null,
-    "filter": "입찰",
-    "createdAt": "2026-10-05T20:00:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "d3677229f8d846d9a7c618d505fc2904",
+    "source": "dnews",
+    "title": "진상화 전 충북개발공사 사장 ‘사랑과 진실’ 출간",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061509233160606",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "[대한경제=권혁용 기자]진상화 전 충북개발공사 사장이 신작 ‘사랑과 진실’을 출간했다.제목만 보면 후배들에게 삶의 지혜를 주기위한 에세이처럼 보이는데, 본문을 들춰보면 에세이보다 정책서에 가깝다.저자는 지금 대한민국이 AI와 반도체 초호황으로 오천년 역사이래 최절정의 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "31dea4044734f2477031d68d2901f976",
+    "source": "dnews",
+    "title": "[인터뷰] 이순열 이사장 \"머릿속 각인되는 독창적인 서사로 다시 찾고 싶은 문화관광 도시 여주 만들겠다\"",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610060805550450475",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "영화 ‘조폭마누라’·‘그대안의 블루’ 제작한 문화예술 전문가…축제기획·총괄로 무대 넓혀낮 중심 관람을 넘어 밤까지 이어지는 ‘체류형 야간 축제’로 대 변신‘여주골목대빵축제’로 지역 맛과 골목경제까지 문화콘텐츠화…남한강·도자기·먹거리 연결, ‘여주만의 관광’ 구축[대한경 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "8353dadf88826b8ce909a17485a5083f",
+    "source": "dnews",
+    "title": "대우건설, 싱가포르서 건설안전 등 3개 부문 수상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610060912279980493",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "대우건설은 “현재 공사 중인 싱가포르 도시철도 CR108(Cross Rail Line 108) 프로젝트가 지난달 22일 싱가포르 육상교통청(Land Transport Authority)이 주관하는 2026 ASAC(Annual Safety, Health and Envi ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "16ea78ce0eb79cf425606fc3f99520e6",
+    "source": "dnews",
+    "title": "국립수산과학원 “북항 친수공원 부캉이 ‘흑상어’로 확..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061526444760615",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "c82ba91f966764952f2f1153e5c93983",
+    "source": "dnews",
+    "title": "경찰, 금융기관 해킹 정식 수사… 28명 전담팀 투입",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061419114670585",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "1908cd46b088b73ba894b98e93941409",
+    "source": "dnews",
+    "title": "AI로 그리는 서울 미래도시 엿본다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061052586370534",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "abc51b00e3aae8dc8c770da9cdeefff1",
+    "source": "dnews",
+    "title": "한강, 10월 축제로 물든다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061026274990521",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "94ee2f767552a9935e7ce5c3e1121ef3",
+    "source": "dnews",
+    "title": "중랑구 사가정역세권 재개발사업 본궤도",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061101410860537",
+    "publishedAt": "2026-10-06T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-06T03:00:00.000Z"
   }
 ]
