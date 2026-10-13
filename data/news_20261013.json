@@ -1,5 +1,59 @@
 [
   {
+    "id": "8078177fb99c27e4465166c878bcc075",
+    "source": "dnews",
+    "title": "[철도 국감] 코레일-철도공단, 사고 책임 ‘네탓 공방’ 그만…“중재기구 검토”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131331284080359",
+    "publishedAt": "2026-10-13T05:15:00.000Z",
+    "content": "양 기관 최근 5년 안전사고 소송 21건1심 원고소가 기준 약 500억 규모염태영 의원 “중재기구 필요…입법 지원”수원역 전동킥보드 화재 도마 위사고 후 단속 ‘0’…제도 허점 질타[대한경제=백경민 기자]한국철도공사(코레일)와 국가철도공단이 안전사고 책임을 두고 오랜 ...",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-10-13T05:15:00.000Z"
+  },
+  {
+    "id": "84a85cf390045a67500c2ffd6d91a756",
+    "source": "engdaily",
+    "title": "항만공사 4사 통합, 경쟁력은 Up 보다는 Down?",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23555",
+    "publishedAt": "2026-10-13T03:14:00.000Z",
+    "summary": null,
+    "filter": "항만",
+    "createdAt": "2026-10-13T03:14:00.000Z"
+  },
+  {
+    "id": "c31667f22c21390933d62cd7f2e914c2",
+    "source": "dnews",
+    "title": "한국건설교통신기술협회, ‘2026 충청남도 건설교통신기술 전시회’ 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610130937221100293",
+    "publishedAt": "2026-10-13T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] 한국건설교통신기술협회(회장 박철)는 지난 12일 충청남도, 국토교통과학기술진흥원, 신기술진흥연구원과 함께‘2026 충청남도 건설교통신기술 전시회’를 개최했다고 13일 밝혔다.충청남도 문화예술회관 1층에서 열린 이번 행사는 국토교통부 지정 우수 ...",
+    "summary": null,
+    "filter": "국토교통부",
+    "createdAt": "2026-10-13T03:00:00.000Z"
+  },
+  {
+    "id": "f19c27cf31e716b3f96cca9a81910c2e",
+    "source": "dnews",
+    "title": "건설ENG업계, 하반기 신입 공채 본격화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610081958483480969",
+    "publishedAt": "2026-10-13T03:00:00.000Z",
+    "content": "도화ㆍ유신 등주요사 두 자릿수 선발 건설사 채용 위축에 지원자 몰려적응ㆍ소통 능력 중시…AI 역량도 관심[대한경제=전동훈 기자]주요 건설엔지니어링사들이 하반기 신입사원 공개채용에 나섰다. 토목, 환경, 에너지, 해외사업 등에서 대부분 두 자릿수 인력을 선발하고, 연말까 ...",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-10-13T03:00:00.000Z"
+  },
+  {
+    "id": "b41f1030c96fb3e21885282e58e8971c",
+    "source": "dnews",
+    "title": "시공사 선정 후 폭등한 공사비…CM에 눈돌리는 재건축 조합",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610121503150980213",
+    "publishedAt": "2026-10-13T03:00:00.000Z",
+    "content": "수년 전 시공사를 선정한 재건축 사업장들을 중심으로 공사비 증액을 둘러싼 갈등이 심화하면서, 전문 건설사업관리(CM) 업체를 도입해 공사비 검증과 도급계약 협상에 나서는 조합이 빠르게 늘고 있다. 인건비와 원자재 가격이 급등한 상황에서 전문성을 갖춘 CM사를 통해 불필 ...",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-10-13T03:00:00.000Z"
+  },
+  {
     "id": "fe90bab914c0c4b85a83282c2a027f25",
     "source": "dnews",
     "title": "조달청, 평가위원 관리 더 깐깐해진다",
@@ -75,6 +129,38 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-10-13T03:00:00.000Z"
+  },
+  {
+    "id": "f2f416042d972bc8785e85c92799175d",
+    "source": "dnews",
+    "title": "서울시, 내년 공공기관 통합채용 확대 시행…23개 기관 참여",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131014086060301",
+    "publishedAt": "2026-10-13T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-13T03:00:00.000Z"
+  },
+  {
+    "id": "d4992e931444371ae65a67e4f6049fd6",
+    "source": "dnews",
+    "title": "서울시 노인복지관, 저녁까지 연다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131020107100306",
+    "publishedAt": "2026-10-13T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-13T03:00:00.000Z"
+  },
+  {
+    "id": "f7f103f6a970395c6eb7fd4e7c5e0016",
+    "source": "engdaily",
+    "title": "남부내륙철도 1·7·9공구 CM 발주 임박…대표사 자리 놓고 물밑 경쟁",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23552",
+    "publishedAt": "2026-10-13T01:49:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-10-13T01:49:00.000Z"
   },
   {
     "id": "72610d244db1b6ef87a6329b2fc7bdf2",
