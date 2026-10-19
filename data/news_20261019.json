@@ -1,5 +1,16 @@
 [
   {
+    "id": "b3ccbf40d9c6c2059f471673b984abeb",
+    "source": "dnews",
+    "title": "직스테크놀로지, 한성대 학생들의 AI 실무교육 기회 넓힌다…10억 원 상당 SW 지원",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610190959028540088",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "직스테크놀로지가 10월 16일 한성대학교와 AI 인재 양성 및 실무교육 지원을 위한 업무협약(MOU)을 체결했다. 협약에 따라 총 10억 원 상당의 직스캐드 AX(ZYXCAD AX), 직스 스페이스(ZYX SPACE), 다이브(DIVE)를 3년간 무상 제공한다. 학생들 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
     "id": "cc11c0b953a4eab84e337233cc6d25f4",
     "source": "dnews",
     "title": "건설업계 新 먹거리로‘AIDC’떠올랐지만…‘빛 좋은 개살구’",
@@ -88,6 +99,17 @@
     "createdAt": "2026-10-19T03:00:00.000Z"
   },
   {
+    "id": "260101f42c95d1f57adc4850e05bf8dc",
+    "source": "dnews",
+    "title": "옛 성동구치소 4부지 민관동행사업 공모, 위베스트운용 컨소시엄 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191141562170121",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시가 공공기여로 확보해 둔 옛 성동구치소 특별계획구역 4부지를 ‘청소년 문화복합시설’로 탈바꿈시키는 사업을 추진한다.시는 청소년 인구가 많은 이 일대에 필요한 시설을 민간의 창의적 아이디어로 빠르게 공급하기 위해 대상지 공모형 민간투자사업(민 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
     "id": "72ec8c2b7658ac619b2340514b993507",
     "source": "dnews",
     "title": "[이번주 재개발ㆍ재건축] 금정역세권1ㆍ용호1구역 등 7곳서 시공사 선정총회 개최",
@@ -132,6 +154,28 @@
     "createdAt": "2026-10-19T03:00:00.000Z"
   },
   {
+    "id": "087573a4b6882c777ba5d511c4c0f123",
+    "source": "dnews",
+    "title": "대우건설, 자회사 첫 투자 영화 ‘여전히 찬란하게’21일 개봉",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191012099610095",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "대우건설(대표이사 이강석)은 “자회사(스튜디오 푸르지오)가 본격적인 문화 콘텐츠 투자에 나선 가운데 첫 투자 작품인 영화 ‘여전히 찬란하게’가 오는 21일 전국 개봉한다”고 19일 밝혔다.대우건설 자회사인 스튜디오 푸르지오는 기업의 투자 역량을 문화 콘텐츠 분야로 확장 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "id": "6cd3e9e506083bd608c922442dad04f2",
+    "source": "dnews",
+    "title": "대경 리더스포럼, 16~17일 추계 워크숍 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610181424287500029",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "[대한경제=김민수 기자]건설분야 기술 CEO(최고경영자) 모임인 대한경제 리더스포럼(회장 이상운ㆍ영풍씨앤디 대표)은 지난 16~17일에 걸쳐 전북 정읍시 내장산골프&리조트에서 ‘2026 추계 워크숍’을 개최했다고 18일 밝혔다.이번 워크숍은 AI(인공지능) 인프라 건설 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
     "id": "ec105530b0471e783e170e200bbea29b",
     "source": "dnews",
     "title": "동국대 도시정비 최고위 6기 개강… “법·정책·현장 잇는 전문가 과정”",
@@ -143,25 +187,47 @@
     "createdAt": "2026-10-19T03:00:00.000Z"
   },
   {
-    "id": "b3ccbf40d9c6c2059f471673b984abeb",
+    "id": "4b5b2cf59a66172873b812f292190858",
     "source": "dnews",
-    "title": "직스테크놀로지, 한성대 학생들의 AI 실무교육 기회 넓힌다…10억 원 상당 SW 지원",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610190959028540088",
-    "publishedAt": "2026-10-19T00:59:00.000Z",
-    "content": "직스테크놀로지가 10월 16일 한성대학교와 AI 인재 양성 및 실무교육 지원을 위한 업무협약(MOU)을 체결했다. 협약에 따라 총 10억 원 상당의 직스캐드 AX(ZYXCAD AX), 직스 스페이스(ZYX SPACE), 다이브(DIVE)를 3년간 무상 제공한다. 학생들 ...",
+    "title": "치킨·바비큐 등 한강서 즐기는 가을미식회",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191032596370102",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "",
     "summary": null,
-    "filter": "AI",
-    "createdAt": "2026-10-19T00:59:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
   },
   {
-    "id": "6cd3e9e506083bd608c922442dad04f2",
+    "id": "2c7b9c9ec4daec00e7aefaa8bf557db7",
     "source": "dnews",
-    "title": "대경 리더스포럼, 16~17일 추계 워크숍 개최",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610181424287500029",
-    "publishedAt": "2026-10-18T20:40:00.000Z",
-    "content": "[대한경제=김민수 기자]건설분야 기술 CEO(최고경영자) 모임인 대한경제 리더스포럼(회장 이상운ㆍ영풍씨앤디 대표)은 지난 16~17일에 걸쳐 전북 정읍시 내장산골프&리조트에서 ‘2026 추계 워크숍’을 개최했다고 18일 밝혔다.이번 워크숍은 AI(인공지능) 인프라 건설 ...",
+    "title": "덕수궁길 빛나는 ‘정동야행’ 돌아왔다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191059424930110",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "",
     "summary": null,
-    "filter": "AI",
-    "createdAt": "2026-10-18T20:40:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "id": "49ddd2bc398ba6a6ae9a7cdc77b4e193",
+    "source": "dnews",
+    "title": "서울시, 야장 살리는 ‘달빛상품권’ 100억 발행",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191017374370099",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "id": "3ab764e1700cd9ecf5bf01ad32f55532",
+    "source": "dnews",
+    "title": "OCI홀딩스, 멸종위기 식물 보전 나선다… 포천에 생물다양성 보전원 조성",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191038050670104",
+    "publishedAt": "2026-10-19T01:39:00.000Z",
+    "content": "[대한경제=이계풍 기자]OCI홀딩스가 멸종위기 희귀·특산식물 보호를 위한 생물다양성 보전 프로젝트에 나섰다.OCI홀딩스는 지난 17일 경기 포천시 OCI 포천연수원 인근에서 임직원과 가족 70여 명이 참여한 가운데 희귀·특산식물 식재 봉사활동을 진행했다고 19일 밝혔다 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T01:39:00.000Z"
   }
 ]
