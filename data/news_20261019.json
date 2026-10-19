@@ -1,5 +1,69 @@
 [
   {
+    "id": "da6fead4c1d2fa2e3466e11f1471cc21",
+    "source": "dnews",
+    "title": "[결혼] 안성수(대한건설협회 부산광역시회 사원)씨",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191416115950154",
+    "publishedAt": "2026-10-19T05:19:00.000Z",
+    "content": "△안성수(대한건설협회 부산광역시회 사원)씨 = 25일(일) 오후 1시, 창원 GL컨벤션 가든홀(경남 창원시 의창구 사림동 168-3)(051)906 - 9000〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T05:19:00.000Z"
+  },
+  {
+    "id": "2bde62ab186b5613e027744bce45cb7f",
+    "source": "dnews",
+    "title": "두산밥캣 ‘로그X3’, 레드닷 어워드 디자인 콘셉트 부문 수상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610190930155990078",
+    "publishedAt": "2026-10-19T05:14:00.000Z",
+    "content": "[대한경제=장진우 기자] 두산밥캣은 미래형 콘셉트 제품‘로그X3(RogueX3)’가 세계 3대 디자인상 중 하나인 레드닷 어워드(Red Dot Award)‘디자인 콘셉트’ 부문에서 본상을 수상했다고 19일 밝혔다. 지난 2024년 로그X2에 이어 로그X 플랫폼으로 거둔 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T05:14:00.000Z"
+  },
+  {
+    "id": "1d372203bc1cd6ae4541d19cf281b7db",
+    "source": "engdaily",
+    "title": "10월 3주 엔지니어링 주간 입낙찰 동향",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23609",
+    "publishedAt": "2026-10-19T05:12:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-19T05:12:00.000Z"
+  },
+  {
+    "id": "e01d892addac7ad0905d60e8e377b4f8",
+    "source": "engdaily",
+    "title": "위즈코어, 피지컬AI 결합 제조 현장 실증",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23608",
+    "publishedAt": "2026-10-19T04:54:00.000Z",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-19T04:54:00.000Z"
+  },
+  {
+    "id": "7da355e14ba422508f44728bb3b7b1fd",
+    "source": "dnews",
+    "title": "SP삼화, 창립 80주년 '시그니처 데이' 개최…100년 소재 기업으로 도약",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610190943269810084",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]SP삼화는 지난 16일 JW메리어트 호텔에서 임직원과 주요 파트너사 관계자 등 약 150명이 참석한 가운데, 창립 80주년을 맞아 ‘SP삼화 시그니처 데이’를 개최하고 신규 비전과 중장기 전략을 발표했다고 19일 밝혔다.이날 SP삼화는 ‘100년 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "id": "2d25e815baffe7cc25790feca4589bb6",
+    "source": "dnews",
+    "title": "쌍용C&E-동국대학교일산한방병원과 의료봉사로 ‘지역 상생’ 실천",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191353181520145",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]쌍용C&E는 지난 18일 동국대학교일산한방병원과 동해공장 인근 지역주민을 대상으로 한방 의료봉사활동을 진행했다고 19일 밝혔다. 쌍용C&E는 2011년부터 코로나 대유행기를 제외하고 13년째 동국대학교일산병원과 동해와 영월지역 내 소외계층ㆍ어르신 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
     "id": "b3ccbf40d9c6c2059f471673b984abeb",
     "source": "dnews",
     "title": "직스테크놀로지, 한성대 학생들의 AI 실무교육 기회 넓힌다…10억 원 상당 SW 지원",
@@ -46,7 +110,7 @@
   {
     "id": "7f1e849a430e33290069e33186a51d60",
     "source": "dnews",
-    "title": "[인테리어 특집]넥시스가 제안하는 가을 인테리어",
+    "title": "[인테리어 특집]넥시스디자인그룹이 제안하는 가을 인테리어",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610161026239730864",
     "publishedAt": "2026-10-19T03:00:00.000Z",
     "content": "소파‘라르고’ㆍ다이닝 테이블‘마레노’소재가 그대로 보이는 마감으로 차별화[대한경제=서용원 기자]넥시스디자인그룹의 테일러드리빙 브랜드 클란트는‘풍성하게 머무는 가을(Glamorous Fall)’을인테리어 키워드로 제안한다. 클란트는 올해 소파, 라운지 체어, 커피ㆍ사이드 ...",
@@ -143,12 +207,12 @@
     "createdAt": "2026-10-19T03:00:00.000Z"
   },
   {
-    "id": "6db51ae34437e0d9e3c784962aba5512",
+    "id": "3ab764e1700cd9ecf5bf01ad32f55532",
     "source": "dnews",
-    "title": "[실거주 유도 정책의 그늘]① 엇나간 실거주 유도책… ‘전세난민’ 속출",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180238278940994",
+    "title": "OCI홀딩스, 멸종위기 식물 보전 나선다… 포천에 생물다양성 보전원 조성",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191038050670104",
     "publishedAt": "2026-10-19T03:00:00.000Z",
-    "content": "최근 1년새 전세계약 20%나 급감가격상승률은 2.59→9.81% ‘쑥’장특공제 개편ㆍ보유세도‘악영향’[대한경제=황은우 기자]정부가 집값을 잡으려고 내놓은 실거주 유도 정책이 ‘전세가격 급등’과 ‘월세화 가속도’라는 부메랑으로 돌아왔다. 10ㆍ15 대책 시행이 1년을 ...",
+    "content": "[대한경제=이계풍 기자]OCI홀딩스가 멸종위기 희귀·특산식물 보호를 위한 생물다양성 보전 프로젝트에 나섰다.OCI홀딩스는 지난 17일 경기 포천시 OCI 포천연수원 인근에서 임직원과 가족 70여 명이 참여한 가운데 희귀·특산식물 식재 봉사활동을 진행했다고 19일 밝혔다 ...",
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-10-19T03:00:00.000Z"
@@ -187,6 +251,28 @@
     "createdAt": "2026-10-19T03:00:00.000Z"
   },
   {
+    "id": "4de510b9e82da27f90fbf7e66c104136",
+    "source": "dnews",
+    "title": "[포토] 우리 한복, 바르게 입으세요",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191409081480151",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "id": "878d4299d4f520e7cb934feb29535809",
+    "source": "dnews",
+    "title": "송파구, 민선 9기 100대 공약 확정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191336003430140",
+    "publishedAt": "2026-10-19T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-19T03:00:00.000Z"
+  },
+  {
     "id": "4b5b2cf59a66172873b812f292190858",
     "source": "dnews",
     "title": "치킨·바비큐 등 한강서 즐기는 가을미식회",
@@ -220,14 +306,14 @@
     "createdAt": "2026-10-19T03:00:00.000Z"
   },
   {
-    "id": "3ab764e1700cd9ecf5bf01ad32f55532",
+    "id": "6db51ae34437e0d9e3c784962aba5512",
     "source": "dnews",
-    "title": "OCI홀딩스, 멸종위기 식물 보전 나선다… 포천에 생물다양성 보전원 조성",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191038050670104",
-    "publishedAt": "2026-10-19T01:39:00.000Z",
-    "content": "[대한경제=이계풍 기자]OCI홀딩스가 멸종위기 희귀·특산식물 보호를 위한 생물다양성 보전 프로젝트에 나섰다.OCI홀딩스는 지난 17일 경기 포천시 OCI 포천연수원 인근에서 임직원과 가족 70여 명이 참여한 가운데 희귀·특산식물 식재 봉사활동을 진행했다고 19일 밝혔다 ...",
+    "title": "[실거주 유도 정책의 그늘]① 엇나간 실거주 유도책… ‘전세난민’ 속출",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180238278940994",
+    "publishedAt": "2026-10-18T19:40:00.000Z",
+    "content": "최근 1년새 전세계약 20%나 급감가격상승률은 2.59→9.81% ‘쑥’장특공제 개편ㆍ보유세도‘악영향’[대한경제=황은우 기자]정부가 집값을 잡으려고 내놓은 실거주 유도 정책이 ‘전세가격 급등’과 ‘월세화 가속도’라는 부메랑으로 돌아왔다. 10ㆍ15 대책 시행이 1년을 ...",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-10-19T01:39:00.000Z"
+    "createdAt": "2026-10-18T19:40:00.000Z"
   }
 ]
