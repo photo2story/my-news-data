@@ -1,5 +1,38 @@
 [
   {
+    "id": "4195d93ac8ab5840ca289c5f3d4b465f",
+    "source": "dnews",
+    "title": "[부고] 김성관(삼진일렉스 회장)씨 모친상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201321285620311",
+    "publishedAt": "2026-10-20T04:21:00.000Z",
+    "content": "▲장광자(103세)씨 별세, 김성관(삼진일렉스 회장)씨 모친상=19일, 삼성서울병원 장례식장 17호실(서울 강남구 일원로 81), 발인 21일 오전 5시, 장지 인천가족공원신보훈 기자 bbang@〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-20T04:21:00.000Z"
+  },
+  {
+    "id": "e1296e71b9493aec8b381627cd9246b6",
+    "source": "dnews",
+    "title": "목동 재건축 조합 CM 도입 속속… 두각 드러내는 ‘건원엔지니어링’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151534536710781",
+    "publishedAt": "2026-10-20T03:00:00.000Z",
+    "content": "[대한경제=홍샛별 기자]서울 양천구 목동 신시가지 재건축 사업 중 조합 방식을 택한 단지들이 공사비 검증 및 협상력 강화를 위해 건설사업관리(CM) 업체 선정에 잇따라 나서고 있다. 이런 가운데 건원엔지니어링이 목동 대형 단지들의 선택을 연이어 받아 눈길을 끈다. 19 ...",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "id": "c5c7de620714bd07d472ca869ee2545a",
+    "source": "dnews",
+    "title": "가덕도신공항 설계단계 CM…한미글로벌 ‘수의계약’ 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191124404780118",
+    "publishedAt": "2026-10-20T03:00:00.000Z",
+    "content": "[대한경제=홍샛별 기자]한미글로벌이 두 차례 유찰 끝에 가덕도신공항 건설사업의 여객터미널 및 부대건물 설계단계 건설사업관리(CM) 용역을 수의계약으로 따냈다. 19일 관련 업계에 따르면 국토교통부 가덕도신공항건설공단이 발주한 ‘가덕도신공항 여객터미널 및 부대건물 설계단 ...",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-10-20T03:00:00.000Z"
+  },
+  {
     "id": "6198ccc1ad54ab9e6c431cc866b05b64",
     "source": "dnews",
     "title": "건설근로자공제회, ‘휴게시설 개선지원 사업’ 실시",
@@ -88,14 +121,88 @@
     "createdAt": "2026-10-20T03:00:00.000Z"
   },
   {
-    "id": "c5c7de620714bd07d472ca869ee2545a",
+    "id": "fbf1e567e1309450bad18dc35b25daad",
     "source": "dnews",
-    "title": "한미글로벌, 가덕도신공항 프리콘 CM 수주…2회 유찰 끝 수의계약",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191124404780118",
-    "publishedAt": "2026-10-19T23:39:00.000Z",
-    "content": "[대한경제=홍샛별 기자]한미글로벌이 두 차례 유찰 끝에 가덕도신공항 건설사업의 여객터미널 및 부대건물 설계단계 건설사업관리(CM) 용역을 수의계약으로 따냈다.19일 건축 CM 업계에 따르면 국토교통부 가덕도신공항건설공단이 발주한 ‘가덕도신공항 여객터미널 및 부대건물 설 ...",
+    "title": "[결혼] 김태균(진흥기업 대표이사)씨 아들 재현씨",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201046131010279",
+    "publishedAt": "2026-10-20T03:00:00.000Z",
+    "content": "△김태균(진흥기업 대표이사)씨 아들 재현씨= 31일(토) 낮 3시, 세빛섬 플로팅아일랜드 가빛섬 2층(서울 서초구 올림픽대로 2085-14)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
     "summary": null,
-    "filter": "건설사업관리",
-    "createdAt": "2026-10-19T23:39:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "id": "5ad4796efb23d7777674d72f3a9f8d0e",
+    "source": "dnews",
+    "title": "역삼동 빌딩 두 곳 화재로 1명 심정지·10여명 부상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201423034560332",
+    "publishedAt": "2026-10-20T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "id": "e5c414b76ff61ecf7b872bd08a5fa0fa",
+    "source": "dnews",
+    "title": "[포토] 중장년, 내 일자리는 어디에?",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201211236950302",
+    "publishedAt": "2026-10-20T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "id": "1857e4acbced15012d012450eca671b8",
+    "source": "dnews",
+    "title": "청계천의 밤, 자율주행으로 잇는다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201039328790276",
+    "publishedAt": "2026-10-20T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "id": "31946176adbd0722dcdbb9eeea205ef6",
+    "source": "dnews",
+    "title": "‘서울시 건물에너지 등급제’ 전환",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201053492120282",
+    "publishedAt": "2026-10-20T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "id": "03faf54786e54fa5355024086fc764fb",
+    "source": "engdaily",
+    "title": "“5호선 연장 속도”…김포·검단 연장, 기본계획 4파전",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23628",
+    "publishedAt": "2026-10-20T00:49:00.000Z",
+    "summary": null,
+    "filter": "기본계획",
+    "createdAt": "2026-10-20T00:49:00.000Z"
+  },
+  {
+    "id": "5b285d328651f09fad23bcb079449586",
+    "source": "engdaily",
+    "title": "고흥 우주선 철도, 국가계획 반영여부 주목",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23627",
+    "publishedAt": "2026-10-20T00:46:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-10-20T00:46:00.000Z"
+  },
+  {
+    "id": "f4c590b9bf5eea9fa3fded0d0eeb3803",
+    "source": "engdaily",
+    "title": "추미애 도지사 “경기도에 공항 없는 것 말 안돼…타당성조사 재개”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23626",
+    "publishedAt": "2026-10-20T00:42:00.000Z",
+    "summary": null,
+    "filter": "타당성조사",
+    "createdAt": "2026-10-20T00:42:00.000Z"
   }
 ]
