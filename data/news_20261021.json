@@ -1,5 +1,70 @@
 [
   {
+    "id": "e39f0faf27d33c1ec3d4f0454766fc27",
+    "source": "dnews",
+    "title": "[도시정비시장 풍향계] 전농15구역, 12일 만에 동의율 50% 돌파…재개발 속도전",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211436459260538",
+    "publishedAt": "2026-10-21T05:38:00.000Z",
+    "content": "[대한경제=이종무 기자]서울 동대문구 전농15구역이 본격적인 재개발 사업 추진 발판을 마련했다.21일 도시정비업계에 따르면 전농15구역 재개발 조합설립 예비추진위원회는 지난 16일 동대문구청에 구역 지정 요청 동의서를 제출했다. 전체 토지등소유자 가운데 약 54%가 구 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T05:38:00.000Z"
+  },
+  {
+    "id": "06428880729b471f6fc7ce5063743139",
+    "source": "engdaily",
+    "title": "철도공단 하반기 정밀안전진단 발주…489억원 규모",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23647",
+    "publishedAt": "2026-10-21T05:19:00.000Z",
+    "summary": null,
+    "filter": "안전진단",
+    "createdAt": "2026-10-21T05:19:00.000Z"
+  },
+  {
+    "id": "6c02ca8bbd408c20b01690e3844ee343",
+    "source": "dnews",
+    "title": "새만금 수변도시 하수처리시설 턴키 유찰",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201640566380373",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "턴키(설계ㆍ시공 일괄입찰) 방식인 ‘새만금 스마트 수변도시 공공하수처리시설 건설공사’가 계룡건설산업 컨소시엄의 단독응찰로 유찰됐다.20일 새만금개발공사에 따르면 이 공사에 대한 입찰참가자격 사전심사(PQ) 접수를 마감한 결과, 계룡건설산업 컨소시엄만 참여했다.컨소시엄은 ...",
+    "summary": null,
+    "filter": "턴키",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "bc351eae30a4d1d20a9d3fe05c87a2c2",
+    "source": "dnews",
+    "title": "삼우씨엠, 신월곡1구역 재개발 건축감리 예약",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201649080580379",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "삼우씨엠건축사사무소(대표 정승진ㆍ이하 삼우씨엠)가 ‘신월곡 제1구역 도시환경정비사업 건축감리용역’ 수주에 성큼 다가섰다.20일 서울 성북구에 따르면 최근 이 용역에 대한 가격개찰 결과, 삼우씨엠이 예정가격 대비 73.116%인 115억1000만원을 써내 예비 1순위에 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "16eae36be48d03a10570333bd606dd6e",
+    "source": "dnews",
+    "title": "세종청주道 마지막 퍼즐 2공구 ‘시동’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610160948106140852",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "3180억 규모 실시설계 기술제안입찰이달 30일 PQ…계룡ㆍ대보등 물망도로공사, 영동선 확장공사 1공구 발주2543억 종심제…12월 중순 시공사 윤곽[대한경제=백경민 기자]한국도로공사가 세종~청주 고속도로의 마지막 퍼즐을 맞춘다. 앞서 종합심사낙찰제인 1ㆍ3ㆍ4공구에 ...",
+    "summary": null,
+    "filter": "실시설계",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "a0b6d342daaadaf2264c0f049d1964db",
+    "source": "dnews",
+    "title": "효율ㆍ환경ㆍ미관 다잡은 ‘아트 페이퍼’ 주목",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610202130087100392",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "[대한경제=김승수 기자] 공연ㆍ마라톤 등 행사 때마다 거리를 뒤덮지만, 행사가 끝나면 쓰레기로 남는 현수막. 행사를 알리는 유용한 홍보 수단이었지만, 짧은 사용 기간과 폐기 과정에서 발생하는 환경 부담은 풀어야 할 숙제다. 이 같은 현수막의 자리를 첨단 디스플레이 기 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
     "id": "a8ae9e35a10cd2cce32b6ead41fd8653",
     "source": "dnews",
     "title": "[복합환승센터, 공공에 달렸다]① 복합환승센터 개발 추진 봇물…공공 역할이 관건",
@@ -44,14 +109,124 @@
     "createdAt": "2026-10-21T03:00:00.000Z"
   },
   {
-    "id": "a0b6d342daaadaf2264c0f049d1964db",
+    "id": "ca5672eedf0f8d846b61a4145c2e9fa3",
     "source": "dnews",
-    "title": "효율ㆍ환경ㆍ미관 다잡은 ‘아트 페이퍼’ 주목",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610202130087100392",
-    "publishedAt": "2026-10-20T21:00:00.000Z",
-    "content": "[대한경제=김승수 기자] 공연ㆍ마라톤 등 행사 때마다 거리를 뒤덮지만, 행사가 끝나면 쓰레기로 남는 현수막. 행사를 알리는 유용한 홍보 수단이었지만, 짧은 사용 기간과 폐기 과정에서 발생하는 환경 부담은 풀어야 할 숙제다. 이 같은 현수막의 자리를 첨단 디스플레이 기 ...",
+    "title": "서울시, ‘공사비120’ 문 열어",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211242236330497",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시가 재개발ㆍ재건축 정비사업의 공사비 갈등을 예방하고 신속한 해결을 지원하기 위한 ‘공사비120센터’를 21일부터 운영한다.공사비120센터는 시공자 선정부터 공사도급계약, 공사비 증액ㆍ검증, 갈등 조정ㆍ중재 및 사후관리까지 공사비 관련 사항을 ...",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-10-20T21:00:00.000Z"
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "7cf3a76cbe4c1def44568bd43256e508",
+    "source": "dnews",
+    "title": "아이에스동서, 지역건설산업 발전 기여 ‘울산시장 표창’ 수상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211211580880495",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]아이에스동서(IS동서)는 지난 20일 울산전시컨벤션센터에서 열린 ‘2026 대형건설사와 지역업체 만남의 날’ 행사에서 지역건설산업 발전에 기여한 공로로 울산광역시장 표창을 수상했다고 21일 밝혔다.울산광역시가 주최한 이번 행사는 대형건설사와 지역 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "c8a0e70106eaa4421421cf20717f330b",
+    "source": "dnews",
+    "title": "하이멕, 장애인ㆍ지역주민 화합축제 후원",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201423135400333",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "영등포장애복지관에 300만원 전달지역사회 나눔 실천 앞장[대한경제=전동훈 기자]통합 엔지니어링 전문기업 하이멕(대표이사 연창근)은 서울시립영등포장애인복지관이 주최하는 제11회 ‘휠더월드(Wheel the World)’에 후원금 300만원을 전달했다고 20일 밝혔다.후원 ...",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "4aaf3b604c30079c4ffccc9decf0375f",
+    "source": "dnews",
+    "title": "서울시 서울건축문화제 4만명 참여 성료",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211231182860496",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울시는 지난달 15일부터 이달 11일까지 서울도시건축전시관에서 개최한 ‘2026 제18회 서울건축문화제’가 4만여명의 시민과 건축가 참여 속에 성료했다고 21일 밝혔다.‘어셈블링 서울(Assembling Seoul) : 서울의 발견’을 주제로 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "241570cf5e4abaeb5cf495170ddad659",
+    "source": "dnews",
+    "title": "[결혼] 서원영(한화 건설부문 수주지원팀 사원)씨",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211116546730487",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "△서원영(한화 건설부문 수주지원팀 사원)씨= 31일(토) 오후 2시반, 그레이스파티 인천점(인천 부평구 광장로16 부평역사 5층)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "737885030323540561a543dd5ed676fc",
+    "source": "dnews",
+    "title": "[결혼] 조홍빈(동부건설 토목사업본부장)씨 아들 민규씨",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211116112200486",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "△조홍빈(동부건설 토목사업본부장)씨 아들 민규씨= 25일(일) 오전 11시, 서울대학교 연구공원 웨딩홀(서울 관악구 신림동 산 56-1)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "5425cbbb315a974bbd3fda300d27d6bf",
+    "source": "dnews",
+    "title": "[포토] 통합돌봄 현장 찾은 오세훈 시장",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211435164780536",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "92832a724a2048b3aea34dc4e3bdd14c",
+    "source": "dnews",
+    "title": "정비사업 지연될라…서울 중구민 3500명 한양 수도성곽 세..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211350113650515",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "54a8d1e140a150917ad5b3ccf9df316c",
+    "source": "dnews",
+    "title": "서울 도심 태양광, 겹쳐서 더 높인다…차세대 탠덤 태양광 ..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211056430790470",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "태양광",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "3f8123d386afce4351039c62b46da7ca",
+    "source": "dnews",
+    "title": "서울시, 수도요금 관리·민원서비스 싹 바꾼다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211012356010454",
+    "publishedAt": "2026-10-21T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-21T03:00:00.000Z"
+  },
+  {
+    "id": "df33b7e19e9723bf1c7174894c2c4c4d",
+    "source": "dnews",
+    "title": "公共대금 지연에…ENG업계 유동성 ‘비상’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201219273020304",
+    "publishedAt": "2026-10-21T02:00:00.000Z",
+    "content": "매출채권 회수 기간 2년 새 25일 증가 선금제도 개편에 초기자금 제약인건비 부담 가중…자금줄 한계중소·지역 협력사로 파장 확산 우려[대한경제=전동훈 기자]건설엔지니어링업계의 유동성 확보에 비상등이 켜졌다. 공공사업 용역대금 수령이 지연되는 가운데 인력 확충에 따른 인 ...",
+    "summary": null,
+    "filter": "건설엔지니어링",
+    "createdAt": "2026-10-21T02:00:00.000Z"
   }
 ]
