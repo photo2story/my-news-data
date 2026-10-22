@@ -1,5 +1,81 @@
 [
   {
+    "id": "082b82d6208a0468b317549c73669e23",
+    "source": "dnews",
+    "title": "GS건설, 호주 오스넷과 MOU…에너지 사업 확대",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221326365910718",
+    "publishedAt": "2026-10-22T05:25:00.000Z",
+    "content": "[대한경제=김민수 기자]GS건설은 호주 빅토리아주 최대 에너지 전력망 운영사인 오스넷(AusNet)과 21일(현지시간) 오스넷 본사에서 에너지 및 인프라 분야 공동 사업 발굴을 위한 MOU(업무협약)을 체결했다고 22일 밝혔다.GS건설과 오스넷은 현재 호주 뉴사우스웨일 ...",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-10-22T05:25:00.000Z"
+  },
+  {
+    "id": "d7ca2a090e8b69b3e8b0a6a1a35f144c",
+    "source": "engdaily",
+    "title": "대한토목학회, 산업환경시설 내진설계기준 활성화 MOA 체결",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23655",
+    "publishedAt": "2026-10-22T04:35:00.000Z",
+    "summary": null,
+    "filter": "토목",
+    "createdAt": "2026-10-22T04:35:00.000Z"
+  },
+  {
+    "id": "9abf808c57cdf496e7c318ef9d11e4be",
+    "source": "dnews",
+    "title": "[부고] 정윤근(재성건설 영업본부장)씨 부친상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221316175850713",
+    "publishedAt": "2026-10-22T04:16:00.000Z",
+    "content": "▲정대영씨 별세, 정윤근(재성건설 영업본부장)씨 부친상=21일, 충북 영동병원장례식장 3빈소(충북 영동군 영동읍 대학로 106), 발인 23일 오전 9시30분. (043)740-9000〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-22T04:16:00.000Z"
+  },
+  {
+    "id": "4cece92adf2023a1bca85921faef0fe3",
+    "source": "dnews",
+    "title": "새만금 액화수소 탱크 제조공장 준공…수소 거점 도약",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221357376410729",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "[대한경제=이재현 기자]새만금개발청은 22일 디앨 주식회사가 새만금 국가산업단지에 설립한 액화수소 탱크 트레일러 등 수소 저장ㆍ운송 장비 제조공장 준공식을 개최했다고 밝혔다.수소 저장·운송 장비 제조공장은 107억원을 들여 새만금 국가산업단지 1공구에 건설됐다.이날 준 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "2b39830f460700089f5cb0081aa64e2d",
+    "source": "dnews",
+    "title": "‘2026 한국건설·안전박람회&도시안전기술박람회’ 성황리 폐막",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221342274620721",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "[대한경제=김민수 기자] 킨텍스(대표이사 이민우)는 지난 14∼16일 킨텍스에서 개최된 ‘2026 한국건설ㆍ안전박람회(K-CONSAFETY EXPO 2026)’와 ‘2026 도시안전기술박람회(Urban Safety Technology Show 2026)’가 총 1만20 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "3421b0c168d75a7f7282f782a467d617",
+    "source": "dnews",
+    "title": "발표 3년 반 맞은 신규 국가산단 15곳…엇갈린 사업 속도",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071407569680774",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "대구ㆍ완주ㆍ안동 예타 통과…창원은 환경ㆍ비용 변수[대한경제=안재민 기자]정부가 미래 첨단산업 육성을 위해 전국 15곳을 신규 국가산업단지 후보지로 선정한 지 3년 반이 지난 가운데사업별 추진 속도가 엇갈리고 있다.용인 첨단시스템반도체 클러스터는 조성공사 단계에 진입한 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "45a3bd46963aa8d5a4e1f3b96a4645b6",
+    "source": "dnews",
+    "title": "개포 경우현, 재건축 설계자 재선정 수순…과반득표 무산돼 ‘부결’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211511264220549",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "[대한경제=홍샛별 기자]강남권 대형 재건축 단지이자 현상설계공모로 설계 업계의 비상한 관심을 모았던 서울 강남구 개포동 경우현(경남·우성3차·현대1차) 재건축 정비사업의 설계자 선정이 다음 총회로 미뤄졌다. 이번 총회에서 과반수 득표를 얻은 설계자가 나오지 않으면서, ...",
+    "summary": null,
+    "filter": "설계공모",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
     "id": "f174cae3bfac1260d1b9c3f7bf577248",
     "source": "dnews",
     "title": "삼성E&A, 3분기 영업익 5006억원…전년比 183.6%↑",
@@ -46,12 +122,67 @@
   {
     "id": "23fd3834effb28737d70c0f5b99d2007",
     "source": "dnews",
-    "title": "환경 규제ㆍ세제 부담 가중…‘이중고’에 빠진 시멘트산업",
+    "title": "환경 규제 부담 떠안은 시멘트산업",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211327452620502",
     "publishedAt": "2026-10-22T03:00:00.000Z",
-    "content": "질소산화물 배출허용기준 조정 추진저감설비 설치 필요… 비용 걸림돌대체연료 사용제한 압박도 악영향[대한경제=서용원 기자]가뜩이나 수요가 큰 폭 감소하면서 어려움을 겪고 있는 시멘트산업이 환경 규제 강화와 세금 부담 가중이라는 이중고에 빠졌다.이대로라면 사실상 시멘트공장 ...",
+    "content": "질소산화물 배출허용기준 조정 추진저감설비 설치 필요… 비용 걸림돌[대한경제=서용원 기자] 가뜩이나 수요가 큰 폭 감소하면서 어려움을 겪고 있는 시멘트산업이 환경 규제 강화의 늪에 빠졌다.이대로라면 사실상 시멘트공장 문을 닫아야 하는 것 아니냐는 우려의 목소리가 나올 정 ...",
     "summary": null,
     "filter": "soc",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "efbc7e42a5affb8cf94a664d14556773",
+    "source": "dnews",
+    "title": "[단독] 4개월 만에 나온 결론이 “동의서 다시 받아라”… 종로구, 창신 재개발 반려 ‘가닥’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221400382700732",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울 종로구 창신동 일대 재개발 사업장(창신9ㆍ10구역)이 관할 구청의 ‘동의서 전면 재징구’ 요구로 사업 중단 위기에 직면했다. 수개월에 걸쳐 법정 동의율을 확보해 접수한 주민들에게 종로구청이 접수 4개월 만에 서류를 반려하고 처음부터 다시 받 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "7ba97f7bc13922c02c11a3295b84129f",
+    "source": "dnews",
+    "title": "세운4구역, 인허가 막힌 22년간 착공 못 보고 50여 명 숨졌다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221126561070698",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]서울 종로구 세운재정비촉진지구 내 세운4구역 토지소유자 및 주민들이 국가유산청을 상대로 세계유산영향평가 요구의 법적 근거와 행정 형평성를 내용으로 한 공개질의서를 전달했다. 지난 2004년 정비구역 지정 이후 22년간 착공이 지연된 상황에서, 국 ...",
+    "summary": null,
+    "filter": "영향평가",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "001181b2bda0a148f1aeba01fccb3af8",
+    "source": "dnews",
+    "title": "[결혼] 신범희(대우건설 공공영업관리팀 선임)씨",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221311567620712",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "△신범희(대우건설 공공영업관리팀 선임)씨=31일(토) 오후 2시, 더 청담 노블레스홀(서울 강남구 도산대로 434, 02-518-8001)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "ebc6cb0768ccbc825e6259ad68cbe199",
+    "source": "dnews",
+    "title": "[인사] 이수과천복합터널㈜",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221052063010678",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "◇이수과천복합터널㈜ <신임> △대표이사 장성재(전 롯데건설 상무)〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
+    "summary": null,
+    "filter": "터널",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "27e85bc7e934557384878bca461dfe98",
+    "source": "dnews",
+    "title": "아이디어정보기술–삼미건설, 건설 DX·AX 전환 ‘맞손’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610220826260650623",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "[대한경제=안재민 기자]아이디어정보기술(대표 유흥배)과삼미건설(대표 손일우)이 건설 현장의 디지털 전환(DX)과 인공지능 전환(AX)을 위해 손을 잡았다.두 회사는 지난 12일 서울 삼미건설 본사 회의실에서 ‘DX·AX 전환을 위한 업무협약(MOU)’을 맺었다고 22일 ...",
+    "summary": null,
+    "filter": "인공지능",
     "createdAt": "2026-10-22T03:00:00.000Z"
   },
   {
@@ -66,15 +197,26 @@
     "createdAt": "2026-10-22T03:00:00.000Z"
   },
   {
-    "id": "27e85bc7e934557384878bca461dfe98",
+    "id": "79a4dfb241c60e0b76a2037fb5ec104c",
     "source": "dnews",
-    "title": "아이디어정보기술–삼미건설, 건설 DX·AX 전환 ‘맞손’",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610220826260650623",
-    "publishedAt": "2026-10-22T01:28:00.000Z",
-    "content": "[대한경제=안재민 기자]아이디어정보기술(대표 유흥배)과삼미건설(대표 손일우)이 건설 현장의 디지털 전환(DX)과 인공지능 전환(AX)을 위해 손을 잡았다.두 회사는 지난 12일 서울 삼미건설 본사 회의실에서 ‘DX·AX 전환을 위한 업무협약(MOU)’을 맺었다고 22일 ...",
+    "title": "서울 맛집 124곳서 일주일간 특별 혜택 쏟아진다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221045195930675",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "",
     "summary": null,
-    "filter": "인공지능",
-    "createdAt": "2026-10-22T01:28:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "6df0ef29dee567a46692b8127a3b761a",
+    "source": "dnews",
+    "title": "“전통시장 화재공제 가입하세요”…서울시, 공제료 최대 ..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610220954560920655",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-22T03:00:00.000Z"
   },
   {
     "id": "58b4e44b80cc6ee61e74630efc45c327",
