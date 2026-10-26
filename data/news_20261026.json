@@ -1,5 +1,90 @@
 [
   {
+    "id": "b84fbda5947b180d55583765fdabada4",
+    "source": "engdaily",
+    "title": "공항공사, 무안공항 활주로실시설계 발주",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23681",
+    "publishedAt": "2026-10-26T04:43:00.000Z",
+    "summary": null,
+    "filter": "실시설계",
+    "createdAt": "2026-10-26T04:43:00.000Z"
+  },
+  {
+    "id": "4907834ec7535d1bd912e1dde771556c",
+    "source": "engdaily",
+    "title": "국토안전관리원, AI 플랫폼 아이디어 대학생 해커톤 개최",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23680",
+    "publishedAt": "2026-10-26T04:38:00.000Z",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-26T04:38:00.000Z"
+  },
+  {
+    "id": "47edfd030e0e74875317ac43c577f0ae",
+    "source": "dnews",
+    "title": "호반프라퍼티, 아브뉴프랑 광교서 ‘창업기업 기획전’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261146384360128",
+    "publishedAt": "2026-10-26T04:33:00.000Z",
+    "content": "창업기업 40개 참가…판로 확대 지원식품ㆍ생활용품ㆍ반려동물 용품 판매28일까지 진행…내달엔 판교점서 개최[대한경제=이종무 기자]호반그룹 호반프라퍼티는 중소벤처기업부, 한국중소벤처기업유통원과 함께 창업기업 오프라인 기획전 ‘스타터스 아틀리에’를 진행한다고 26일 밝혔다. ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T04:33:00.000Z"
+  },
+  {
+    "id": "b3971fee786b7b45572ee9e95ef9c973",
+    "source": "engdaily",
+    "title": "10월 4주 엔지니어링 주간 입낙찰 동향",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23679",
+    "publishedAt": "2026-10-26T04:28:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-26T04:28:00.000Z"
+  },
+  {
+    "id": "f178e07a8463795d55dbb692cdb89ac1",
+    "source": "dnews",
+    "title": "이도테라원, 한국남동발전과 신재생에너지 공동개발",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261215496340133",
+    "publishedAt": "2026-10-26T04:13:00.000Z",
+    "content": "[대한경제=김수정 기자] 이도테라원(대표이사 정종찬)이 한국남동발전(사장 이현빈)과 지난 23일 경남 진주 한국남동발전 본사에서 재생에너지 공동개발을 위한 양해각서(MOU)를 체결했다고 26일 밝혔다.협약은 인천 옹진군 굴업도 서측 약 40㎞ 해상에 조성할 예정인 43 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T04:13:00.000Z"
+  },
+  {
+    "id": "6906e59a5dd74c5a8e8ec586c5ea29ad",
+    "source": "dnews",
+    "title": "전북건단련, 전북 건설산업 활성화 간담회 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261224368480134",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]전북건설단체연합회(회장 소재철)는 지난 22일 김윤덕 국회의원과 지역건설업계의 애로사항을 해소하기 위한 간담회(사진)를 개최했다고 26일 밝혔다. 최근 공사물량 감소와 원자재 가격 상승으로 극심한 어려움을 겪고 있는 건설업계의 현황을 공유하고 지 ...",
+    "summary": null,
+    "filter": "건설업",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "a02efdb5cd416e85ee9375b509f7d9d8",
+    "source": "dnews",
+    "title": "건설근로자공제회, ‘건설노동자 가족 힐링여행’ 성료",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260855476000050",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]건설근로자공제회 대전지사(지사장 조원구)가 한국관광공사 대전충남지사(지사장 심홍용)와 지난 24일 건설노동자와 그 가족을 대상으로 ‘건설노동자 가족 힐링여행’ 프로그램을 진행했다고 26일 밝혔다.프로그램은 충남 보령시 일대에서 보령석탄박물관 관람 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "f95a9fbfcb9881d430e20f362b6c8419",
+    "source": "dnews",
+    "title": "건축학과 여학생 40% 넘지만…여성 임원 비율은 11% ‘뚝’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610251339161060007",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "[대한경제=홍샛별 기자]건축업계에 진출하는 여성 전문인력이 꾸준히 늘고 있지만, 경력이 쌓일수록 여성 인력 비중이 줄어들고 임원급에서는 10% 수준에 그치는 등 건축계의 ‘유리천장’이 여전히 두터운 것으로 나타났다.한국여성건축가협회(회장 서영주)는 지난 23일 서울대학 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
     "id": "4bebba4f0dcef691d13dadc0b06d4114",
     "source": "dnews",
     "title": "분당 양지마을 설계사에 ANU건축…선도지구 설계자 선정 마무리",
@@ -110,6 +195,50 @@
     "createdAt": "2026-10-26T03:00:00.000Z"
   },
   {
+    "id": "4f33ed5007a9faa91dad2b136360f08d",
+    "source": "dnews",
+    "title": "장재칠 순천향대서울병원 교수, 대한신경외과학회 이사장 취임",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260920422180058",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "[대한경제=김호윤 기자] 장재칠 순천향대학교서울병원 신경외과 교수가 오는 11월 1일 자로 대한신경외과학회 이사장에 취임한다. 임기는 2028년 10월 말까지 2년이다.장 신임 이사장은 “어려운 시기에 이사장의 중책을 맡아 어깨가 무겁다”며 “회원들의 뜻과 지혜를 모아 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "505511054c2830170d82c18c6a0b73f5",
+    "source": "dnews",
+    "title": "BAT 사천공장, 400년 역사의 마을 식수원 복원으로 지역 물 환경 개선",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260849329690046",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "BAT코리아가 경상구립대학교 연구팀과지역사회의 수자원 환경 개선에 나섰다.BAT코리아제조(이하 BAT 사천공장)는 지역사회의 오랜 수자원이었던 사천시 신기마을 우물 복원사업을 완료했다고 26일 밝혔다.이번 사업은 임승주경상국립대학교 환경공학과 교수 연구팀과 함께 추진한 ...",
+    "summary": null,
+    "filter": "수자원",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "2df8205067ed8cdc2ab5d7ef8a460c3d",
+    "source": "dnews",
+    "title": "[인터뷰] 박관열 광주시장 “지방자치 35년, 소통 넘어 ‘직통’으로 행정 혁신”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610231805180550933",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "경안시장·역세권 등 ‘직통시장실’ 가동… 국·과장 동행해 즉각적 해결책 제안하는 파격 행정용인 반도체 관로 상생 요구 결의 등 주민 자치 진화… “수도권 규제 희망으로 탈바꿈할 것”[대한경제일보 = 박범천 기자] “지난 35년간의 지방자치가 시민의 목소리를 경청하는 ' ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "b2c6cc6af4d13ac4432bbfc3865c38b8",
+    "source": "dnews",
+    "title": "“교통안전, 이용자 관점서 설계·운영 전반 살펴야”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610241949451400967",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "韓 교통안전, OECD 하위권기존 도로의 안전성 확보에 관심 필요신기술 접목ㆍ시설개선 병행 제시[대한경제=전동훈 기자]직진하던 차로가 갑자기 좌회전 전용으로 바뀌면 운전자는 뒤늦게 차로를 바꿔야 한다. 주변 차량의 차로 변경까지 겹치면 사고 위험은 급격히 커진다. 김영 ...",
+    "summary": null,
+    "filter": "도로",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
     "id": "fc89e7498f45fb3f514185b78d525bf5",
     "source": "dnews",
     "title": "“인프라 확충 넘어 이동권 보장…미래 모빌리티 정착 주력”",
@@ -143,25 +272,45 @@
     "createdAt": "2026-10-26T03:00:00.000Z"
   },
   {
-    "id": "f95a9fbfcb9881d430e20f362b6c8419",
+    "id": "63a48505136c00ec006abf41c7dd84b9",
     "source": "dnews",
-    "title": "건축학과 여학생 40% 넘지만…여성 임원 비율은 11% ‘뚝’",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610251339161060007",
-    "publishedAt": "2026-10-25T21:01:00.000Z",
-    "content": "[대한경제=홍샛별 기자]건축업계에 진출하는 여성 전문인력이 꾸준히 늘고 있지만, 경력이 쌓일수록 여성 인력 비중이 줄어들고 임원급에서는 10% 수준에 그치는 등 건축계의 ‘유리천장’이 여전히 두터운 것으로 나타났다.한국여성건축가협회(회장 서영주)는 지난 23일 서울대학 ...",
+    "title": "한강 달리며 아리수 음수대 찾는다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261100270430105",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-10-25T21:01:00.000Z"
+    "createdAt": "2026-10-26T03:00:00.000Z"
   },
   {
-    "id": "b2c6cc6af4d13ac4432bbfc3865c38b8",
+    "id": "e9e33882e0fbf98d356fe340032910a6",
     "source": "dnews",
-    "title": "“교통안전, 이용자 관점서 설계·운영 전반 살펴야”",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610241949451400967",
-    "publishedAt": "2026-10-25T21:01:00.000Z",
-    "content": "韓 교통안전, OECD 하위권기존 도로의 안전성 확보에 관심 필요신기술 접목ㆍ시설개선 병행 제시[대한경제=전동훈 기자]직진하던 차로가 갑자기 좌회전 전용으로 바뀌면 운전자는 뒤늦게 차로를 바꿔야 한다. 주변 차량의 차로 변경까지 겹치면 사고 위험은 급격히 커진다. 김영 ...",
+    "title": "[포토] 잠수교 차량 전면 통제, 보행전용교 공사 착공",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261042258770094",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "",
     "summary": null,
-    "filter": "도로",
-    "createdAt": "2026-10-25T21:01:00.000Z"
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "e6cf1623743b9f8e096319bdbbf30511",
+    "source": "engdaily",
+    "title": "유신, 5호선 김포·검단 연장사업 밑그림 짠다",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23678",
+    "publishedAt": "2026-10-26T01:37:00.000Z",
+    "summary": null,
+    "filter": "5호선",
+    "createdAt": "2026-10-26T01:37:00.000Z"
+  },
+  {
+    "id": "5776a0b94ed3987fbf390ace2aa87d99",
+    "source": "engdaily",
+    "title": "미국 조선소 시장, 대한민국 엔지니어링 업계는 여전히 '그림의 떡'",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23677",
+    "publishedAt": "2026-10-26T01:23:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-26T01:23:00.000Z"
   }
 ]
