@@ -1,5 +1,36 @@
 [
   {
+    "id": "fb4fb23ae58b3ce6081cca3b6fac168d",
+    "source": "engdaily",
+    "title": "“중국 JV 제안 난항”…베트남 북남고속철도 FS 지연, 국내사에 기회",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23659",
+    "publishedAt": "2026-10-22T06:31:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-10-22T06:31:00.000Z"
+  },
+  {
+    "id": "f98f6fcd11c8848f90ed206246b2c773",
+    "source": "dnews",
+    "title": "CJ대한통운 건설부문, KT클라우드 안산 AI데이터센터 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221517173160761",
+    "publishedAt": "2026-10-22T06:20:00.000Z",
+    "content": "수전용량 50㎿ㆍIT 로드 32㎿규모지하 2층~지상 9층…공사비 3150억원[대한경제=이종무 기자]CJ대한통운 건설부문은 KT클라우드 안산 AI(인공지능) 데이터센터 신축 공사를 수주했다고 22일 발표했다.KT클라우드 안산 AI 데이터센터는 경기 안산 반월 국가산업단지 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-22T06:20:00.000Z"
+  },
+  {
+    "id": "e0df7779c317464472b85d99e6c8d225",
+    "source": "engdaily",
+    "title": "엔지니어링 글로벌 인력양성 과정 연말 수강생 모집",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23657",
+    "publishedAt": "2026-10-22T06:11:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-22T06:11:00.000Z"
+  },
+  {
     "id": "0b2609f0879e5efe7bcaf8a3e808f11b",
     "source": "dnews",
     "title": "동국제강 스틸샵, 하나은행ㆍ하나카드와 공급망 금융 협약",
@@ -247,6 +278,28 @@
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610220954560920655",
     "publishedAt": "2026-10-22T03:00:00.000Z",
     "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "f472d766dc3e9c732dab9af7d964a2d1",
+    "source": "dnews",
+    "title": "“AI는 이제 범용재…인간의 ‘손길’과 ‘안목’이 경쟁력”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221042589360672",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "제작ㆍ유통ㆍ저장 비용 0으로 수렴소비자는 ‘포모’와 ‘조모’ 사이에 공존[대한경제=이근우 기자]인공지능(AI)이 스마트폰처럼 일상의 기본값이 되면서 기업 경쟁력은 기술 자체보다 인간의 ‘손길’과 ‘안목’에서 갈릴 것이라는 진단이 나왔다.한국경영자총협회는 22일 서울 중 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-10-22T03:00:00.000Z"
+  },
+  {
+    "id": "3442c4feb12ce7c82ee2933d6b68ba73",
+    "source": "dnews",
+    "title": "우미희망재단, 장애아 전문 어린이집 ‘공간복지’ 지원",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221527074150767",
+    "publishedAt": "2026-10-22T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]우미희망재단은 전국 장애아 전문 어린이집 6곳에 공간복지 지원 사업 ‘2026년 리빙인하모니’를 진행했다고 22일 밝혔다.리빙인하모니는 우미희망재단이 2022년부터 사회복지법인 따뜻한동행과 함께 이어온 장애인 교육 환경 개선 사업이다. 장애 아동 ...",
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-10-22T03:00:00.000Z"

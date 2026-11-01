@@ -1,5 +1,35 @@
 [
   {
+    "id": "ec8e67c57e8b6eac9e1e577d213a3cbe",
+    "source": "engdaily",
+    "title": "양부남 의원 “공사 낙찰하한율 올렸는데 엔지니어링은 왜 안 올리나”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23689",
+    "publishedAt": "2026-10-26T14:03:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-10-26T14:03:00.000Z"
+  },
+  {
+    "id": "ee8bf0298c6183c900d00999a5a5bfc8",
+    "source": "engdaily",
+    "title": "KDI, 예타 연구진 공고…8호선연장·호남반도체 폐수시설 포함",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23684",
+    "publishedAt": "2026-10-26T08:54:00.000Z",
+    "summary": null,
+    "filter": "8호선",
+    "createdAt": "2026-10-26T08:54:00.000Z"
+  },
+  {
+    "id": "cbfd109a813cd379b933ad7796c4a9d7",
+    "source": "engdaily",
+    "title": "예타 발표 앞두고 강원도, 포천~철원 고속도로 필요성 건의",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23683",
+    "publishedAt": "2026-10-26T07:48:00.000Z",
+    "summary": null,
+    "filter": "고속도로",
+    "createdAt": "2026-10-26T07:48:00.000Z"
+  },
+  {
     "id": "b84fbda5947b180d55583765fdabada4",
     "source": "engdaily",
     "title": "공항공사, 무안공항 활주로실시설계 발주",
@@ -289,6 +319,72 @@
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261042258770094",
     "publishedAt": "2026-10-26T03:00:00.000Z",
     "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "d541ff9953f4e6cc225fbed6285ab0b9",
+    "source": "dnews",
+    "title": "3기신도시 용적률 250% 상향 검토… “계획변경-인허가 패스..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260008198490036",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "b5336f1004021724836341d5c473d195",
+    "source": "dnews",
+    "title": "[도시정비시장 풍향계] 현대ㆍ롯데ㆍ제일건설, 철산주공13단지 1차 현설 참석",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261601116260204",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]경기 광명 철산주공13단지 재건축 시공사 선정을 위한 현장설명회(현설)에 건설사 3곳이 참석해 내달 입찰을 마감한다.철산주공13단지 재건축 정비사업 조합은 26일 조합 사무실에서 1차 현설을 개최했다. 이 자리에는 현대건설, 롯데건설, 제일건설 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "6e052ea8b9cec59bbf01f0fde2f13eca",
+    "source": "dnews",
+    "title": "HL D&I한라, 에피트 광고 유튜브 5,000만 조회수 돌파",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261522492530189",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]HL D&I한라가 올해 선보인 주거 브랜드 에피트의 신규 광고 캠페인이 유튜브 조회수 5000만회를 돌파했다고 26일 밝혔다.HL D&I한라는 지난 7월부터 브랜드 전속모델인 배우 임시완과 함께 ‘에피트에 살아야 돼’를 메인 콘셉트로, 온ㆍ오프라 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "03e8f2ab6c87a4e29a305c4d153fc165",
+    "source": "dnews",
+    "title": "[인사] 동아쏘시오그룹",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261535142140194",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "◇ 동아오츠카<사장> △김준하<상무보>△마케팅전략실 부실장 이길표 △법인사업부장 겸 온라인광역장 류병재 <감사> △윤리경영실장 이대명◇ 한국신동공업<사장> △김오경<상무> △기술연구소장 최재근◇ 비티젠<전무> △생산본부장 이태수 <상무보> △사업개발실장 전승욱◇ 동아제 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "43b8d9987a9bd0f3bee7f675aa7c0481",
+    "source": "dnews",
+    "title": "국제약품, ‘효림장학재단’ 장학금 4000만원 전달…지원 대상·규모 확대",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261544233760200",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "효림장학재단이 장학금 지원 규모와 대상 학교를 확대하며 지역 인재 육성에 나섰다.효림장학재단은 지난 21일 고등학생과 대학생 등 총 44명에게 장학금 4000만원을 지원했다고 26일 밝혔다. 올해 장학사업은 지원 인원과 금액 확대, 성남지역 지원 학교 확대, 전남지역 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-10-26T03:00:00.000Z"
+  },
+  {
+    "id": "9662a5f3538410ceeaa01e6d33ffa449",
+    "source": "dnews",
+    "title": "[부음]김유일(코람코자산운용 부회장)씨 모친상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261515392630186",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "content": "▲이진행씨 별세. 김유일(코람코자산운용 부회장)씨 모친상=경북 안동의료원 장례식장 특실. 발인 28일.(054)850-6440. 〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지〉",
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-10-26T03:00:00.000Z"
