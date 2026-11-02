@@ -1,5 +1,36 @@
 [
   {
+    "id": "57e666d236058f05a8d737e804d79d33",
+    "source": "engdaily",
+    "title": "한국엔지니어링협회, 웹툰·숏폼 정기 연재",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23764",
+    "publishedAt": "2026-11-02T08:17:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-11-02T08:17:00.000Z"
+  },
+  {
+    "id": "8e3c555653ee9bd861a41ac2933419bf",
+    "source": "engdaily",
+    "title": "삼안, 전력인프라·에너지 사업 속도…조직개편 단행",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23761",
+    "publishedAt": "2026-11-02T05:28:00.000Z",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-11-02T05:28:00.000Z"
+  },
+  {
+    "id": "f1e3620791ac576fc9fce33131ba8f0d",
+    "source": "dnews",
+    "title": "대우건설, 체코원전 건설계약 재협상 요청",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021347206680187",
+    "publishedAt": "2026-11-02T05:08:00.000Z",
+    "content": "대우건설은 체코 신규 원전 건설사업의 정상화를 위해 산업통상부에건설계약 재협상 중재를 요청했다. 대우건설은 “지난 10월 30일 체코 신규 원전 건설사업의 EPC 원청사인 한수원으로부터 건설 계약 협상 종료 공문을 접수했으며, 이 같은 일방적인 협상 종료 절차 진행에 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-02T05:08:00.000Z"
+  },
+  {
     "id": "3d1b6d3638db0f06acee225c7f2bfcee",
     "source": "dnews",
     "title": "시소 이지연 대표, 중장년 마인드케어 위한 ‘하루 한 줄, 쇼펜하우어를 쓰다’ 펴내",
@@ -227,6 +258,138 @@
     "content": "",
     "summary": null,
     "filter": "코레일",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "3d1acebee051cf643ec26da03f53f9c2",
+    "source": "dnews",
+    "title": "한전기술 컨소시엄, 1000㎿급 용인복합 3·4호기 설계 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301330530030915",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "예가 대비 80.7%인 235억 투찰기술평가 우위로 경쟁사 제쳐[대한경제=전동훈 기자]한국전력기술(이하 한전기술) 컨소시엄이1000㎿급 용인복합 3·4호기 설계권을 거머쥐었다.2일 한국남부발전에 따르면 최근 종합심사낙찰제 방식의 ‘용인복합 3·4호기 건설사업 설계기술용 ...",
+    "summary": null,
+    "filter": "종합심사낙찰제",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "4baa56a1d05eca28d514054b03a44fc3",
+    "source": "dnews",
+    "title": "새만금개발공사, RE100 30MW 선도사업 사업자 재공모",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021623261120253",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "[대한경제=이재현 기자]새만금개발공사는 2일 '새만금 스마트그린 국가시범산업단지 재생에너지 공급 선도사업' 사업자 재공모를 진행한다고 밝혔다.공사는 지난 9월 17일부터 사업자 공모를 진행하였으나, 사업제안서 접수 결과 1개 컨소시엄만 접수됨에 따라 재공모를 추진한다. ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "e5790c483fca2e529f03b3a7e923fba3",
+    "source": "dnews",
+    "title": "건설연, AI 기반 지하공간 유해가스 예측ㆍ위험관리시스템 개발",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611020921058340100",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] 한국건설기술연구원(원장 박선규)은 지하공간 공사 현장에서 유해가스와 산소 농도 등을 실시간으로 측정하고, AI(인공지능)을 활용해 위험 변화를 예측할 수 있는‘지하 환경위험관리시스템’을 개발했다고 2일 밝혔다.지하공간 공사 현장에서는 굴착ㆍ발파 ...",
+    "summary": null,
+    "filter": "굴착",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "07861067eee54fbe01f5615d2eca5559",
+    "source": "dnews",
+    "title": "메이사, 한국골프과학기술대학교와 산학협력 MOU 체결",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611020908199370098",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] 골프장 코스관리 AI(인공지능) 설루션‘메이사 그린’을 운영하는㈜메이사(대표 최석원)은 지난달 30일 한국골프과학기술대학교 산학협력단(단장 이정호)과 데이터 기반 코스관리 전문 인재 양성 및 산학협력 활성화를 위한 업무협약(MOU)을 체결했다고 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "6eaf52e3c82d72d0b4a9453dc84537db",
+    "source": "dnews",
+    "title": "하츠, ‘커브드 엣지 후드’ 출시",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611020931055780102",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]하츠는 아일랜드 전용 후드 ‘커브드 엣지 후드’를 출시했다고 2일 밝혔다.신제품은 주방 중앙에 조리 공간을 배치한 아일랜드형 주방에 설치하는 역T자형 후드로, 부드러운 곡선 디자인과 강력한 흡입 성능, 다양한 편의 기능을 갖췄다.내식성이 우수한 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "9e47ee9c1c26caea277da6ecd3ac024d",
+    "source": "dnews",
+    "title": "시몬스 프리미엄 비건 매트리스 N32, ‘두 낫 슬립’ 프로모션 진행",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021359419390192",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]시몬스의 프리미엄 비건 매트리스 브랜드 N32가 ‘두 낫 슬립’ 프로모션을 진행한다고 2일 밝혔다.잠들지 않으려 해도 어느새 깊은 잠에 빠져들 만큼 숙면의 경험을 선사한다는 의미로, 역설적인 메시지를 통해 N32 매트리스의 편안함을 위트 있게 표 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "cba2a3b27a7411d8675354bc6aa53e75",
+    "source": "dnews",
+    "title": "해외건설 플랜트의 날 기념식…나승일 삼성물산 상무 은탑산업훈장",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611020957031450115",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "[대한경제=이재현 기자]국토교통부는 해외건설협회, 한국플랜트정보기술협회와 3일 오후2시 서울 건설회관에서 2026 해외건설 플랜트의 날 기념식을 개최한다고 2일 밝혔다.‘세계를 넘어 미래를 짓다’라는 슬로건하에 진행되는 올해 기념식에는 홍지선 국토교통부 장관, 한만희 ...",
+    "summary": null,
+    "filter": "해외건설",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "95249624b01359f18fad35b3d76c247d",
+    "source": "dnews",
+    "title": "강동경희대병원, 주요 호흡기 질환 적정성 평가 ‘모두 1등급 획득",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021457501430219",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "결핵 8년·만성폐쇄성폐질환 11년 연속 1등급 달성천식, 상급종합병원 평균 상회하는 세부 지표로 우수성 입증[대한경제=김호윤 기자] 강동경희대학교병원은 건강보험심사평가원에서 발표한 △결핵 △만성폐쇄성폐질환(COPD) △천식 등 주요 호흡기 질환 적정성 평가에서 모두 1 ...",
+    "summary": null,
+    "filter": "수성",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "d6663a910b7e44655732635b48c731f4",
+    "source": "dnews",
+    "title": "양천구, 신정4동 일대 재개발 본격 추진",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021419193320199",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "e76372a866cb00654310d35c187c66a4",
+    "source": "dnews",
+    "title": "서울시, 밤 9시까지 소상공인 마켓 열고 10% 할인 혜택",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021449191040213",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "fe6a957aff2ce490affe7f2e728ae14a",
+    "source": "dnews",
+    "title": "[포토] 가을옷 갈아입은 덕수궁, 카메라에 ‘찰칵’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021449455890214",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "485b317ee5fcb8f602077808d76ad690",
+    "source": "dnews",
+    "title": "오세훈 “내년 마라톤 대회, 코스ㆍ일정 원점서 다시 협의”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021406164800196",
+    "publishedAt": "2026-11-02T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "대회",
     "createdAt": "2026-11-02T03:00:00.000Z"
   },
   {
