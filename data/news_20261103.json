@@ -1,5 +1,26 @@
 [
   {
+    "id": "dc335fce2a9391133e6206f6dc612431",
+    "source": "engdaily",
+    "title": "서울~양평 고속도로 타당성조사…“사업 재개 가시화”",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23769",
+    "publishedAt": "2026-11-03T08:47:00.000Z",
+    "summary": null,
+    "filter": "타당성조사",
+    "createdAt": "2026-11-03T08:47:00.000Z"
+  },
+  {
+    "id": "4b71bbdb887889c5beb3489b3a1b5923",
+    "source": "dnews",
+    "title": "LX세미콘, 신임 사령탑에 나준호 부사장 내정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031613172410476",
+    "publishedAt": "2026-11-03T07:14:00.000Z",
+    "content": "[대한경제=이계풍 기자]LX세미콘이 나준호 전략마케팅부문장(부사장)을 신임 대표이사로 내정했다.LX세미콘은 3일 이사회를 열어 나준호 부사장을 신임 대표이사로 내정하고, 이사 신규 선임 1명에 대한 2027년 정기 임원 인사를 단행했다고 밝혔다.나 대표이사 내정자는 L ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-03T07:14:00.000Z"
+  },
+  {
     "id": "f71c7ff79fde19d50d35fdd4c5fcd193",
     "source": "dnews",
     "title": "[포토] '해외건설 플랜트의 날' 치사하는 홍지선 장관",
@@ -333,6 +354,116 @@
     "source": "dnews",
     "title": "서울시의회 민주당 “행정감사서 한강버스의혹 집중 검증”",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031036073790355",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "3a9773aaf3a7ecce9fcb2fdb760ab244",
+    "source": "dnews",
+    "title": "지앤지테크놀러지, 독일 베카와 지열에너지 기술협력 MOU 체결",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031735077810492",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]지앤지테크놀러지는 독일의 모세관 열교환 기술 전문기업 베카(BEKA Heiz- und Kühlmatten GmbH)와 독일 모세관 열교환기 기술, 반밀폐형 지열시스템의 국내 적용과 독일/EU 시장 진출을 위한업무협약(MOU)을 체결했다고 3일 밝 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "1915c47940df426a05e47c54bc5908e2",
+    "source": "dnews",
+    "title": "‘해외건설 플랜트의 날’ 개최…해외건설 유공자 포상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031312321510400",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]국토교통부는 3일 서울 강남구 건설회관에서 해외건설협회, 한국플랜트정보기술협회와 함께 ‘2026 해외건설ㆍ플랜트의 날’ 기념식을 개최했다.‘세계를 넘어 미래를 짓다’를 주제로 열린 행사에는 홍지선 국토부 장관, 한만희 해외건설협회장, 정일영 더불 ...",
+    "summary": null,
+    "filter": "해외건설",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "a6f2dd639cfbcb3ed91dd15128d52b81",
+    "source": "dnews",
+    "title": "‘서울-양평 고속도로’ 다시 본궤도…내년 하반기 최적 노선 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031407472270418",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "[대한경제=이재현 기자]종점 변경 특혜 의혹 등으로 장기간 표류해 온 ‘서울-양평 고속도로’ 건설 사업이 약 3년 만에 다시 본궤도에 오른다. 정부가 신규 타당성조사 용역 계약을 마치고 본격적인 조사에 착수한 것으로, 내년 하반기까지 최적의 노선안을 도출할 방침이다.국 ...",
+    "summary": null,
+    "filter": "타당성조사",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "6ebbc4e9f71ae80ef2bd446873d00359",
+    "source": "dnews",
+    "title": "[포토] 해외건설의 탑 수상자들",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031634424860485",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "홍지선 국토교통부 장관이 3일 서울 강남구 건설회관에서 열린 ‘2026 해외건설 플랜트의 날’ 기념식에서 해외건설의 탑 수상자들과 기념촬영을 하고 있다.해외건설산업에 기여한 기업의 노고를 치하하기 위해 수여하는 대통령 명의의 ‘해외건설의 탑’은, 최근 2년 이내의 수주 ...",
+    "summary": null,
+    "filter": "해외건설",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "31de1ad0766dc33cdaa2643b2d7ffdc4",
+    "source": "dnews",
+    "title": "내부 공간 자유자재로…GS건설, ‘무빙월’ 선보인다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611030951416500335",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "a2291f2acaf12fedfdf9e86ed1f8d262",
+    "source": "dnews",
+    "title": "잠실주공5단지, 통합심의 다시 받나?... 사업 장기 지연 위기",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031753320300495",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]이성배 서울시의회 부의장(국민의힘, 송파4)은 지난 2일 제340회 정례회 본회의 5분 자유발언에서 “잠실주공5단지 재건축사업이 중학교 부지 문제로 다시 지연될 위기에 놓였다”며 시교육청과 자치구 부실 행정을 강하게 질타하고 대책 마련을 촉구했다 ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "bdfd003e497861df6812c8f2908630f7",
+    "source": "dnews",
+    "title": "일산 하이파크시티 대지권 미등기… 권익위 조정으로 해결..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031518301280467",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "43bcc558891b69db4cbed7df023f1978",
+    "source": "dnews",
+    "title": "핼러윈 주말 이태원 11개 역 이용객 17.5% 증가",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031612489750475",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "9b74821dadec404ce2b6df97e83af105",
+    "source": "dnews",
+    "title": "노원 상계주공14ㆍ9단지 신통기획 자문 신청",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031508021980458",
+    "publishedAt": "2026-11-03T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-11-03T03:00:00.000Z"
+  },
+  {
+    "id": "f668f10a46438d63eda8c8589198f03b",
+    "source": "dnews",
+    "title": "국회 찾은 오세훈, “국가유산청 ‘행정갑질’ 책임 면하..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031504216940455",
     "publishedAt": "2026-11-03T03:00:00.000Z",
     "content": "",
     "summary": null,
