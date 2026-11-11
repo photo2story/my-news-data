@@ -1,5 +1,15 @@
 [
   {
+    "id": "68ec047af53f617b13958e5bf8f58bbe",
+    "source": "engdaily",
+    "title": "토펙엔지니어링, 수소 인프라 특강",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23818",
+    "publishedAt": "2026-11-11T14:41:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-11-11T14:41:00.000Z"
+  },
+  {
     "id": "231d405d484e880837a072617c8da33a",
     "source": "engdaily",
     "title": "한미글로벌, 가덕도신공항 여객터미널 설계단계 건설사업관리 수주",
@@ -212,6 +222,127 @@
     "source": "dnews",
     "title": "서울시 민생사법경찰국장에 최익수 前 경기남부경찰청 수..",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111407165150602",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "4cce1915e5150d378de07b2f9fda6fa7",
+    "source": "dnews",
+    "title": "GS건설, 동반성장지수 6년 연속 ‘최우수’ 등급 획득",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111608233610651",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "[대한경제=김민수 기자]GS건설은 동반성장위원회가 발표한 ‘동반성장지수’ 평가에서 6년 연속 최고 등급인 ‘최우수’ 등급을 획득했다고 11일 밝혔다. 동반성장지수는 동반성장위원회의 동반성장 종합평가와 공정거래위원회의 공정거래협약 이행평가 결과를 합산해 대기업의 동반성장 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "64cc7874319b83cae092ec8be59a45a5",
+    "source": "dnews",
+    "title": "동화기업, 인천 석남녹지도시숲서 환경 정화 활동 전개",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611110938404870517",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자] 동화기업은 인천광역시 서해구 석남녹지도시숲공원에서 환경 보전 활동을 펼쳤다고 11일 밝혔다.이번 행사는 인천 사업장 임직원이 함께했다. 참여자들은 약 2시간 동안 가좌동 공장 인근에 위치한 석남녹지도시숲공원 일대를 돌며 생활 쓰레기 수거해 지역 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "b70226bd54e2a8eb82e1fbe756aade06",
+    "source": "dnews",
+    "title": "현대제철, 2026 AX 성과공유회 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611110946304600519",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]현대제철은 최근 당진제철소 연구소에서 '2026 AX 성과공유회'를 개최했다고 11일 밝혔다.이번 행사는 임직원들이 한 해 동안 추진한 AX 성과를 공유하고 우수사례를 발굴ㆍ확산하기 위해 마련됐다.올해 8월부터 진행한 AX 성과 공모에는 제조 분 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "3dd4b9b256e8b5321f06fb9b0137303e",
+    "source": "dnews",
+    "title": "노루페인트, ‘문화예술후원우수기관’ 재인증",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111021030130533",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]노루페인트는 문화체육관광부가 주최하고 한국문화예술위원회가 주관하는‘문화예술후원우수기관’ 재인증을 획득했다고 11일 밝혔다.문화예술후원우수기관 인증은 문화예술 후원을 모범적으로 수행하는 기업과 기관을 발굴하고 민간의 문화예술 후원을 활성화하기 위한 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "b04fb29f844bd4737c963216491e0656",
+    "source": "dnews",
+    "title": "HD건설기계, 국가보훈부와 에티오피아 수도에 한국전쟁 추..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111026355680536",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "0d1d30473d6f7d47dbe3c686c5ca03ff",
+    "source": "dnews",
+    "title": "시몬스 테라스서 ‘일루미네이션 콘서트’ 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111030293620541",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]시몬스는 경기도 이천의 시몬스 테라스에서 ‘일루미네이션 콘서트’를 개최한다고 11일 밝혔다.이번 콘서트는 오는 14일부터 12월 19일까지 매주 토요일 시몬스 테라스 2층 바스킷볼 코트에서 열린다. 발라드부터 클래식까지 다양한 장르의 아티스트들이 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "5451734d64a215297b6bc67f45a2c8eb",
+    "source": "dnews",
+    "title": "‘오송역 헬로우시티’에 포스코A&C 특화설계 적용",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111621207270653",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "충북 청주 오송에 공급되는 ‘오송역 헬로우시티’에 포스코A&C의 실내평면 특화설계가 적용될 전망이다.사업추진위는 최근 포스코그룹의 종합건축사사무소인 포스코A&C와 계약을 맺고 △더블 순환동선 △거실 전면 통창 △와이드 LDK 구조 △파우더룸 건식 세면대 △광폭수납 등을 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "1fcb55601dedf0618e6a54554072c2ac",
+    "source": "dnews",
+    "title": "이중근 회장, ‘유엔참전용사 국제추모의 날’ 국민대표 헌화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111422170910610",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "이 회장, 2년 연속 참석…“유엔데이 국경일 지정해 예우해야”[대한경제=이종무 기자]“6ㆍ25전쟁의 참상과 유엔(UNㆍ국제연합)군의 희생을 기억하는 마지막 세대로서 이들의 헌신과 공헌이 잊히지 않도록 ‘유엔데이’가 국경일로 지정돼 마땅한 예우를 받도록 노력하겠습니다.” ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "61fb265615ffa095d041b69d6d7f136f",
+    "source": "dnews",
+    "title": "[단독] 오세훈 달빛야장 현장 행보…다음주 ‘강남 세로수..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111058019300556",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "fec1a88d8c82193f66eade52bbc845c6",
+    "source": "dnews",
+    "title": "서울시 마약관리센터 개소 1년…중독 치료 희망 나눠",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111443517420621",
+    "publishedAt": "2026-11-11T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "5c9a33d8489105ebdc3540253d8e6eb1",
+    "source": "dnews",
+    "title": "금천구 주거정비 아카데미에 정비사업 새내기도 ‘귀 쫑긋..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111441256110619",
     "publishedAt": "2026-11-11T03:00:00.000Z",
     "content": "",
     "summary": null,
