@@ -459,5 +459,27 @@
     "summary": null,
     "filter": "국토교통부",
     "createdAt": "2026-11-12T03:00:00.000Z"
+  },
+  {
+    "id": "d0284e091a1c2bfd02f59162bb174e74",
+    "source": "dnews",
+    "title": "LH “광명시흥ㆍ용인반도체에 총 2조원 추가 투입”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121339026550802",
+    "publishedAt": "2026-11-12T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "LH",
+    "createdAt": "2026-11-12T03:00:00.000Z"
+  },
+  {
+    "id": "9897726fa4f09943f34a3500206294fc",
+    "source": "dnews",
+    "title": "신영씨앤디, 강원랜드 제2카지노ㆍ용인 봉안당 수주",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121406597730818",
+    "publishedAt": "2026-11-12T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-12T03:00:00.000Z"
   }
 ]
