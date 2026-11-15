@@ -196,5 +196,16 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-11-13T03:00:00.000Z"
+  },
+  {
+    "id": "b83157c0787ab546b24ed7931a2f9b39",
+    "source": "dnews",
+    "title": "HM그룹, 미국 ‘뉴욕 맨하탄 트라이베카 개발사업’ 착공…..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611130905129300916",
+    "publishedAt": "2026-11-13T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-13T03:00:00.000Z"
   }
 ]
