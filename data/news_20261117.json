@@ -1,5 +1,15 @@
 [
   {
+    "id": "6f57b98e2c59c6594b32a6460e2334a6",
+    "source": "engdaily",
+    "title": "광주 군공항 무안 이전 본격화…126억 기본계획 수주전",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23863",
+    "publishedAt": "2026-11-17T05:37:00.000Z",
+    "summary": null,
+    "filter": "기본계획",
+    "createdAt": "2026-11-17T05:37:00.000Z"
+  },
+  {
     "id": "aa32b5c2d0dffcf244a4ed3b50592203",
     "source": "dnews",
     "title": "지방 중소 건설사 재무위기 심화…부채비율 300％ㆍ이자보상배율 0.2배",
@@ -162,6 +172,105 @@
     "content": "",
     "summary": null,
     "filter": "soc",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "e3253fdeb7c148074746407c11d901cc",
+    "source": "dnews",
+    "title": "강남역ㆍ광화문 대심도에 2029년까지 대형 빗물터널 만든다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171326426670447",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "정부가 극한 호우와 국지적 가뭄이 동시에 나타나는 기후위기에 대응하기 위해 2029년 여름 전까지 서울 강남역과 광화문 깊은 지하 공간(대심도)에 대형 빗물터널을 건설한다. 기후에너지환경부는 17일 열린 국무회의에서 이 같은 내용을 담은 ‘기후위기 시대, 물관리 체계 ...",
+    "summary": null,
+    "filter": "터널",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "94f470a9a05f29f262ea92efce032649",
+    "source": "dnews",
+    "title": "체코 원자력안전청, 두코바니 원전 품질관리 현장 첫 참관",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171402075990458",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "체코 원자력 규제기관이 두코바니 원전 5ㆍ6호기 사업의 국내 품질관리 현장을 처음으로 직접 점검했다.한국수력원자력은 두산에너빌리티가 16일부터 18일까지 한국전력기술을 대상으로 품질보증감사를 진행하고 있다고 17일 밝혔다. 체코 원자력안전청(SÚJB) 관계자 3명과 발 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "33b33de93acbed03c6adbaf5bec40cfb",
+    "source": "dnews",
+    "title": "메이사, 재난 수색 드론 AI 개발 추진",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611170837327060356",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] 공간 AI(인공지능) 기업 메이사(대표 최석원ㆍ김동영)는 중소벤처기업부의‘딥테크 챌린지 프로젝트(DCP)’ 기술도전형에 선정된‘AI 기반 재난 신속대응 eVTOL 모선-자선 드론 운용 시스템’ 개발에 참여한다고 17일 밝혔다.메이사는 이번 프로 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "8e363822567078fcaaf034581d255abd",
+    "source": "dnews",
+    "title": "빌딩스마트협회, 오는 24일 ‘빌드스마트 콘퍼런스 2026’ 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611170921036900366",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "[대한경제=김민수 기자]빌딩스마트협회(회장 김태만)는 오는 24일 서울 동작구 소재 전문건설회관에서 BIM(건설정보모델링)과 스마트건설을 주제로하는 콘퍼런스인 ‘빌드스마트 콘퍼런스(buildSMART CONFERENCE) 2026’를 개최한다고 17일 밝혔다. 이번 콘 ...",
+    "summary": null,
+    "filter": "BIM",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "928367bdf78337e593341b6812521108",
+    "source": "dnews",
+    "title": "[도시정비시장 풍향계] 대우건설, 부산 광안7구역 재개발 수주 유력…단독 응찰",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171415087000466",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]대우건설이 부산 수영구 광안7구역 재개발 시공사 입찰에 단독 응찰했다.17일 도시정비업계에 따르면 광안7구역 재개발 정비사업 조합은 전날 시공사 선정을 위한 2차 입찰을 마감했다. 그 결과 대우건설이 단독으로 참여했다.이에 따라 광안7구역 재개발 ...",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "de3a9e935a7ac6351527a29820433844",
+    "source": "dnews",
+    "title": "저스템, HBM 공정 습도 잡는 ‘JFS’로 세계일류상품 선정 쾌거",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171557177170499",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "[대한경제=이계풍 기자]반도체 습도 제어 전문기업 저스템은 2세대 습도 제어 제품 ‘JFS(Jet Flow Straightener)’가 ‘2026 세계일류상품’에 선정됐다고 17일 밝혔다.세계일류상품은 산업통상자원부와 대한무역투자진흥공사(코트라)가 국내 제품의 글로벌 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "072aa3436bd5e3c0c9e01de7eeda044d",
+    "source": "dnews",
+    "title": "대방건설 후원 광화문 도심 문화공연 ‘두들 라이브’ 성료",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171507318690483",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "[대한경제=황은우 기자]대방건설은 자사가 후원한 도심 문화공연 ‘두들 라이브(Doodle Live)’의 ‘CITY LIVE with 규현’ 공연이 지난 11월12일 서울 광화문 동아미디어센터 앞에서 성황리에 개최됐다고 17일 밝혔다.‘두들 라이브’는 광화문 일대를 자유 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "aca2cc828747e87ee75dfdfd7929e78b",
+    "source": "dnews",
+    "title": "반도문화재단, 美 팝 보컬‘멜라니 아마로’ 초청 콘서트",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171207202080435",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "28일 동탄 아이비 라운지…시민 100명 무료 초청더 엑스 팩터 시즌1 우승자…슈퍼볼 광고도 출연[대한경제=이종무 기자]반도건설은 반도문화재단이 오는 28일 경기 화성 동탄2신도시 ‘반도유보라 아이비파크 8.0’ 복합문화공간 아이비 라운지에서 미국 팝 보컬 멜라니 아마 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "4612f728ba811d8c994d6b0b130b3807",
+    "source": "dnews",
+    "title": "서울교통공사, 첫 데이터 분석 경진대회 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171440327420473",
+    "publishedAt": "2026-11-17T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "대회",
     "createdAt": "2026-11-17T03:00:00.000Z"
   },
   {
