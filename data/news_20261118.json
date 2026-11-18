@@ -1,5 +1,25 @@
 [
   {
+    "id": "da0bb97d90fca1580bf38b47e2dea658",
+    "source": "engdaily",
+    "title": "한국엔지니어링협회, 2026 FIDIC 아시아 태평양 컨퍼런스 참가",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23880",
+    "publishedAt": "2026-11-18T07:34:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-11-18T07:34:00.000Z"
+  },
+  {
+    "id": "c6ec47ccd7322575de6fe67c08b28295",
+    "source": "engdaily",
+    "title": "엔지니어링공제조합, 스카이밸리C.C 베스트 골프장 선정",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23878",
+    "publishedAt": "2026-11-18T06:17:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-11-18T06:17:00.000Z"
+  },
+  {
     "id": "db1848b22066bc2c46330d6165ee4454",
     "source": "dnews",
     "title": "광운대 건설법무대학원, 국내 첫 ‘건설안전법 전공’ 신설",
@@ -125,6 +145,105 @@
     "source": "dnews",
     "title": "서울 광암정수센터 취수원 팔당→한강…연 168억 비용 줄인..",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181013014590591",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "504e135602ef32f295f7a3deedfa7ee3",
+    "source": "dnews",
+    "title": "“AI 시대, 건설기술인도 달라져야”…인재 양성체계 개편 논의",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181045137820603",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]“인공지능(AI)과 로봇 등 첨단 기술이 건설현장에 속속 도입됨에 따라 건설기술인 재교육 및 인재 양성 체계도 이에 맞게 개편해야 한다.”한국건설인정책연구원ㆍ건설인적자원개발위원회ㆍ한국건설관리학회 공동 주최로 18일 서울 강남구 건설회관에서 열린 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "123f2b8cfeff7548c6b534762755563d",
+    "source": "dnews",
+    "title": "노루페인트, ‘2026 메가주 일산 시즌2’ 참가…반려생활 특화 제품ㆍ체험 공개",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611180930201630566",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]노루페인트는 오는 20일부터 22일까지 일산 킨텍스에서 열리는 ‘2026 메가주 일산 시즌2’에 참가해 반려생활에 특화된 ‘노루와 펫’ 제품과 다양한 체험 프로그램을 선보인다고 18일 밝혔다.노루페인트는 이번 행사에서 △바닥 미끄러움을 완화하는 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "2a874219ad01c59239e49396b54d7085",
+    "source": "dnews",
+    "title": "삼표그룹, ‘DMC 수색 프로젝트’에 특수 콘크리트 적용",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611180901147480549",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]삼표그룹이 서울 DMC 수색 역세권에서 추진 중인 ‘DMC 수색 프로젝트’에 그동안 축적해 온 건설기초소재 신기술을 대거 적용하며 시공 경쟁력을 강화하고 있다.특히 삼표그룹은 서울 성수동 옛 삼표산업 레미콘 공장 부지를 개발하는 ‘삼표 글로벌 랜 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "776b41c37d8f1b5bd3babaf33d16bc65",
+    "source": "dnews",
+    "title": "LX하우시스, ESG평가 11년 연속 ‘통합A’ 등급 획득",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611180938491530572",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]LX하우시스는 최근 한국ESG기준원이 발표한 ‘2026 ESG 평가’에서 ‘통합 A’ 등급을 획득했다고 18일 밝혔다. LX하우시스는 국내 인테리어 업계에서 유일하게 11년 연속 ‘통합 A’ 등급을 이어가게 됐다.올해 평가에서 LX하우시스는 사회 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "1b020725b913fb2480bad411bd041aa9",
+    "source": "dnews",
+    "title": "KCL-한국화장실협회, 공중화장실 품질 향상 위한 업무협약 체결",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181349512050638",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]한국건설생활환경시험연구원(KCL)은 18일 서울 용산 국방컨벤션센터에서 한국화장실협회(KTA)와 공중화장실 품질 향상 및 국민 이용환경 개선을 위한 업무협약(MOU)을 체결했다고 밝혔다.양측은 이번 협약을 통해 △화장실 품질평가 기준 및 인증체계 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "0622dd66b4f33960ce08f6a20dce5416",
+    "source": "dnews",
+    "title": "한국철강협회, 대학생 철강 홍보 서포터즈 ‘철크크’ 모집",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181425085390646",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=서용원 기자]한국철강협회는 대학생 철강 홍보 서포터즈 ‘철크크(철강 크리에이터 크루)’를 모집한다고 18일 밝혔다.올해 처음으로 운영되는 서포터즈는 대학생들이 직접 철강산업을 쉽고 친근하게 전달하는 홍보콘텐츠를 제작해 개인 SNS에 게시하는 방식으로 운영된다 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "5e91584f2f03187be87c8b14900d57ae",
+    "source": "dnews",
+    "title": "건설교통신기술협회-횡성군-신기술진흥연구원, 안전한 관광지 개발 MOU 체결",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181330093260628",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=김민수 기자]한국건설교통신기술협회(회장 박철)는 18일 강원도 횡성군청에서 횡성군(군수 장신상), 신기술진흥연구원(원장 박길현)과 안전한 관광지 개발을 위한 MOU(업무협약)를 체결했다.이번 협약은 횡성군 민선 9기 핵심정책인 ‘횡성 관광 500만 시대’의 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "c06904762b67efb2c1a665727c2dd4ec",
+    "source": "dnews",
+    "title": "“종묘 방치할 땐 손 놓더니 개발만 발목”…오세훈, 국가유산청 ‘이중 행정’ 비판",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181456190570658",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=임성엽 기자]세운4구역 논란과 관련, 종묘 일대 정비사업은 모두 중앙정부가 아닌, 서울시 순수 예산으로 집행된 것으로 나타났다. 종묘 일대를 국가유산청에서 방치할 때 서울시 자체 예산으로 정비했다고 오세훈 시장이 18일 밝혔기 때문이다.문화재 보호가 핵심인 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "17618849b82f588faefeac088ef353f7",
+    "source": "dnews",
+    "title": "[포토] 국내 기업에 취업하고 싶은 외국인",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181343142540636",
     "publishedAt": "2026-11-18T03:00:00.000Z",
     "content": "",
     "summary": null,

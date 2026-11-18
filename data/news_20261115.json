@@ -75,5 +75,16 @@
     "summary": null,
     "filter": "9호선",
     "createdAt": "2026-11-15T03:00:00.000Z"
+  },
+  {
+    "id": "f876f233dc5c09b6934819ad9aa567b8",
+    "source": "dnews",
+    "title": "[뉴테크 포커스]LH 교량형식 특정공법 공모 절반은 합성형 ..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611150940524460080",
+    "publishedAt": "2026-11-15T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "교량",
+    "createdAt": "2026-11-15T03:00:00.000Z"
   }
 ]
