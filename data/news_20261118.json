@@ -1,5 +1,49 @@
 [
   {
+    "id": "db1848b22066bc2c46330d6165ee4454",
+    "source": "dnews",
+    "title": "광운대 건설법무대학원, 국내 첫 ‘건설안전법 전공’ 신설",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181020593090594",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "광운대학교 건설법무대학원(원장 이춘원)은 2027학년도부터 건설안전법 전공을 새로 개설하고 첫 신입생을 모집한다고 18일 밝혔다. 건설현장의 안전 문제를 법학의 독립 전공으로 다루는 석사과정이 개설되는 것은 이번이 처음이다.이에 따라 광운대 건설법무대학원의 전공은 기존 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "e907e55ed998f87835abbbba145ab5a6",
+    "source": "dnews",
+    "title": "열차 멈춤 없이 뚝딱…코레일, ‘조립식 피암터널’ 개발",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181012367380590",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=이재현 기자]한국철도공사(코레일)는 열차 운행을 중단하지 않고 설치할 수 있는 ‘모듈형 철도 피암터널’을 개발했다고 18일 밝혔다.피암터널은 낙석ㆍ산사태 등 자연재해로부터 철도 시설물과 이용자를 보호하기 위해 설치하는 방호터널이다. 코레일과 강원대학교, 중소 ...",
+    "summary": null,
+    "filter": "터널",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "f2f8942475cdf9039c4c0c7f0988d38d",
+    "source": "dnews",
+    "title": "건설근로자공제회, SK 용인 반도체 클러스터 건설현장 방문",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611180922043950559",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "[대한경제=김수정 기자]건설근로자공제회(이사장 장건)는 18일 SK하이닉스 용인 반도체 클러스터 건설현장을 방문해 건설노동자의 노고를 격려하고, 노동자 및 사업주와의 간담회를 통해 현장의 다양한 의견을 청취하는 시간을 가졌다. 이번 방문은 사회적 관심이 높은 대규모 반 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "7f040c50ed9dffb3539d1b1302af939b",
+    "source": "dnews",
+    "title": "대우건설, 이라크 알포 신항만 침매터널 준공",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611180926002880563",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "대우건설(대표 이강석)은 “이라크 알포 신항만 개발사업의 핵심 기반시설인 침매터널 현장이 지난 10월 31일 발주처인 이라크 항만청으로부터 준공확인서(TOC)를 접수했다”고 18일 밝혔다. 이번 프로젝트는 코르 알 주바이르(Khor Al Zubair) 수로를 횡단하는 ...",
+    "summary": null,
+    "filter": "AI",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
     "id": "ee66a356ab297902b48d19332b5f9326",
     "source": "dnews",
     "title": "설계 미완성 원전 ‘총액확정계약’ 갑론을박",
@@ -55,25 +99,89 @@
     "createdAt": "2026-11-18T03:00:00.000Z"
   },
   {
+    "id": "0d90f65151d52614d75f93e87ad97fd7",
+    "source": "dnews",
+    "title": "[정비톡] ‘재초환 폐지론’ 재점화…정부 결단에 쏠린 눈",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171356068800454",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "반포현대 1인당 부담금 2.2억 통지전국 79곳 예정액 5.3조원 달해업계 폐지 촉구…로펌 대응 착수국토부 재검토 시사…국회 주목[대한경제=이종무 기자]한형용 도시정비팀장=‘재건축초과이익환수제(재초환) 폐지론’에 다시 불붙고 있다고요.이종무 기자=네. 서초구가 지난 9 ...",
+    "summary": null,
+    "filter": "국토부",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "a180bb6f845b6dca904b1cb786ff76a8",
+    "source": "dnews",
+    "title": "[포토] 선배님, 수능 파이팅!",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181316018880622",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "b62cdfa3b1c4234cbf0803af06a45a48",
+    "source": "dnews",
+    "title": "서울 광암정수센터 취수원 팔당→한강…연 168억 비용 줄인..",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181013014590591",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T03:00:00.000Z"
+  },
+  {
+    "id": "69ccfda572c1e333147926ccac3e265a",
+    "source": "engdaily",
+    "title": "“하한율 올리면 뭐하나”…하도급·품질평가로 입찰부담 키우는 행안부",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23876",
+    "publishedAt": "2026-11-18T02:13:00.000Z",
+    "summary": null,
+    "filter": "입찰",
+    "createdAt": "2026-11-18T02:13:00.000Z"
+  },
+  {
+    "id": "482d8f2b09bf6da0e598a7b4e3ea2406",
+    "source": "dnews",
+    "title": "국토부, 올해 사망사고 발생 건설사 대상 안전관리 점검 나선다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611180938410590570",
+    "publishedAt": "2026-11-18T02:00:00.000Z",
+    "content": "[대한경제=이재현 기자]국토교통부는 19일 오후 2시 서울에서 시공능력평가 100위내 대형건설사 중 올해 사망사고가 발생한 12개사를 대상으로 ‘건설현장 사고 재발방지를 위한 안전관리 점검회의’를 개최한다고 18일 밝혔다이번 회의는 건설현장에서 발생한 사망사고의 원인을 ...",
+    "summary": null,
+    "filter": "국토교통부",
+    "createdAt": "2026-11-18T02:00:00.000Z"
+  },
+  {
+    "id": "59ce46ea6c8bfb8a9b4a84e9c0f8ed5b",
+    "source": "dnews",
+    "title": "호반건설ㆍ호반산업, ‘지역 사회공헌’ 인정기업 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611180906515670553",
+    "publishedAt": "2026-11-18T00:40:00.000Z",
+    "content": "[대한경제=이종무 기자]호반그룹은 호반건설과 호반산업이 ‘2026년 지역 사회공헌 인정제’ 심사에서 인정기업으로 선정됐다고 18일 밝혔다.호반건설은 지난해에 이어 2년 연속 A+ 등급을, 호반산업은 올해 처음 선정돼 A 등급을 받았다. 지역 사회공헌 인정제는 보건복지부 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-18T00:40:00.000Z"
+  },
+  {
+    "id": "0a053fe9eb7d47b0b1e9d302fd030dc6",
+    "source": "engdaily",
+    "title": "엔지니어링협회, 엔지니어링 비전 프로그램 개최",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23875",
+    "publishedAt": "2026-11-18T00:18:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-11-18T00:18:00.000Z"
+  },
+  {
     "id": "402c640136ee19fe6aa06e3949089ac2",
     "source": "dnews",
     "title": "용인 반도체산단 용수공급 CM 발주 초읽기",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121121455440774",
-    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "publishedAt": "2026-11-17T21:00:00.000Z",
     "content": "수공, 1단계 1ㆍ3공구 사전규격 공개종심제 방식…총 설계비237억 이달본공고…내년 1월 계약 목표[대한경제=전동훈 기자]용인 반도체 클러스터의 용수공급 기반을 구축할 237억원 규모의 건설사업관리(CM) 용역 발주가 임박했다. 상하수도 분야 주요 엔지니어링사들이 참여 ...",
     "summary": null,
     "filter": "건설사업관리",
-    "createdAt": "2026-11-18T03:00:00.000Z"
-  },
-  {
-    "id": "0d90f65151d52614d75f93e87ad97fd7",
-    "source": "dnews",
-    "title": "[정비톡] ‘재초환 폐지론’ 확산…정부, 결단 내리나",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171356068800454",
-    "publishedAt": "2026-11-17T20:00:00.000Z",
-    "content": "반포현대 179억 통지 후폭풍…국토부장관 ‘종합 검토’ 언급전문가들 “폐지해야” 한목소리…로펌도 TF 꾸려 소송전 채비[대한경제=이종무 기자]한형용 도시정비팀장=‘재건축초과이익환수제(재초환) 폐지론’에 다시 불붙고 있다고요.이종무 기자=네. 서초구가 지난 9일 반포현대 ...",
-    "summary": null,
-    "filter": "국토부",
-    "createdAt": "2026-11-17T20:00:00.000Z"
+    "createdAt": "2026-11-17T21:00:00.000Z"
   }
 ]
