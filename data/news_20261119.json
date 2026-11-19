@@ -1,5 +1,48 @@
 [
   {
+    "id": "924283ef5d548f390e8081db573ff6c3",
+    "source": "engdaily",
+    "title": "도화, 산업부 세계일류상품 선정…\"철도 설계 기술력 입증\"",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23887",
+    "publishedAt": "2026-11-19T03:32:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-11-19T03:32:00.000Z"
+  },
+  {
+    "id": "ec9a018c021abcf92fbc95079c4ef8b2",
+    "source": "dnews",
+    "title": "GS건설, 공정거래 자율준수 문화 확산 위해 ‘CP Day’ 개최",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191007377190748",
+    "publishedAt": "2026-11-19T03:00:00.000Z",
+    "content": "[대한경제=장진우 기자] GS건설은 서울 종로구 본사에서 허윤홍 대표와 임직원들이 참석한 가운데 ‘CP(Compliance Program) Day’ 행사를 개최했다고 19일 밝혔다.이번 행사는 최고경영자의 공정거래 실천 의지를 임직원들과 공유하고, 공정거래 자율준수가 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-19T03:00:00.000Z"
+  },
+  {
+    "id": "c8213c35a89c55902f85499837c43994",
+    "source": "dnews",
+    "title": "신탁방식 재건축에도 CM 도입하나…목동1단지 삼우CM 우협 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171048296490415",
+    "publishedAt": "2026-11-19T03:00:00.000Z",
+    "content": "신탁방식으로 추진되는 서울 양천구 목동1단지 재건축 사업에 별도의 건설사업관리(CM) 업체가 투입된다. 신탁사가 사업관리 업무를 직접 수행하는 특성상 외부 CM 도입이 이례적이라 CM시장이 신탁방식 정비사업으로 확대할 지 관심이 쏠린다. 18일 관련 업계에 따르면 목동 ...",
+    "summary": null,
+    "filter": "건설사업관리",
+    "createdAt": "2026-11-19T03:00:00.000Z"
+  },
+  {
+    "id": "bfd0e20bb4b65c116a5fe9bf3d43e232",
+    "source": "dnews",
+    "title": "도시철도 영세율 연장 입법 ‘잰걸음’…JTX·수도권서남부선 세 부담 덜어지나",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181437550170654",
+    "publishedAt": "2026-11-19T03:00:00.000Z",
+    "content": "[대한경제=홍샛별 기자]연말 일몰을 앞둔 도시철도 건설용역 부가가치세 영세율의 적용 기한을 연장하기 위한 입법 움직임이 본격화되고 있다. 여ㆍ야 의원들이 잇따라 일몰 연장 법안을 발의하면서 영세율 폐지에 따른 사업비 증가를 우려해 온 민간투자업계도 반색하고 있다. 18 ...",
+    "summary": null,
+    "filter": "도시철도",
+    "createdAt": "2026-11-19T03:00:00.000Z"
+  },
+  {
     "id": "4f96a69d3c5dc2968d3a4a2dfe9b760b",
     "source": "dnews",
     "title": "[반도체 팹 ‘인력 비상’] ② 신규인력 투입 한계… 기존 건설기능인 직무전환·전직교육 확대해야",
@@ -13,7 +56,7 @@
   {
     "id": "8c8036c0eb484ff7cd51f4732acf37e3",
     "source": "dnews",
-    "title": "[반도체 팹 ‘인력 비상’] ① [단독] 반도체공장 건설 인력난… “2031년 22만명 필요”",
+    "title": "[반도체 팹 ‘인력 비상’] ① 반도체공장 건설 인력난… “2031년 22만명 필요”",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049053210416",
     "publishedAt": "2026-11-19T03:00:00.000Z",
     "content": "[대한경제=김수정 기자]국내 반도체 공장(팹) 건설에 투입되는 기능인력 수요가 2031년에는 현재의 3배 수준으로 급증할 전망이다. 삼성전자와 SK하이닉스의 대규모 반도체 투자로 팹 건설이 본격화되면서 현장 인력 수요도 가파르게 늘어나는 것이다. 문제는 인력 공급이 수 ...",
@@ -42,5 +85,26 @@
     "summary": null,
     "filter": "soc",
     "createdAt": "2026-11-19T03:00:00.000Z"
+  },
+  {
+    "id": "debb9df8431eed6acac9806899323d06",
+    "source": "dnews",
+    "title": "도봉구 쌍문동 710번지 일대, 신통기획 후보지 선정",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191043368510760",
+    "publishedAt": "2026-11-19T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-19T03:00:00.000Z"
+  },
+  {
+    "id": "26b2d209abfb0d83203d189b4e16fd72",
+    "source": "engdaily",
+    "title": "한국종합기술, 9년 연속 ESG평가 최고등급",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23886",
+    "publishedAt": "2026-11-19T01:59:00.000Z",
+    "summary": null,
+    "filter": "한국종합기술",
+    "createdAt": "2026-11-19T01:59:00.000Z"
   }
 ]
