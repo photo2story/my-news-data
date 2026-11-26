@@ -1,5 +1,46 @@
 [
   {
+    "id": "16ee94d5de2bbe7f502e3814d38ce97d",
+    "source": "dnews",
+    "title": "[부고] 차두원(퓨처링크 대표이사)씨 부친상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611262241165930887",
+    "publishedAt": "2026-11-26T13:41:00.000Z",
+    "content": "▲차석홍씨 별세, 유연옥씨 남편상, 차두원(퓨처링크 대표이사)ㆍ차은숙씨 부친상, 금효영씨 시부상, 전종필씨 장인상 = 26일 오후 2시27분, 분당서울대학교병원 장례식장 11호실, 발인 29일 오전 6시, 장지 성남시장례문화사업소ㆍ용인천주교묘원. 장례미사 28일 오후 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-26T13:41:00.000Z"
+  },
+  {
+    "id": "536a46f06b58ccc7b965670adf2a4fa5",
+    "source": "engdaily",
+    "title": "“균열 메워도 벌점, 시공사 사정에 설계변경”…발주청에 휘둘리는 엔지니어링사",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23970",
+    "publishedAt": "2026-11-26T08:34:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-11-26T08:34:00.000Z"
+  },
+  {
+    "id": "b39fe8931bf1f260e8bdc464fe9c2d65",
+    "source": "engdaily",
+    "title": "현대스틸산업, 신안군에 1,100억원 들여 해상풍력 전용 배후기지 조성",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23967",
+    "publishedAt": "2026-11-26T06:54:00.000Z",
+    "summary": null,
+    "filter": "풍력",
+    "createdAt": "2026-11-26T06:54:00.000Z"
+  },
+  {
+    "id": "e6f4000f3aed6004e3d9e24d002b1bb1",
+    "source": "engdaily",
+    "title": "가덕도 신공항 공사비, 특별법 개정으로 현실화 준비",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23966",
+    "publishedAt": "2026-11-26T06:36:00.000Z",
+    "summary": null,
+    "filter": "공항",
+    "createdAt": "2026-11-26T06:36:00.000Z"
+  },
+  {
     "id": "c289c3069089823f881da8243dbd8d2b",
     "source": "dnews",
     "title": "유진그룹 “YTN 인수 과정서 특정인 개입 없어”",
@@ -224,6 +265,50 @@
     "source": "dnews",
     "title": "서울의 밤, 안심하고 즐긴다…‘반딧불이버스’ 27일 운행 ..",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261034419710743",
+    "publishedAt": "2026-11-26T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "id": "800f2f9e299b03916b2274455a68807b",
+    "source": "dnews",
+    "title": "서한, ’남해 월포 자연재해위험개선지구 정비사업’ 수주 유력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261545381170832",
+    "publishedAt": "2026-11-26T03:00:00.000Z",
+    "content": "서한(대표 정우필)이 ‘월포 자연재해위험개선지구 정비사업’ 수주에 다가섰다.26일 조달청에 따르면 이날 경상남도 남해군 수요의 이 공사에 대한 개찰 결과, 서한은 예정가격 대비 85.018%인 203억797만원을 적어내 적격심사 1순위에 올랐다.강원특별자치도 태백시 수 ...",
+    "summary": null,
+    "filter": "조달청",
+    "createdAt": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "id": "ecceb50f899a00a8b21186856864104a",
+    "source": "dnews",
+    "title": "“사고 한 건에 겹겹 제재…기준 손봐야”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261552051090834",
+    "publishedAt": "2026-11-26T03:00:00.000Z",
+    "content": "영업정지 끝나도 PQ 감점 설계 벌점이 감리 수주까지 좌우 법정 과업 대가 반영 한목소리 촉구[대한경제=전동훈 기자]건설사고나 설계 부실 한 건에 행정처분과 입찰 불이익이 꼬리를 무는 현행 건설엔지니어링 제재 체계를 손질해야 한다는 지적이 나왔다.26일 국회의원회관 제 ...",
+    "summary": null,
+    "filter": "건설엔지니어링",
+    "createdAt": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "id": "59d1f9f063249b8f6a9aef41624a5d8f",
+    "source": "dnews",
+    "title": "“소방관으로 대접받고 있다고 느꼈다”",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261557233720837",
+    "publishedAt": "2026-11-26T03:00:00.000Z",
+    "content": "소방관과 가족들, 힐링과 쉼의 시간남원에서 두차례…198명 초청[대한경제=박재영 기자] “십수 년 소방 생활에서 직업으로 자긍심이나 자부심을 느낀 일이 손에 꼽을 정도였는데, 이번 행사로 소방관으로서 대접받고 있다고 느꼈다. 일터로 돌아가 처음 소방관이 되었던 그날의 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "id": "562bc688a8a68be38997b9ec927ca93b",
+    "source": "dnews",
+    "title": "골목안전 지킨 관악구, 범죄예방대상 대통령표창 수상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261649092180852",
     "publishedAt": "2026-11-26T03:00:00.000Z",
     "content": "",
     "summary": null,
