@@ -1,5 +1,59 @@
 [
   {
+    "id": "bced385944c3d9e90c84672929c04cd2",
+    "source": "engdaily",
+    "title": "대영+KG, 진해신항 서컨 2단계 항만배후 조성공사 수주 유력",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23987",
+    "publishedAt": "2026-11-27T04:49:00.000Z",
+    "summary": null,
+    "filter": "항만",
+    "createdAt": "2026-11-27T04:49:00.000Z"
+  },
+  {
+    "id": "9a2f6f7cffa6c365fa87243ece7d7270",
+    "source": "dnews",
+    "title": "[부음] 이성호(이도 인프라사업부문장)씨 빙부상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271330325920960",
+    "publishedAt": "2026-11-27T04:31:00.000Z",
+    "content": "▲도재록씨 별세,이성호(이도 인프라사업부문장)씨 빙부상 = 27일, 한양대학병원장례식장 특6호실(지하1층ㆍ서울 성동구 왕십리로 222-1), 발인 29일 오전 6시.(02)-2290-9442〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재배포금지 ...",
+    "summary": null,
+    "filter": "인프라",
+    "createdAt": "2026-11-27T04:31:00.000Z"
+  },
+  {
+    "id": "9c4a3152eafed02de3638e5ce110ed9d",
+    "source": "dnews",
+    "title": "GSㆍ롯데건설, 평택지제 차량기지 발 빼나 ‘촉각’",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261414248440803",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "5506억 턴키 2공구 다음달 발주수주경쟁 유력 후보군 꼽혔지만기술형 잇단 패배로 분위기 위축동력 약화 우려…수주 판도 요동[대한경제=백경민 기자]남부내륙철도 이후 국가철도공단의 후속 기술형입찰인 ‘평택지제 차량기지 제2공구 건설공사’가 다음달 발주를 앞두고 유력 후보 ...",
+    "summary": null,
+    "filter": "턴키",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "2b02c434e09f183cc03055c61c69f99c",
+    "source": "dnews",
+    "title": "코오롱ㆍ쌍용, ‘천안 성거~목천 도로공사’ 수주 눈앞",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261640092920850",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "코오롱글로벌(대표 김영범)과 쌍용건설(대표 김인수)이 ‘천안시 국도대체우회도로 (성거∼목천) 건설공사 1~2공구’ 수주에 나란히 다가섰다. 26일 조달청에 따르면 종합심사낙찰제인 이 공사에 대한 개찰 및 입찰금액 심사 결과, 코오롱글로벌이 1공구에 예정가격 대비 84. ...",
+    "summary": null,
+    "filter": "종합심사낙찰제",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "95338a5f12dbe0fd810dd9d271439688",
+    "source": "dnews",
+    "title": "인구 15억 인도도 일손 줄이는 PC 택했다",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231504326530210",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "노동력 넘쳐도 청년은 현장 기피43층 타워 8개동 모두 PC로 시공현장엔 800~900명 대신 110명만층당 공기도 ‘15~21→8~10일’로국내는 30년 넘게 주차장ㆍ공장만주거ㆍ고층 건물에 적용 확대 과제[대한경제=김민수 기자]총 15억명에 가까운 인구로 풍부한 노동 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
     "id": "b9b5a1b0d2ec91ed679bfbf05447a4f2",
     "source": "dnews",
     "title": "[2026 지진 재난대응 면진 기술 세미나] (3) “인허가 간소화·성능 중심 발주체계 확립 시급”",
@@ -77,14 +131,89 @@
     "createdAt": "2026-11-27T03:00:00.000Z"
   },
   {
-    "id": "95338a5f12dbe0fd810dd9d271439688",
+    "id": "cb5f3d87cfedbe3b84c80184b9bc2a09",
     "source": "dnews",
-    "title": "인구 15억 인도도 일손 줄이는 PC 택했다",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231504326530210",
-    "publishedAt": "2026-11-26T21:00:00.000Z",
-    "content": "노동력 넘쳐도 청년은 현장 기피43층 타워 8개동 모두 PC로 시공현장엔 800~900명 대신 110명만층당 공기도 ‘15~21→8~10일’로국내는 30년 넘게 주차장ㆍ공장만주거ㆍ고층 건물에 적용 확대 과제[대한경제=김민수 기자]총 15억명에 가까운 인구로 풍부한 노동 ...",
+    "title": "[도시정비시장 풍향계] 전농15구역, 추진위 승인…조합설립 본격화",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271037534460929",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]서울 동대문구 전농15구역이 조합설립을 향한 본격적인 단계에 들어섰다.27일 도시정비업계에 따르면 동대문구는 전날 전농동 152-65번지 일대(전농15구역) 재개발 사업 조합설립추진위원회(추진위) 설립을 승인했다. 추진위는 전체 토지등소유자 86 ...",
     "summary": null,
     "filter": "soc",
-    "createdAt": "2026-11-26T21:00:00.000Z"
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "609feef974d9d44ac6af227396a4c868",
+    "source": "dnews",
+    "title": "[부고] 김익환(전 기아자동차 부회장)씨 모친상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271222235930948",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "▲정옥순씨 별세, 김익환(전 기아자동차 부회장)ㆍ김신환(자영업)ㆍ김관숙ㆍ김영숙(전 국민대 교수)ㆍ김정숙ㆍ김지윤씨 모친상, 김국희ㆍ정영란씨 시모상, 황승규ㆍ조효구(전 용인대 교수)씨 장모상 = 26일 오후 2시30분, 교원예움 강원장례식장 201호실, 발인 29일 오전 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "de6c30857a1cc92d6cfb2c72448b04eb",
+    "source": "dnews",
+    "title": "IPARK현대산업개발, 강민석 부사장 대표 임명",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271215324640946",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "[대한경제=이종무 기자]HDC그룹은 IPARK현대산업개발 대표이사에 강민석 부사장을 선임했다.HDC그룹은 계열사 대표이사 선임 8명, 승진 15명 등 23명에 대한 정기 인사를 내달 1일부로 실시한다고 27일 발표했다.창립 50주년을 맞아 재정립한 그룹 비전을 경영 성 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "17012b2be6d6309c68ecb15c58b72d61",
+    "source": "dnews",
+    "title": "[인사] HDC그룹",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271152379800942",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "<대표이사 선임>◇IPARK현대산업개발△강민석 ◇호텔IPARK, IPARK리조트△조영환◇IPARK신라면세점△이진욱◇북항아이브리지△김정섭◇마산아이포트△유병철◇IPARK스포츠△우상범◇IPARK마리나△공상욱◇인천신항배후단지△박경신 <임원 승진>◇HDC△부사장 도기탁◇IPA ...",
+    "summary": null,
+    "filter": "단지",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "457740b50468dbe8e22831b4f15613bf",
+    "source": "dnews",
+    "title": "[부음] 전종필(삼보기술단 철도사업본부 전무)씨 빙부상",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271102326570935",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "▲차석홍씨 별세, 전종필(삼보기술단 철도사업본부 전무)씨 빙부상 = 27일, 분당서울대학교병원 장례식장 11호실(경기도 성남시 분당구 구미로173번길 82), 발인 29일. (031)787-1500〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재 ...",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "ee456d161ef3e9b6bf901d879826fa38",
+    "source": "dnews",
+    "title": "강원대ㆍ군산대 생활관 BTL 주인찾기 나서",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261249282190776",
+    "publishedAt": "2026-11-27T02:00:00.000Z",
+    "content": "사업비 각각 325억ㆍ267억 책정내달 PQ 접수…내년 3월 계획서 제출2028년 착공ㆍ2029년 준공 목표[대한경제=전동훈 기자]강원대와 국립군산대가 학생 생활관 임대형 민간투자사업(BTL)을 맡을 사업자 선정 절차에 나란히 돌입했다. 총사업비 593억원 규모로, 내 ...",
+    "summary": null,
+    "filter": "PQ",
+    "createdAt": "2026-11-27T02:00:00.000Z"
+  },
+  {
+    "id": "513d2b17bb1ca4a5e1b011af80c9d5a9",
+    "source": "engdaily",
+    "title": "경북도, 서대구~의성 대구경북광역철도 포함 6개 사업 예타 통과",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23986",
+    "publishedAt": "2026-11-27T01:49:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-11-27T01:49:00.000Z"
+  },
+  {
+    "id": "d7be397cc9602543bc162a9bd03c254a",
+    "source": "engdaily",
+    "title": "남부내륙철도 1·7·9공구 CM 발주…모두 100억원대",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23982",
+    "publishedAt": "2026-11-27T01:03:00.000Z",
+    "summary": null,
+    "filter": "철도",
+    "createdAt": "2026-11-27T01:03:00.000Z"
   }
 ]
