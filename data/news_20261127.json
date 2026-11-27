@@ -1,5 +1,36 @@
 [
   {
+    "id": "771adbf9c0aa94ac1601cd5c157bb6a6",
+    "source": "engdaily",
+    "title": "커트라인 높아진 엔지니어링사…\"서성한도 중견사 탈락\"",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23991",
+    "publishedAt": "2026-11-27T08:50:00.000Z",
+    "summary": null,
+    "filter": "엔지니어링",
+    "createdAt": "2026-11-27T08:50:00.000Z"
+  },
+  {
+    "id": "df494ffd1a1eda8c446dd8462fa41e96",
+    "source": "dnews",
+    "title": "건설기술인協, 제3호 도시등대 프로젝트 참여…아동복지시설 환경개선에 힘 보태",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271732402940001",
+    "publishedAt": "2026-11-27T08:33:00.000Z",
+    "content": "[대한경제=정석한 기자]한국건설기술인협회(회장 박종면, 이하 협회)가 아동복지시설의 주거여건 향상을 위한 나눔에 동참하며 지역사회에 온기를 전했다.협회는 한국여성건설인협회(회장 박경)가 주관하는 ‘도시등대 프로젝트’의 후원기관으로 나서, 서울 강동구 소재 아동복지시설 ...",
+    "summary": null,
+    "filter": "건설기술인협회",
+    "createdAt": "2026-11-27T08:33:00.000Z"
+  },
+  {
+    "id": "6c171dbd6cce9cc518ada4ba8a18579a",
+    "source": "engdaily",
+    "title": "호남선 가수원~논산 고속화 노반 기본·실시 설계 종심제 발주",
+    "link": "https://www.engdaily.com/news/articleView.html?idxno=23988",
+    "publishedAt": "2026-11-27T05:39:00.000Z",
+    "summary": null,
+    "filter": "종심제",
+    "createdAt": "2026-11-27T05:39:00.000Z"
+  },
+  {
     "id": "bced385944c3d9e90c84672929c04cd2",
     "source": "engdaily",
     "title": "대영+KG, 진해신항 서컨 2단계 항만배후 조성공사 수주 유력",
@@ -183,6 +214,50 @@
     "content": "▲차석홍씨 별세, 전종필(삼보기술단 철도사업본부 전무)씨 빙부상 = 27일, 분당서울대학교병원 장례식장 11호실(경기도 성남시 분당구 구미로173번길 82), 발인 29일. (031)787-1500〈ⓒ 대한경제신문(www.dnews.co.kr), 무단전재 및 수집, 재 ...",
     "summary": null,
     "filter": "철도",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "17f4101813b15004edf2aee297f8499e",
+    "source": "dnews",
+    "title": "건설기술교육원, 계양구자원봉사센터와 사회공헌ㆍ자원봉사 MOU",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271729056280998",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "[대한경제=정석한 기자]건설기술교육원(원장 권대철)은 이달 23일 계양구자원봉사센터(센터장 홍순석)와 지역사회 사회공헌 및 자원봉사 활성화를 위한 업무협약(MOU)을 체결했다.이번 협약으로 양 기관은 △지역사회 발전 및 환경개선을 위한 자원봉사 활동 협력 △지역사회 취 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "3b548a0f5954752a41c3be2fad0482a2",
+    "source": "dnews",
+    "title": "호반 CVC 플랜에이치벤처스, ‘모두의 창업’ 참여팀 육성",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271846361120011",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "사업 협력ㆍ역량 강화…투자 기반 확대 지원61억 벤처투자조합 결성…계열사 협력 기회도[대한경제=이종무 기자]호반그룹의 기업형 벤처캐피탈(CVC) 플랜에이치벤처스는 ‘스텝-업 위드 플랜에이치벤처스: 커넥트 앤드 인베스트’를 개최했다고 27일 밝혔다.이는 중소벤처기업부의 ...",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "7dd250f815b03ddf9eddd86e19b5186c",
+    "source": "dnews",
+    "title": "서교공, \"정부, 무임수송 보상 5768억원 반영해야\"",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271516412630973",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
+    "createdAt": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "id": "c80e37523e159da2c44d616258c2781f",
+    "source": "dnews",
+    "title": "외국인 인플루언서가 알린 서울 2500만 조회수 기록",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611271419078320968",
+    "publishedAt": "2026-11-27T03:00:00.000Z",
+    "content": "",
+    "summary": null,
+    "filter": "soc",
     "createdAt": "2026-11-27T03:00:00.000Z"
   },
   {
